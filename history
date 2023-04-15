@@ -1,0 +1,6799 @@
+    1  ls
+    2  c
+    3  clr
+    4  clear
+    5  ls -al
+    6  cd
+    7  echo -k > ~/.curlc
+    8  cat ~/.curlc
+    9  rm ~/.curlc
+   10  echo -k > ~/.curlrc
+   11  rm ~/.curlrc
+   12  echo -k > ~/.curlrc
+   13  cat ~/.curlrc
+   14  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   15  brew install --cask virtualbox
+   16  echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/josemunoz/.zprofile
+   17   echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/josemunoz/.zprofile
+   18   eval "$(/opt/homebrew/bin/brew shellenv)"
+   19  brew install --cask virtualbox
+   20  brew install --cask vagrant
+   21  `sudo softwareupdate --install-rosetta`
+   22  brew install --cask vagrant
+   23  brew install hashicorp/tap/hashicorp-vagrant
+   24  `sudo softwareupdate --install-rosetta`
+   25  pwd
+   26  ls -al
+   27  cat .curlrc
+   28  source .curlrc
+   29  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   30  source .curlrc
+   31  source .curlrc
+   32  cat .curlrc
+   33  brew install --cask vagrant
+   34  `sudo softwareupdate --install-rosetta`
+   35  sudo softwareupdate --install-rosetta
+   36  brew install --cask vagrant
+   37  brew install --cask vagrant-manager
+   38  brew install git
+   39  brew install --cask homebrew/cask-versions/adoptopenjdk8
+   40  brew install maven
+   41  brew install --cask intellij--idea
+   42  brew install --cask intellij-idea
+   43  brew install --cask intellij-idea-ce
+   44  brew install --cask sublime-text
+   45  brew install awscli
+   46  sublime
+   47  which csh
+   48  which zsh
+   49  which sublime
+   50  brew install --cask sublime-text
+   51    brew reinstall --cask sublime-text\n
+   52  echo $path
+   53  subl
+   54  which sublime
+   55  which sublime-text
+   56  cd /opt/homebrew/sbin
+   57  ls
+   58  ls -al
+   59  cd ..
+   60  ls -al
+   61  cd
+   62  docker version
+   63  docker info
+   64  cat /etc/release
+   65  cd /etc
+   66  ls
+   67  ls r*
+   68  cd
+   69  cd
+   70  docker version
+   71  cd
+   72  $ docker run docker/whalesay cowsay boo\n
+   73  docker version
+   74  docker pull docker/whalesay
+   75  $ docker run docker/whalesay cowsay boo
+   76  PATH=/bin:/usr/bin:/usr/local/bin:${PATH}\n
+   77  export PATH\n
+   78  $ docker run docker/whalesay cowsay boo
+   79  docker run docker/whalesay cowsay boo
+   80  pwd
+   81  ls -al
+   82  docker ps
+   83  docker ps -a
+   84  exec /bin/zsh\n
+   85  PATH=/bin:/usr/bin:/usr/local/bin:${PATH}\n
+   86  export PATH\n
+   87  cd
+   88  pwd
+   89  mkdir udemy
+   90  cd udemy
+   91  mkdir docker
+   92  cd docker
+   93  docker run nginx
+   94  ls
+   95  cd udemy/docker
+   96  ll
+   97  la
+   98  ls
+   99  ls -L
+  100  ls -a
+  101  docker ps
+  102  docker run nginx
+  103  docker ps -a
+  104  docker ps -a
+  105  docker stop whalesay
+  106  docker stop docker/whalesay
+  107  docker stop laughing_newton
+  108  docker stop jolly_grothendieck
+  109  docker stop affectionate_grothendieck
+  110  docker ps -a
+  111  docker rm affectionate_grothendieck
+  112  docker rm jolly_grothendieck
+  113  docker rm laughing_newton
+  114  docker ps -a
+  115  history
+  116  docker images
+  117  docker rmi nginx
+  118  docker images
+  119  docker rmi docker/whalesay
+  120  docker images
+  121  docker run centos
+  122  docker images
+  123  run -it centos bash
+  124  echo $PATH
+  125  ls -al
+  126  vi .zshrc
+  127  ls -al
+  128  vi .zshrc
+  129  car .zhrc
+  130  car .zshrc
+  131  cat .zshrc
+  132  source .zshrc
+  133  run -it centos bash
+  134  echo $PATH
+  135  cd /opt/homebrew/sbin
+  136  ls
+  137  ls -al
+  138  cd ../bin
+  139  ls -al
+  140  ls
+  141  ls -al | more
+  142  export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"\n
+  143  ls -al | more
+  144   c
+  145   c
+  146   cd
+  147  pwd
+  148  run -it centos bash
+  149  which run
+  150  echo $path
+  151  echo $PATH
+  152  source .zshrc
+  153  echo $path
+  154  which run
+  155  cd /opt
+  156  ls
+  157  ls -alret
+  158  cd homebrew
+  159  ll
+  160  ls -al
+  161  find . -name run -ls
+  162  cd sbin
+  163  ls
+  164  ls -al
+  165  pwd
+  166  exit
+  167  which run
+  168  source sh
+  169  run sh
+  170  ls -al
+  171  cd
+  172  ls -al
+  173  sudo app-install thefuck
+  174  sudo app install thefuck
+  175  app install thefuck
+  176  sudo apt install thefuck
+  177  pwd
+  178  ls 
+  179  ls -al
+  180  source .zshrc
+  181  which run
+  182  cd '' && '/usr/local/bin/python3' -v -i  '<your script here>'  && echo Exit status: $? && exit 1
+  183  which run
+  184  pwd
+  185  source .zshrc
+  186  which run
+  187  which ls
+  188  cd /bin
+  189  ls
+  190  which ls
+  191  cat zsh
+  192  1;2c
+  193  ls
+  194  ./zsh
+  195  which run
+  196  ls
+  197  pwd
+  198  ls -al
+  199  pwd
+  200  ls
+  201  ls -al
+  202  pwd
+  203  ls -al
+  204  cat .zpr
+  205  cat .zprofile
+  206  cat .zshrc
+  207  cd /opt
+  208  ls
+  209  ls -al
+  210  cd homebrew
+  211  ls -al
+  212  ls
+  213  cd sbin
+  214  ll
+  215  ls
+  216  ls =al
+  217  ls -la
+  218  cd ..
+  219  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n\n
+  220  pwd
+  221  ls -altre
+  222  cd bin
+  223  ls
+  224  ls -al
+  225  cd 
+  226  which ls
+  227  which run
+  228  echo $0
+  229  chsh -s /bin/bash\n
+  230  echo $0
+  231  which run
+  232  cd
+  233  brew update && brew install bash && sudo chsh -s /usr/local/bin/bash $(whoami)\n\n
+  234  echo $0
+  235  cd
+  236  bach --version
+  237  bash --version
+  238  echo $0
+  239  brew update && brew install bash && sudo chsh -s /usr/local/bin/bash $(whoami)\n\n
+  240    brew reinstall bash\n
+  241  brew update && brew install bash && sudo chsh -s /usr/local/bin/bash $(whoami)\n\n
+  242  echo $0
+  243  xcode-select --install
+  244  pwd
+  245  ls
+  246  cd /bin
+  247  ls
+  248  which run
+  249  ./zsh
+  250  ls -al
+  251  docker images
+  252  cat /etc/*release*
+  253  cd /etc
+  254  ls
+  255  cd r*
+  256  ls r*
+  257  cd
+  258  dorcker run -it centos bash
+  259  docker run -it centos bash
+  260  clear
+  261  docker ps
+  262  docker run -it centos bash
+  263  docker ps
+  264  docker -d run  centos sleep 20 
+  265  docker run  -d centos sleep 20 
+  266  docker ps
+  267  docker ps
+  268  docker ps
+  269  docker ps -a
+  270  docker ps -a
+  271  clear
+  272  docker ps -a
+  273  docker run  -d centos sleep 2000 
+  274  docker ps -a
+  275  docker stop b1e24e3eaf37
+  276  docker ps -a
+  277  docker ps 
+  278  docker rm b1e24 fe7e fe7e 
+  279  docker ps 
+  280  docker ps -a
+  281  docker rm 42a1f29f434f e363b9626dcf  793c39bf4a21
+  282  docker ps -a
+  283  docker image
+  284  docker images
+  285  docker rmi centos
+  286  docker images
+  287  pwd
+  288  cd devopsjmm
+  289  ls
+  290  cd git-test
+  291  ls
+  292  ls -al
+  293  https://github.com/devopsjmm/GitMundosE.git
+  294  echo "# GitMundosE" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/devopsjmm/GitMundosE.git\ngit push -u origin main
+  295  clear
+  296  ls
+  297  ls -al
+  298  more README.md
+  299  git init
+  300  git add README.md
+  301  ls -altr
+  302  git commit -m "first commit"
+  303  git config --global user.email "devopsjmm@gmail.com"
+  304  git config --global user.name "devopsJmm"
+  305  ls -alre
+  306  git commit -m "first commit"
+  307  ls -alr
+  308  git branch -M main
+  309  git remote add origin https://github.com/devopsjmm/GitMundosE.git
+  310  git push -u origin main
+  311  git push -u origin main
+  312  git push -u origin main
+  313  git push -u origin main
+  314  git push -u origin main
+  315  git push -u origin main
+  316  git push -u origin main
+  317  exit
+  318  brew install git
+  319  sudo port install git\n\n
+  320  port install git\n\n
+  321  brew install git-gui
+  322  ls
+  323  mkdir devopsjmm
+  324  cd devopsjmm
+  325  mkdir git-test
+  326  cd git-test
+  327  git init
+  328  ls -al
+  329  cat .git
+  330  ls .git
+  331  cd devopsjmm
+  332  ll
+  333  ls -al
+  334  cd git-test
+  335  ls -al
+  336  git push -u origin main
+  337  cd
+  338  cd
+  339  vi .zshrc
+  340  sourcd .zshrc
+  341  vi .zshrc
+  342  source .zshrc
+  343  ll
+  344  alias
+  345  man
+  346  whence run
+  347  ls
+  348  source .zshrc
+  349  ll
+  350  alias
+  351  cd /opt/homebrew
+  352  ll
+  353  ls -al
+  354  cd etc
+  355  ls
+  356  cat bash_completion.d
+  357  cd bash_completion.d
+  358  ls
+  359  ls -alrt
+  360  cd ..
+  361  ls
+  362  cd ..
+  363  ll
+  364  ls =al
+  365  ls -al
+  366  cd sbin
+  367  ls
+  368  ls -al
+  369  cd .
+  370  cd ..
+  371  ls -al
+  372  cd bin
+  373  ls -al
+  374  ls
+  375  ./bash
+  376  ls =al
+  377  ls -alr
+  378  ./bash
+  379  ll
+  380  ls -al
+  381  which run
+  382  git --version
+  383  git push -u origin main
+  384  cd
+  385  brew install git
+  386  sudo
+  387  sudo port install git
+  388  port install git
+  389  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  390  ll
+  391  la
+  392  cat .zshrc
+  393  aliases
+  394  alias
+  395  c
+  396  clr
+  397  clear
+  398  ll
+  399  cd
+  400  ls -al
+  401  pwd
+  402  echo $0
+  403  which run
+  404  echo $0
+  405  ls -al
+  406  htop
+  407  mem
+  408  docker version
+  409  ls -al
+  410  docker version
+  411  echo $0
+  412  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  413  brew --version
+  414  bre install qemu
+  415  cd
+  416  brew install qemu
+  417  /var/folders/j1/9hypp5gn5hq669mqct58z_jh0000gn/T/multipass-gui.MEcuRn.command ; exit;
+  418  /var/folders/j1/9hypp5gn5hq669mqct58z_jh0000gn/T/multipass-gui.ylvHpX.command ; exit;
+  419  /var/folders/j1/9hypp5gn5hq669mqct58z_jh0000gn/T/multipass-gui.HepkMR.command ; exit;
+  420  multipass help
+  421  multipass version
+  422  multipass launch -c 4 -m 4G -d 25G
+  423  mutlipass list
+  424  multipass list
+  425  multipass info passionate-spitz
+  426  multipass shell passionate-spitz
+  427  multipass version
+  428  multipass info passionate-spitz
+  429  multipass help
+  430  multipass info passionate-spitz
+  431  multipass delete passionate-spitz
+  432  multipass list
+  433  multipass info passionate-spitz
+  434  multipass help
+  435  multipass list
+  436  multipass launch -c 4 -m 4G -d 30G
+  437  mutlipass list
+  438  multipass info 
+  439  multipass list
+  440  multipass info beautified-pompano
+  441  multipass version
+  442  multipass shell beautified-pompano
+  443  multipass version
+  444  multipass info 
+  445  multipass help
+  446  multipass list
+  447  multipass shell beautified-pompan
+  448  multipass shell beautified-pompano
+  449  /var/folders/j1/9hypp5gn5hq669mqct58z_jh0000gn/T/multipass-gui.chNgiD.command ; exit;
+  450  ls
+  451  ls -al
+  452  multipass list
+  453  help
+  454  item2
+  455  c
+  456  clear
+  457  alias
+  458  vi .zshrc
+  459  pwd
+  460  ls
+  461  ls -al
+  462  vi .zshrc.pre-oh-my-zsh
+  463  c
+  464  vi .zshrc.pre-oh-my-zsh
+  465  exit
+  466  c
+  467  clear
+  468  ls -altr
+  469  ca .zshrc
+  470  cat .zshrc
+  471  ls -altr
+  472  vi ,z
+  473  vi .zshrc
+  474  cat .zshrc.pre-oh-my-zsh >> ~/.my-zsh
+  475  ls -altr
+  476  source ~/.zshrc
+  477  l
+  478  ll
+  479  c
+  480  clear
+  481  vi .my-zsh
+  482  source ~/.zshrc
+  483  c
+  484  clear
+  485  vi .my-zsh
+  486  source .my-zsh
+  487  c
+  488  q
+  489  ll
+  490  vi .my-zsh
+  491  source .my-zshc
+  492  source ~/.my-zsh
+  493  q
+  494  quit
+  495  c
+  496  clear
+  497  lls
+  498  l
+  499  alias c "clear"
+  500  ls
+  501  ll
+  502  c
+  503  clear
+  504  vi .my-zsh
+  505  source ~/.my-zsh
+  506  ll
+  507  c
+  508  ll
+  509  ls -al
+  510  la
+  511  ls -altr
+  512  chmod 755 .zshrc*
+  513  chmod 755 .my-zsh
+  514  source ~/.my-zsh
+  515  c
+  516  ll
+  517  l
+  518  ls -altr
+  519  multipass list
+  520  mutlipass purge
+  521  multipass purge
+  522  multipass list
+  523  c
+  524  clr
+  525  clear
+  526  ll
+  527  clear
+  528  ls
+  529  ls a
+  530  ls -a
+  531  pwd
+  532  multipass list
+  533  git
+  534  git --help
+  535  git help
+  536  la
+  537  git help
+  538  git -v 
+  539  history | grep -i "launch"
+  540  multipass launch -c 4 -m 4G -d 30G
+  541  history | grep -i "shell"
+  542  history | grep -i "multipass"
+  543  multipass list
+  544  multipass shell exotic-rhinoceros
+  545  ll
+  546  multipass list
+  547  multipass shell primary
+  548  /var/folders/j1/9hypp5gn5hq669mqct58z_jh0000gn/T/multipass-gui.rTeXie.command ; exit;
+  549  history | grep xrd
+  550  history | grep xr
+  551  history | grep x
+  552  ll
+  553  ls -al
+  554  cd de
+  555  ll
+  556  ls -al
+  557  pwd
+  558  ls 
+  559  cd devopsjmm
+  560  ll
+  561  vi git-test
+  562  ll
+  563  cd ..
+  564  ll
+  565  ls -altr
+  566  ps mutlipass list
+  567  mutlipass list
+  568  multipass list
+  569  multipass shell primary
+  570  quemu
+  571  qemu
+  572  ll
+  573  cd
+  574  brew --version
+  575  cat notes
+  576  ls
+  577  ls -al
+  578  ls -altr
+  579  brew install qemu
+  580  multipass --version
+  581  multipass help
+  582  multipass -c 4 -n 4G -d 30G
+  583  multipass -c 4 -m 4G -d 30G
+  584  whixh multipass
+  585  which multipass
+  586  multipass list
+  587  multipass stop primary beautified-pompano exotic-rhinoceros
+  588  multipass list
+  589  multipass start primary
+  590  multipass list
+  591  clear
+  592  multipass shell primary
+  593  ip -a
+  594  cd
+  595  ip -a
+  596  ll
+  597  multipass shell primary
+  598  ll
+  599  ip -a
+  600  multipass list
+  601  multipass stop primary
+  602  multipass delete primary
+  603  multipass delete beautified-pompano exotic-rhinoceros 
+  604  multipass list
+  605  multipass purge
+  606  multipass list
+  607  multipass -c 4 -m 4G -d 30G
+  608  multipass launch -c 4 -m 4G -d 30G
+  609  multipass list
+  610  multipass shell durable-shoebill
+  611  multipass list
+  612  multipass stop durable-shoebill 
+  613  multipass purge
+  614  multipass list
+  615  multipass delete  durable-shoebill 
+  616  multipass purge
+  617  multipass list
+  618  pwd
+  619  multipass list
+  620  multipass launch -c 4 -m 4G -d 30G
+  621  multipass list
+  622  multipass shell understood-houndshark 
+  623  /var/folders/j1/9hypp5gn5hq669mqct58z_jh0000gn/T/multipass-gui.YthsLy.command ; exit;
+  624  ll
+  625  multipass list
+  626  multipass delete primary
+  627  multipass delete understood-houndshark
+  628  multipass list
+  629  multipass purge
+  630  multipass list
+  631  multipass launch -c 4 -m 4G -d 30G
+  632  multipass list
+  633  multipass shell authentic-topi
+  634  docker --version
+  635  ll
+  636  docker --version
+  637  ls -altre
+  638  cd
+  639  c
+  640  docler --version
+  641  docker --version
+  642  docker login devopsjmm
+  643  docker run -d -p 80:80 docker/getting-started
+  644  docker login 
+  645  mkdir devopsjmm
+  646  ll
+  647  cd de
+  648  cd devopsjmm
+  649  ll
+  650  docker pull nginx
+  651  docker images
+  652  docker pull nginx:1.23.1
+  653  docker images
+  654  docker rmi 1db0b6ded6ab
+  655  docker images
+  656  docker run nginx:1.23.1 
+  657  clear
+  658  ll
+  659  cd devopsjmm
+  660  ll
+  661  c
+  662  clear
+  663  ls -altr
+  664  pwd
+  665  ll
+  666  docker ps
+  667  deocker ps -a
+  668  docker ps -a
+  669  docker stop ea
+  670  docker ps -a
+  671  docker restart ea
+  672  docker ps -a
+  673  ls -ate
+  674  ll
+  675  clear
+  676  vi ~/.
+  677  pwd
+  678  mkdir dockmast
+  679  cd dockmast
+  680  git clone https://github.com/BretFisher/udemy-docker-mastery.git
+  681  ll
+  682  cd udemy-docker-mastery
+  683  ll
+  684  cd ..
+  685  mv udemy-docker-mastery ../
+  686  cd ..
+  687  ll
+  688  rm dockmast
+  689  rm -ir dockmast
+  690  ll
+  691  cd 
+  692  cd udemy
+  693  ll
+  694  cd docker
+  695  ll
+  696  ls -altr
+  697  pwd
+  698  cd ..
+  699  ll
+  700  cd ..
+  701  ll
+  702  pwd
+  703  ls -altr
+  704  cd de
+  705  cd devopsjmm
+  706  ll
+  707  cd udemy-docker-mastery
+  708  ll
+  709  ls -altr
+  710  ll
+  711  ping 192.168.64.9
+  712  ssh
+  713  ssh root@192.168.64.9 
+  714  ssh ubuntu@192.168.64.9 
+  715  hostname
+  716  ssh ubuntu@authentic-topi
+  717  127.0.1.1
+  718  ssh ubuntu@127.0.1.1
+  719  ping 127.0.1.1
+  720  sudo docker run hello-world
+  721  sudo service docker restart
+  722  ll
+  723  docker --version
+  724  docker version
+  725  docker images
+  726  docker version
+  727  docker restart help
+  728  docker help
+  729  docker images
+  730  docker restart d8906c7d4c44
+  731  exit
+  732  ip -a
+  733  exit
+  734  docker restart d8906c7d4c44
+  735  docker images
+  736  docker rmi 1db0b6ded6ab
+  737  docker -i
+  738  docker --hosts list
+  739  docker version
+  740  docker help
+  741  docker version
+  742  docker images
+  743  cd /Applications
+  744  ll
+  745  cd Docker.app
+  746  ll
+  747  cd Contents
+  748  ll
+  749  cd MacOS
+  750  ll
+  751  pwd
+  752  whoami
+  753  ll
+  754  ./uninstall
+  755  ll
+  756  ./install
+  757  ll
+  758  pwd
+  759  cd
+  760  pwd
+  761  ll
+  762  cd ded
+  763  cd devopsjmm
+  764  ll
+  765  cd udemy-docker-mastery
+  766  ll
+  767  ls
+  768  ls -al
+  769  ll
+  770  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git\ndocker cp repo:/git/getting-started/ .\n
+  771  docker images
+  772  cd getting-started\ndocker build -t docker101tutorial .\n
+  773  docker run -d -p 80:80 --name docker-tutorial docker101tutorial\n
+  774  docker tag docker101tutorial devopsjmm/docker101tutorial\ndocker push devopsjmm/docker101tutorial
+  775  ll
+  776  pwd
+  777  ll
+  778  cd ..
+  779  ll
+  780  docker cersion
+  781  docker version
+  782  clear
+  783  docker info
+  784  docker
+  785  cd
+  786  ll
+  787  cd Documents
+  788  ll
+  789  pwd
+  790  ll
+  791  cd 
+  792  ll
+  793  cd Downloads
+  794  ll
+  795  cd
+  796  pwd
+  797  ll
+  798  cd udemy
+  799  ll
+  800  cd docker
+  801  ll
+  802  ls -al
+  803  pwd
+  804  docker version
+  805  clear
+  806  docker info
+  807  clear
+  808  docker info
+  809  docker
+  810  clear
+  811  docker container run --publish 80:80 nginx
+  812  docker container run --publish 81:81 nginx
+  813  docker container run --publish 81:81 nginx &
+  814  fg
+  815  docker container run --publish 81:81 --detach nginx 
+  816  ll
+  817  clear
+  818  ll
+  819  ls
+  820  docker -ps
+  821  docker ps
+  822  clear
+  823  ll
+  824  docker ps
+  825  ll
+  826  docker ps -a
+  827  docker container ls
+  828  continer 26f7cc6ea6b1
+  829  continer stop 26f7cc6ea6b1
+  830  q
+  831  e
+  832  exit
+  833  continer stop 26f7cc6ea6b1
+  834  q
+  835  e
+  836  exit
+  837  container stop 26f7cc6ea6b1
+  838  docker container stop 26f7cc6ea6b1
+  839  docker container ls
+  840  docker container ls -a
+  841  docker container top gallant_sinoussi
+  842  \tdocker container ls -a
+  843  clear
+  844  ll
+  845  \tdocker container ls -a
+  846  docker container ls
+  847  docker container rm 965be9171930 965be917193
+  848  docker container ls
+  849  docker container stop d773eb8e9ece
+  850  docker container rm d773eb8e9ece
+  851  docker container ls
+  852  clear
+  853  docker container run --publish 80:80 nginx
+  854  docker container run --publish 80:80 --detach nginx
+  855  docker container ls
+  856  docker container stop 74
+  857  docker container ls
+  858  docker container ls -a
+  859  docker container log
+  860  docker container log 74
+  861  docker container ls
+  862  docker container start 74
+  863  docker container ls
+  864  docker container log 743
+  865  docker container ls
+  866  docker container log recursing_galileo
+  867  docker container logs recursing_galileo
+  868  docker container ls
+  869  docker caontainer rm -f 74
+  870  docker coontainer rm -f 74
+  871  docker container rm -f 74
+  872  docker container ls
+  873  docker container ls -a
+  874  docker container rmi -f 26 2a 2fcc 4b
+  875  docker container ls -a
+  876  docker  ls -a
+  877  docker rmi nginx
+  878  docker ls 
+  879  docker ps
+  880  docker ps -a
+  881  docker rmi -f 26f7cc6ea6b1 4b24c3f66571 
+  882  docker ps -a
+  883  docker purge
+  884  docker images rm -f docker-tutorial
+  885  docker images rm 
+  886  ll
+  887  docker ps 
+  888  docker docker ls
+  889  docker docker ps
+  890  docker 
+  891  docker images ls -a
+  892  docker images ps -a
+  893  docker  ps -a
+  894  docker rmi -f 26f7cc6ea6b1
+  895  docker rmi -f 2a
+  896  docker rmi -f 2aa
+  897  docker rmi -f 2a2
+  898  docker rmi -f 26
+  899  docker container rmi -f 26
+  900  docker container rm -f 26
+  901  docker container rm -f 24
+  902  docker container ps -a
+  903  docker container rm -f 4b
+  904  docker container rm -f 2a
+  905  docker container rm -f 06
+  906  docker container rm -f c6
+  907  docker container rm -f 2f
+  908  docker container ps -a
+  909  docker ps -a
+  910  docker images ps -a
+  911  history >> historia
+  912  vi historia
+  913  cd
+  914  clear
+  915  ll
+  916  pwd
+  917  cd udemy
+  918  ll
+  919  cd docker
+  920  ll
+  921  ls -al
+  922  docker container run --publish 80:80 nginx
+  923  docker ps -a
+  924  deocker rmi -f 6
+  925  docker rmi -f 6
+  926  docker ps -a
+  927  docker rm -f 6
+  928  docker ps -a
+  929  docker container run --publish 80:80 nginx &
+  930  clear
+  931  ll
+  932  clear
+  933  ls -alte
+  934  clear
+  935  docker container run --publish 80:80 nginx &
+  936  docker ps 
+  937  docker container top romantic_sutherland
+  938  docker ps 
+  939  docker rm -f 2
+  940  docker ps 
+  941  docker container top romantic_sutherland
+  942  docker ps 
+  943  grep nginx historia
+  944  docker container run --publish 81:81 --detach nginx 
+  945  cc
+  946  clear
+  947  docker ps 
+  948  ll
+  949  cd udemy
+  950  ll
+  951  ls -altr
+  952  ll
+  953  cd docker
+  954  ll
+  955  ls -al
+  956  cd ..
+  957  ll
+  958  docker run -name mondo -d mongo
+  959  docker run --name mondo -d mongo
+  960  docker ps
+  961  docker top mongo
+  962  docker ps -a
+  963  docker rm -f bb
+  964  docker rm -f 9
+  965  docker ps -a
+  966  docker top mongo
+  967  docker run --name mondo -d mongo
+  968  docker run --name mongo -d mongo
+  969  docker top mongo
+  970  docker ps -a
+  971  docker rm -f 6
+  972  docker ps -a
+  973  docker top mongo
+  974  ps -aux | grep mongo
+  975  ps aux | grep mongo
+  976  ps aux 
+  977  ps aux >> ps_aux
+  978  grep -i mongo ps_aux
+  979  grep -i mongod ps_aux
+  980  cat ps_aux
+  981  grep -i mongo ps_aux
+  982  grep mongo ps_aux
+  983  sudo ps aux
+  984  exi
+  985  exit
+  986  ccd
+  987  cd
+  988  ps aux
+  989  ps auxi
+  990  ps aux | grep mongo
+  991  ps aux | grep root
+  992  docker ps
+  993  docker images ps
+  994  docker top mongo
+  995  docker run --name mongo -d mongo
+  996  docker run  -d mongo
+  997  docker top mongo
+  998  docker ps
+  999  docker container run  mongo  &
+ 1000  docker ps
+ 1001  ps -aux | grep mongo
+ 1002  ps aux | grep mongo
+ 1003  ps aux | grep mongod
+ 1004  ps aux | grep mon
+ 1005  su
+ 1006  exit
+ 1007  who
+ 1008  su passwd 
+ 1009  ex
+ 1010  exit
+ 1011  man passwd
+ 1012  sudo passwd root
+ 1013  whoami
+ 1014  cd
+ 1015  pwd
+ 1016  ps aux | grep mon
+ 1017  ps aux | grep mongod
+ 1018  docker ps
+ 1019  docker rm -f 0 7 e
+ 1020  docker ps
+ 1021  docker ps -a
+ 1022  sudo docker container run  mongo  &
+ 1023  docker ps -a
+ 1024  docker rm -f 0 
+ 1025  ps -aux | grep dock
+ 1026  ps aux | grep dock
+ 1027  ps aux | grep docker
+ 1028  ps aux | grep mongo
+ 1029  ps aux
+ 1030  docker ps
+ 1031  docker ps -a
+ 1032  sudo docker  run  mongo  &
+ 1033  docker ps -a
+ 1034  fg
+ 1035  sudo docker  run  mongo  &
+ 1036  fg
+ 1037  sudo docker  run  mongo  
+ 1038  docker  run  mongo  
+ 1039  docker ps -a
+ 1040  ps aux | grep mongod
+ 1041  ps aux | grep mongo
+ 1042  ps aux
+ 1043  clear
+ 1044  docker start mongo
+ 1045  docker pull mongo:latest
+ 1046  docker run -d -p 27017:27017 –name=mongo-example mongo:latest\n\n
+ 1047  docker run -d -p 27017:27017 –name=mongo-example mongo\n\n
+ 1048  docker  run  mongo  
+ 1049  ps aux
+ 1050  ps aux | grep mongod
+ 1051  docker ps -a
+ 1052  docker run -d  –name=mongo-example mongo\n\n
+ 1053  docker run -d   mongo\n\n
+ 1054  docker ps -a
+ 1055  ps aux | grep mongod
+ 1056  ps aux | grep mongo
+ 1057  docker run -d -p 27017:27017  mongo\n\n
+ 1058  ps aux | grep mongo
+ 1059  docker ps -a
+ 1060  $ docker run --name some-mongo -d mongo:latest\n
+ 1061  $sudo  docker run --name some-mongo -d mongo:latest\n
+ 1062  docker ps -a
+ 1063  ps aux | grep mongo
+ 1064  sudo ps aux | grep mongo
+ 1065  docker 
+ 1066  docker  ps
+ 1067  ps -a
+ 1068  ps aux
+ 1069  clea
+ 1070  clear
+ 1071  history | grep log
+ 1072  docker ps
+ 1073  dockder rmi -f 5
+ 1074  docker rmi -f 5
+ 1075  docker rmi -f 9
+ 1076  dockder rmi -f 5
+ 1077  docker ps
+ 1078  dockder rmi -f 5b
+ 1079  dockder rm  -f 5b
+ 1080  docker rm  -f 5b
+ 1081  docker rm  -f 9 e
+ 1082  docker rm  -f 5b
+ 1083  history | grep nginx
+ 1084  docker container run --publish 80:80 nginx
+ 1085  docker ps
+ 1086  docker images
+ 1087  dockder rmi -f f 29 cf
+ 1088  docker rmi -f f 29 cf
+ 1089  docker images
+ 1090  docker ps
+ 1091  sudo docker container run --publish 80:80 nginx
+ 1092  hisotry | grep login
+ 1093  history | grep login
+ 1094  docker login devopsjmm
+ 1095  suao docker login devopsjmm
+ 1096  sudo docker login devopsjmm
+ 1097  e
+ 1098  exit
+ 1099  cd
+ 1100  pwd
+ 1101  ll
+ 1102  cd /
+ 1103  ll
+ 1104  cd Volumes
+ 1105  ll
+ 1106  cd Extreme\ SSD
+ 1107  ll
+ 1108  cd Docker
+ 1109  ll
+ 1110  cp dockerfiles.tar.gz ~/Projects
+ 1111  pwd
+ 1112  cd 
+ 1113  pwd
+ 1114  cd 
+ 1115  ll
+ 1116  cd Projects
+ 1117  ll
+ 1118  tar
+ 1119  pwd
+ 1120  df
+ 1121  pwd
+ 1122  df
+ 1123  c
+ 1124  clear
+ 1125  ll
+ 1126  tar -zxvf dockerfiles.tar.gz
+ 1127  clear
+ 1128  ll
+ 1129  cd Dockerfile_ejemplos
+ 1130  ll
+ 1131  cd ..
+ 1132  ll
+ 1133  cp dockerfiles.tar.gz ~/Documents
+ 1134  ll
+ 1135  pwd
+ 1136  history | grep login
+ 1137  suao docker login devopsjmm
+ 1138  sudoo docker login devopsjmm
+ 1139  sudo docker login devopsjmm
+ 1140  sudo docker login -u devopsjmm
+ 1141  pwd
+ 1142  ll
+ 1143  who
+ 1144  ll
+ 1145  history | grep run
+ 1146  docker container run --publish 80:80 nginx
+ 1147  docker container --name nginx-jmm run -p 8080:80 nginx:1.23.3
+ 1148  docker container -name nginx-jmm run -p 8080:80 nginx:1.23.3
+ 1149  docker container  run -p 8080:80 nginx:1.23.3
+ 1150  docker container  run -d  -p 8080:80 nginx:1.23.3
+ 1151  curl localhost:8080
+ 1152  docker ps
+ 1153  docker stop nginx:1.23.3
+ 1154  docker stop 77
+ 1155  docker retart  77
+ 1156  docker start  77
+ 1157  curl localhost:80
+ 1158  curl localhost:8080
+ 1159  docker images
+ 1160  ll
+ 1161  cd Dockerfile_ejemplos
+ 1162  ll
+ 1163  cd 01
+ 1164  ll
+ 1165  ls
+ 1166  ls -al
+ 1167  cat Dockerfile `\ncat Dockerfile\nfile Dockerfile\ncd ..\nll\nls -altr\nq
+ 1168  ll
+ 1169  cat Dockerfile
+ 1170  cd ..
+ 1171  ll
+ 1172  cd 01
+ 1173  ll
+ 1174  vi Dockerfile
+ 1175  docker build Dockerfile
+ 1176  ll
+ 1177  cd ../02
+ 1178  vi Dockerfile
+ 1179  docker build -t wget-downloader:local
+ 1180  docker build -t wgetdownloader:local
+ 1181  docker build help
+ 1182  docker build --help
+ 1183  docker build -t wgetdownloader local
+ 1184  docker build -t 'wgetdownloader:local'
+ 1185  docker build -t  wgetdownloader:local
+ 1186  docker build -t  wgetdownloader:local Dockerfile
+ 1187  ls
+ 1188  cd image_download
+ 1189  ls
+ 1190  cd ..
+ 1191  ll
+ 1192  cat Dockerfile
+ 1193  cd ..
+ 1194  ll
+ 1195  pwd
+ 1196  cd ..
+ 1197  ll
+ 1198  mkdir udocker
+ 1199  cd udocker
+ 1200  ll
+ 1201  ls
+ 1202  ls -al
+ 1203  docker version
+ 1204  docker --version
+ 1205  vi managemenDiferentContainers
+ 1206  docker container run -d -p 3306:3306 --name db -e MYSQL_RANDOM_ROOT_PASSWORD=yes mysql
+ 1207  docker imacges
+ 1208  docker images
+ 1209  docker ps 
+ 1210  docker rm 77
+ 1211  docker container stop 77
+ 1212  docker rm 77
+ 1213  docker ps 
+ 1214  docker images
+ 1215  docker rmi 29
+ 1216  docker ps 
+ 1217  docker ps -a
+ 1218  docker stop 80 c4
+ 1219  docker ps -a
+ 1220  docker rm -f 5a6 5a8 9d 0e4 fb0 c4 80
+ 1221  docker ps -a
+ 1222  docker images
+ 1223  docker rmi 29
+ 1224  docker rmi -f 2990
+ 1225  docker images
+ 1226  clear
+ 1227  cat history >> managemenDiferentContainers
+ 1228  history >> managemenDiferentContainers
+ 1229  vi managemenDiferentContainers
+ 1230  docker images
+ 1231  cat managemenDiferentContainers
+ 1232  docker images
+ 1233  docker container ps
+ 1234  docker container ls
+ 1235  docker images ls
+ 1236  docker images
+ 1237  clear
+ 1238  docker container ls
+ 1239  docker images
+ 1240  cat managemenDiferentContainers
+ 1241  vi managemenDiferentContainers
+ 1242  cat managemenDiferentContainers
+ 1243  docker container logs
+ 1244  docker container logs db
+ 1245  ex
+ 1246  exit
+ 1247  cd udemy/docker
+ 1248  ll
+ 1249  ls -al
+ 1250  pwd
+ 1251  cd ..
+ 1252  ls
+ 1253  cd ..
+ 1254  ls
+ 1255  ls -alt
+ 1256  cd devopsjmm
+ 1257  ll
+ 1258  cd udemy-docker-mastery
+ 1259  ll
+ 1260  ls
+ 1261  pwd
+ 1262  history | grep login
+ 1263  history | cat
+ 1264  cd udemy-docker-mastery 
+ 1265  pwd
+ 1266  ll
+ 1267  cd u
+ 1268  cd ..
+ 1269  ls
+ 1270  pwd
+ 1271  cd ..
+ 1272  ls
+ 1273  find . -ls | grep idocker
+ 1274  find ~/. -ls | grep udocker
+ 1275  sudo find ~/. -ls | grep udocker
+ 1276  pwd
+ 1277  cd 
+ 1278  cd
+ 1279  pwd
+ 1280  cd udemy
+ 1281  ll
+ 1282  cd docker
+ 1283  ll
+ 1284  ls
+ 1285  ls -al
+ 1286  cd ..
+ 1287  ls
+ 1288  ls -alr
+ 1289  cd ..
+ 1290  ls
+ 1291  cd udemy
+ 1292  ll
+ 1293  cd docker
+ 1294  ll
+ 1295  ls -al
+ 1296  pwd
+ 1297  history
+ 1298  ll
+ 1299  cd ..
+ 1300  ll
+ 1301  cd ..
+ 1302  ll
+ 1303  cd Documents/ll
+ 1304  cd Documents
+ 1305  ll
+ 1306  cd ../devopsjmm
+ 1307  ll
+ 1308  cd udemy-docker-mastery
+ 1309  ll
+ 1310  ls
+ 1311  pwd
+ 1312  cd ..
+ 1313  ll
+ 1314  cd ..
+ 1315  ..
+ 1316  cd ~
+ 1317  pwd
+ 1318  ll
+ 1319  cd ..
+ 1320  ll
+ 1321  cd Shared
+ 1322  ll
+ 1323  cd SC\ Info
+ 1324  ll
+ 1325  cd ../../josemunoz
+ 1326  ll
+ 1327  cd De
+ 1328  cd Desktop
+ 1329  ll
+ 1330  cd ..
+ 1331  ll
+ 1332  c dPro
+ 1333  cd Projects
+ 1334  ll
+ 1335  cd udocker
+ 1336  ll
+ 1337  cat managemenDiferentContainers | grep "docker run"
+ 1338  ll
+ 1339  cat managemenDiferentContainers | grep "docker continer"
+ 1340  cat managemenDiferentContainers | grep "docker container"
+ 1341  docker container run -d -p 8080:80 --name webserver httpd
+ 1342  docker container ls
+ 1343  docker images ls
+ 1344  docker images 
+ 1345  cat managemenDiferentContainers | grep "docker container"
+ 1346  docker container run -d -p 80:80    --name proxy nginx
+ 1347  docker images 
+ 1348  docker images ls
+ 1349  docker images 
+ 1350  clear
+ 1351  docker images 
+ 1352  docker container ls
+ 1353  docker ps
+ 1354  curl localhost
+ 1355  curl localhost:8080
+ 1356  docker ps
+ 1357  docker container rm proxy webserver db
+ 1358  docker ps
+ 1359  docker container stop proxy webserver db
+ 1360  docker container rm proxy webserver db
+ 1361  docker ps
+ 1362  docker images 
+ 1363  cat managemenDiferentContainers | grep "docker container"
+ 1364  tail  managemenDiferentContainers | grep "docker container"
+ 1365  tail  managemenDiferentContainers 
+ 1366  tail -20 managemenDiferentContainers 
+ 1367  history 20
+ 1368  history 20 >> managemenDiferentContainers
+ 1369  vi managemenDiferentContainers
+ 1370  ll
+ 1371  ls -al
+ 1372  vi managemenDiferentContainers
+ 1373  tail 20 managemenDiferentContainers >> notes
+ 1374  tail
+ 1375  tail -20 managemenDiferentContainers >> notes
+ 1376  vi notes
+ 1377  docker container top
+ 1378  docker container ps
+ 1379  docker images
+ 1380  car notes
+ 1381  cat notes
+ 1382  vi managemenDiferentContainers
+ 1383  greo "db" managemenDiferentContainers
+ 1384  grep "db" managemenDiferentContainers
+ 1385  vi notes
+ 1386  grep "container run" notes
+ 1387  docker container ps
+ 1388  docker container top mysql
+ 1389  docker container ls
+ 1390  docker container top db
+ 1391  docker container top proxy
+ 1392  docker container top webserver
+ 1393  docker container inspect  db
+ 1394  docker container stat  db
+ 1395  docker container stats  db
+ 1396  history | -tail 10  >> notes_2
+ 1397  history | tail 10  >> notes_2
+ 1398  history | tail -20  >> notes_2
+ 1399  ls
+ 1400  vi notes_2
+ 1401  docker container ls
+ 1402  docker container ls -a
+ 1403  docker container run -it --name toto nginx bash &
+ 1404  docker container run -it --name toto nginx bash 
+ 1405  run container ps
+ 1406  docker container ps
+ 1407  docker container stop toto
+ 1408  docker container ps
+ 1409  fg
+ 1410  docker container run -it --name toto nginx bash 
+ 1411  docker container ps
+ 1412  docker container ps -a
+ 1413  docker container rm -f b66 d31
+ 1414  docker container run -it --name toto nginx bash 
+ 1415  docker container ps -a
+ 1416  docker container ps 
+ 1417  docker container ps -a
+ 1418  docker container rm -f 0f
+ 1419  docker container ps -a
+ 1420  docker images
+ 1421  docker container ls
+ 1422  docker container ls -a
+ 1423  pwd
+ 1424  cd Projects
+ 1425  ll
+ 1426  cd udocker
+ 1427  ll
+ 1428  docker images
+ 1429  docker container ps -a
+ 1430  docker container run -it --name toto nginx bash 
+ 1431  docker container -la
+ 1432  docker container -ls 
+ 1433  docker container ls 
+ 1434  clear
+ 1435  docker container ls 
+ 1436  docker container ls  -a
+ 1437  clear
+ 1438  docker images
+ 1439  docker container ls  -a
+ 1440  docker container ps  -a
+ 1441  docker container ps  -a | grep bash
+ 1442  docker container ps  -a >> toto1
+ 1443  vi toto1
+ 1444  docker container ps  -a >> toto1
+ 1445  docker container ls  -a
+ 1446  docker continer rm -f 99
+ 1447  docker continer rm -f 
+ 1448  docker container ps  -a >> toto1
+ 1449  docker container ls  -a
+ 1450  docker containe stop toto
+ 1451  docker continer rm -f toto
+ 1452  docker continer ps
+ 1453  docker container ls  -a
+ 1454  docker container stop toto
+ 1455  docker container run -it nginx bash --name pipo
+ 1456  docker container run -it nginx bash --name pipo nginx 
+ 1457  docker container ls  -a
+ 1458  docker continer rm -f toto
+ 1459  docker container ls  -a
+ 1460  docker continer rm -f 99
+ 1461  docker container ls  -a
+ 1462  docker container stop 99
+ 1463  docker container ls  -a
+ 1464  docker continer rm -f toto
+ 1465  docker container ls  -a
+ 1466  docker continer rm -f 99
+ 1467  docker container ps -a
+ 1468  docker continer rm -f 9954487072a3
+ 1469  docker container rm -f 9954487072a3
+ 1470  docker container ps -a
+ 1471  docker container rm -f 58 c9
+ 1472  docker container rm -f 58 ce
+ 1473  docker container ps -a
+ 1474  bash
+ 1475  docker container ps -a
+ 1476  docker container run -it  --name pipo nginx bash 
+ 1477  docker container ls  -a
+ 1478  docker container ls  
+ 1479  docker container ps -a
+ 1480  docker container -name jaja run -it   nginx bash 
+ 1481  docker container run -it   nginx bash 
+ 1482  docker container ps -a
+ 1483  docker images 
+ 1484  docker container ps -a
+ 1485  docker container stop pipo
+ 1486  docker container stop naughty
+ 1487  docker container ps -a
+ 1488  docker container rm -f  pipo
+ 1489  docker container ps -a
+ 1490  docker container rm -f  d03
+ 1491  docker container rm -f  da
+ 1492  docker container ps -a
+ 1493  clear
+ 1494  ll
+ 1495  docker image
+ 1496  docker images
+ 1497  clear
+ 1498  docker images
+ 1499  docker container ls
+ 1500  docker container stop 73
+ 1501  docker container ls
+ 1502  docker container  run -it --name jaja   nginx bash 
+ 1503  docker container ls
+ 1504  docker container ls -a
+ 1505  docker container stop 1a
+ 1506  docker container rm -f  1a
+ 1507  docker container ls -a
+ 1508  docker container stop 7
+ 1509  docker container rm -f  7
+ 1510  docker container ls -a
+ 1511  docker container  run -it --name jaja   nginx bash 
+ 1512  docker container ls -a
+ 1513  docker container stop 49
+ 1514  docker container rm -f  49
+ 1515  docker container ls -a
+ 1516  clear
+ 1517  docker container run help
+ 1518  docker container run --help
+ 1519  docker container ls -a
+ 1520  docker container  run -it --name proxy nginx bash 
+ 1521  docker container ls -a
+ 1522  docker container ls 
+ 1523  docker container ls -a
+ 1524  docker container rm -f  16
+ 1525  docker container ls -a
+ 1526  docker images
+ 1527  docker container ls -a
+ 1528  clear
+ 1529  docker container  run -it --name proxy nginx bash 
+ 1530  docker container ls -a
+ 1531  docker container ls 
+ 1532  docker container start -ai nginx
+ 1533  history | greo nginx
+ 1534  history | grep nginx
+ 1535  docker container run -d -p 80:80    --name proxy nginx
+ 1536  docker container ls 
+ 1537  docker container ls -a
+ 1538  history | grep start
+ 1539  docker restart 261740714c8f
+ 1540  docker container ls 
+ 1541  docker stop 261740714c8f
+ 1542  docker container ls 
+ 1543  docker container ls -a
+ 1544  docker rm -f 261740714c8f
+ 1545  docker container run -d -p 80:80    --name proxy nginx bash
+ 1546  docker container ls -a
+ 1547  docker rm -f a3c8d29987f0
+ 1548  docker container run -d -p 80:80    --name proxy nginx bash
+ 1549  docker container ls -a
+ 1550  docker rm -f b7c11cba80cf
+ 1551  history | grep run | grep it
+ 1552  clear
+ 1553  docker images
+ 1554  docker rmi nginx
+ 1555  clear
+ 1556  docker run -it --name proxy nginx bash
+ 1557  docker images
+ 1558  docker container ls -a
+ 1559  grep nginx managemenDiferentContainers
+ 1560  docker container ls -a
+ 1561  docker stop bc8e9b79b470
+ 1562  docker container ls -a
+ 1563  docker images
+ 1564  docker rm -f bc8e9b79b470
+ 1565  docker images
+ 1566  docker rm -f 299014af8ec8
+ 1567  docker container ls -a
+ 1568  docker container ls
+ 1569  docker container stop 5c96bd942e4c
+ 1570  docker container stop 9ecc9d0cba65
+ 1571  docker container ls
+ 1572  docker container ls -a
+ 1573  docker rm -f 5c96bd942e4c
+ 1574  docker rm -f 9ecc9d0cba65
+ 1575  docker container ls -a
+ 1576  docker container ls 
+ 1577  docker images
+ 1578  docker rm nginx httpd mysql
+ 1579  grep -i images | grep rm *
+ 1580  docker images
+ 1581  docker rmi 29 3c 2a 
+ 1582  docker run -it --name proxy nginx bash
+ 1583  docker images
+ 1584  docker container ls 
+ 1585  docker container ls -a
+ 1586  docker -rm -f 0ae687112ae7
+ 1587  docker stop 0ae687112ae7
+ 1588  docker -rm -f 0ae687112ae7
+ 1589  docker container ls -a
+ 1590  docker rm -f 0ae687112ae7
+ 1591  docker container ls -a
+ 1592  docker images
+ 1593  docker rmi 299
+ 1594  ll
+ 1595  pwd
+ 1596  ls -al
+ 1597  ll
+ 1598  ls -altr
+ 1599  clear
+ 1600  ll
+ 1601  grep images notes*
+ 1602  grep run notes*
+ 1603  grep mysql notes*
+ 1604  grep mysql m*
+ 1605  docker container run -d -p 3306:3306 --name db -e MYSQL_RANDOM_ROOT_PASSWORD=yes mysql
+ 1606  docker images
+ 1607  clear
+ 1608  docker images
+ 1609  docker container ls
+ 1610  docker container exec -it mysql bash
+ 1611  docker container exec -it db bash
+ 1612  docker container ls
+ 1613  docker pull alpine
+ 1614  docker image ls
+ 1615  docker container run -it alpine bash
+ 1616  docker container run -it alpine sh
+ 1617  docker image ls
+ 1618  docker container ls
+ 1619  docker container ls -s
+ 1620  docker containter stop 91
+ 1621  docker  stop 91
+ 1622  docker container ls -s
+ 1623  docker container ls -a
+ 1624  docker  stop f9 f21 91
+ 1625  docker container ls -a
+ 1626  docker  rm -f  f9 f21 91
+ 1627  docker container ls -a
+ 1628  docker images
+ 1629  docker  rmi -f  mysql alpine
+ 1630  docker images
+ 1631  docker container run -it alpine 
+ 1632  docker container exec -it alpine  bash
+ 1633  docker images
+ 1634  docker container ls -a
+ 1635  docker container ls 
+ 1636  docker container ls -a
+ 1637  docker container exec -it alpine  bash
+ 1638  grep restart n*
+ 1639  grep restart m*
+ 1640  docker container ls 
+ 1641  docker container ls -a
+ 1642  docker restart 1306d21df2e7
+ 1643  docker container ls 
+ 1644  docker container exec -it alpine  bash
+ 1645  docker container exec -it nostalgic_hugle  bash
+ 1646  docker  rm -f  13
+ 1647  docker container ls 
+ 1648  docker container ls -a
+ 1649  docker images
+ 1650  docker  rmi alpine
+ 1651  docker images
+ 1652  docker container ls -a
+ 1653  docker images
+ 1654  docker container ls -a
+ 1655  clear
+ 1656  history | grep nginx
+ 1657  docker container run -d -p 80:80    --name proxy aloine
+ 1658  docker container run -d -p 80:80    --name proxy alpine
+ 1659  clear
+ 1660  docker images
+ 1661  docker contqainer port alpine
+ 1662  docker container port alpine
+ 1663  docker images
+ 1664  docker container ls -a
+ 1665  docker container port proxy
+ 1666  docker container ls 
+ 1667  docker container ls -a
+ 1668  docker start proxy
+ 1669  docker container ls 
+ 1670  docker container ls -a
+ 1671  docker container run  -p 80:80    --name webhost  -d nginx
+ 1672  docker container inspect --format '{{ .NetworkSettings.IPAddress }}' webhost
+ 1673  iconfig en0
+ 1674  docker network ls
+ 1675  docker network inspect bridge
+ 1676  docker network create my_app_net
+ 1677  docker network ls
+ 1678  docker network create --help
+ 1679  docker container -d run --name new_nginx --network my_app_net nginx
+ 1680  docker container run -d --name new_nginx --network my_app_net nginx
+ 1681  clear
+ 1682  docker network inspect my_app_net
+ 1683  docker nwetwork --help
+ 1684  docker network --help
+ 1685  clear
+ 1686  docker network --help
+ 1687  docker ps 
+ 1688  docker network connect b07c64435d5a 98a8bcc7919c 
+ 1689  docker container ls
+ 1690  docker container ls -a
+ 1691  docker network inspect
+ 1692  docker network inspect my_app_net
+ 1693  docker network ls
+ 1694  docker network connect fc3bfbb63ef6 b07c64435d5a
+ 1695  docker network connect fc3bfbb63ef6 98a8bcc7919c
+ 1696  clear
+ 1697  docker container inspect
+ 1698  docker container inspect 98a8bcc7919c
+ 1699  docker network dicconnect fc3bfbb63ef6 98a8bcc7919c
+ 1700  docker network diconnect fc3bfbb63ef6 98a8bcc7919c
+ 1701  docker network disconnect fc3bfbb63ef6 98a8bcc7919c
+ 1702  docker network 
+ 1703  docker network ls
+ 1704  docker container inspect 98a8bcc7919c
+ 1705  history | grep "run -p" 
+ 1706  pwd
+ 1707  ll
+ 1708  cd ..
+ 1709  ll
+ 1710  cd Dockerfile_ejemplos
+ 1711  ll
+ 1712  cd 01
+ 1713  ll
+ 1714  cat Dockerfile
+ 1715  docker build --help
+ 1716  docker build -t local-hello-world:linux
+ 1717  docker build -t local-hello-world:linux .
+ 1718  docker images
+ 1719  docker scan local-hello-workd
+ 1720  docker run container hello-work
+ 1721  docker login 
+ 1722  docker run container hello-work
+ 1723  docker run  hello-work
+ 1724  docker pull hello-world
+ 1725  docker images
+ 1726  rm -i local-hello-world
+ 1727  docker rmi local-hello-world
+ 1728  docker images ls
+ 1729  docker images 
+ 1730  docker container ls
+ 1731  docker images 
+ 1732  docker rmi linux
+ 1733  docker rmi 281
+ 1734  docker images 
+ 1735  docker build -t local-hello-world:linux .
+ 1736  docker images 
+ 1737  docker rmi 281 463
+ 1738  docker images 
+ 1739  docker build -t local-hello-world .
+ 1740  docker build -t local-hello-world:linux .
+ 1741  docker images 
+ 1742  docker rmi 281
+ 1743  docker rmi --help
+ 1744  docker rmi -f 281
+ 1745  docker rmi 281
+ 1746  docker images 
+ 1747  docker build -t hello-world:linux ..
+ 1748  ll
+ 1749  docker build -t local-hello-world:linux ..
+ 1750  docker build -t local-hello-world:linux .
+ 1751  docker images 
+ 1752  cd ../02
+ 1753  clear
+ 1754  car Dockerfile
+ 1755  cat Dockerfile
+ 1756  clear
+ 1757  cat Dockerfile
+ 1758  docker build -t wget-downloader:local .
+ 1759  docker images
+ 1760  ll
+ 1761  docker run \\n -V ${PWD}/image_download \\nwget-downloader:local \\n-O /image_download/download.png \\nhttps://www.google.com/images/branding/googlelogo/lx/googleloop_color_2772x92dp.png
+ 1762  docker run \\n -v ${PWD}/image_download \\nwget-downloader:local \\n-O /image_download/download.png \\nhttps://www.google.com/images/branding/googlelogo/lx/googleloop_color_2772x92dp.png
+ 1763  docker run \\n -v ${PWD}/image_download \\nwget-downloader:local \\n-O /image_download\\nhttps://www.google.com/images/branding/googlelogo/lx/googleloop_color_2772x92dp.png
+ 1764  docker run \\n -v ${PWD}/image_download:/image_download \\nwget-downloader:local \\n-O /image_download\download.png \\nhttps://www.google.com/images/branding/googlelogo/lx/googleloop_color_2772x92dp.png
+ 1765  docker run \\n -v ${PWD}/image_download:/image_download \\nwget-downloader:local \\n-O /image_download\download.png \\nhttps://www.waldoportlibrary.org/epanol/googlelogo/lx/googleloop_color_2772x92dp.png
+ 1766  docker run \\n -v ${PWD}/image_download:/image_download \\nwget-downloader:local \\n-O /image_download\download.png \\nhttps://www.waldportlibrary.org/epanol/googlelogo/lx/googleloop_color_2772x92dp.png
+ 1767  docker run \\n -v ${PWD}/image_download:/image_download \\nwget-downloader:local \\n-O /image_download\download.png \\nhttps://www.waldportlibrary.org/epanol/googlelogo_color_2772x92dp.png/image_view_fullscreen
+ 1768  docker run \\n -v ${PWD}/image_download:/image_download \\nwget-downloader:local \\n-O /image_download\download.png \\nhttps://www.waldportlibrary.org/epanol/googlelogo_color_2772x92dp.png/image_view_fullscreen \\ndocker run \\n -v ${PWD}/image_download:/image_download \\nwget-downloader:local \\n-O /image_download\download.png \\nhttps://www.waldportlibrary.org/epanol/googlelogo_color_2772x92dp.png/image_view_fullscreen \n
+ 1769  docker run \\n -v ${PWD}/image_download:/image_download \\nwget-downloader:local \\n-O /image_download\download.png \\nhttps://w7.pngwing.com/pngs/943/692/png-transparent-butterfly-flying-butterflies-animals-brush-footed-butterfly-orange-thumbnail.png
+ 1770  ll
+ 1771  ls -al image_download
+ 1772  cd ../03
+ 1773  ll
+ 1774  cat Dockerfile
+ 1775  docker images
+ 1776  cd ..
+ 1777  ll
+ 1778  c dud
+ 1779  cd udocker
+ 1780  ll
+ 1781  docker images
+ 1782  docker container run -rm centos:7 bash 
+ 1783  docker container run --rm centos:7 bash 
+ 1784  docker images
+ 1785  docker container ls
+ 1786  docker rmi c9
+ 1787  docker container run --rm -it centos:7 bash 
+ 1788  docker ps -a
+ 1789  docker rm -f 07 e4 bc
+ 1790  docker ps -a
+ 1791  docker rm -f 30 33 02
+ 1792  docker ps -a
+ 1793  docker rm -f f3 c4 ea1 b07
+ 1794  docker ps -a
+ 1795  clear
+ 1796  docker container run --rm -it ubuntu14.04 bash
+ 1797  pwd
+ 1798  cd
+ 1799  docker container run -it   ubuntu:14.04  bash 
+ 1800  docker pull elasticsearch:7.17.9
+ 1801  docker pull alpine
+ 1802  docker images
+ 1803  docker rmi 28 4b 0e2 
+ 1804  docker images
+ 1805  clear
+ 1806  docker network created dude
+ 1807  docker network create dude
+ 1808  docker images
+ 1809  docker container run -d --net dude --net-alias search elasticsearch:7.17.9
+ 1810  docker container ls
+ 1811  clear
+ 1812  docker container ls
+ 1813  docker container ls -a
+ 1814  docker container run -d --net dude --net-alias search elasticsearch:7.17.9
+ 1815  docker container ls -a
+ 1816  docker container ls 
+ 1817  docker container run -d --net dude --net-alias search elasticsearch:7.17.9
+ 1818  docker container ls 
+ 1819  docker container ls -a
+ 1820  rm -i ec 95 ae5
+ 1821  docker rm -f ec 95 ae5
+ 1822  docker container ls -a
+ 1823  docker container run -d --name elsatic01 --net dude --net-alias search elasticsearch:7.17.9
+ 1824  docker container run -d --name elsatic02 --net dude --net-alias search elasticsearch:7.17.9
+ 1825  clear
+ 1826  docker container ls -a
+ 1827  docker container ls 
+ 1828  docker container ls -a
+ 1829  docker container run --rm --net dude alpine nslookup search
+ 1830  git versionb
+ 1831  git version
+ 1832  cd
+ 1833  mkdir ugit
+ 1834  cd ugit
+ 1835  ls
+ 1836  ls -alte
+ 1837  clear
+ 1838  cp -r ~/Downloads/01\ Starting\ Project .
+ 1839  ll
+ 1840  cd 01\ Starting\ Project
+ 1841  ll
+ 1842  pwd
+ 1843  git version
+ 1844  git add index.html
+ 1845  clear
+ 1846  git init
+ 1847  ll
+ 1848  cd 01\ Starting\ Project
+ 1849  ll
+ 1850  ls -al
+ 1851  cd ../
+ 1852  ls -al
+ 1853  cd 01\ Starting\ Project
+ 1854  ls -al
+ 1855  cd ...
+ 1856  pwd
+ 1857  cd 
+ 1858  cd u
+ 1859  cd ugit
+ 1860  ll
+ 1861  cd 01\ Starting\ Project
+ 1862  ll
+ 1863  git add index.html 
+ 1864  git status 
+ 1865  git commit 
+ 1866  git commit  -m "Initial commit"
+ 1867  ls -al
+ 1868  git log
+ 1869  ls
+ 1870  pwd
+ 1871  ls -al
+ 1872  cd ..
+ 1873  ls -al
+ 1874  cat .git
+ 1875  cd 01\ Starting\ Project
+ 1876  git log
+ 1877  clear
+ 1878  git add index.html 
+ 1879  git status 
+ 1880  git commit  -m "Added a link to Git docs"
+ 1881  git log
+ 1882  git checkout c1c1c61b4e77e2786ca06555a1839d06535dfe81
+ 1883  git log
+ 1884  git checkout 33f070af7d5d054cc051d19ccb0df8dd508e4218
+ 1885  git log
+ 1886  git checkout main
+ 1887  git checkout 
+ 1888  git checkout main
+ 1889  git log
+ 1890  clear
+ 1891  ll
+ 1892  clear
+ 1893  git log
+ 1894  git checkout 
+ 1895  git checkout main
+ 1896  git checkout help
+ 1897  git checkout --help
+ 1898  exit
+ 1899  git checkout help
+ 1900  git checkout --help
+ 1901  exit
+ 1902  git status
+ 1903  git add index.html
+ 1904  git restore
+ 1905  git rm
+ 1906  git status
+ 1907  git commit  -m "Added a link to Git docs"
+ 1908  git status
+ 1909  git log
+ 1910  git status
+ 1911  git log
+ 1912  git checkout 33f070af7d5d054cc051d19ccb0df8dd508e4218
+ 1913  git log
+ 1914  git revert 33f070a
+ 1915  git commit 
+ 1916  git revert 33f070a
+ 1917  git reset
+ 1918  git log
+ 1919  pwd
+ 1920  cd ..
+ 1921  ll
+ 1922  owd
+ 1923  pwd
+ 1924  cd ..
+ 1925  ll
+ 1926  mv ugit Projects
+ 1927  cd Projects
+ 1928  ll
+ 1929  git branch
+ 1930  git branches
+ 1931  git branch
+ 1932  git remote add origin git branch
+ 1933  ll
+ 1934  cd ugit
+ 1935  ll
+ 1936  clear
+ 1937  ll
+ 1938  git init
+ 1939  ll
+ 1940  cd 01\ Starting\ Project
+ 1941  ll
+ 1942  git init
+ 1943  git branch
+ 1944  git -D master
+ 1945  git branch
+ 1946  git -D 
+ 1947  git reset hard
+ 1948  git reset 
+ 1949  git
+ 1950  git branch
+ 1951  rm .git
+ 1952  rm -r .git
+ 1953  ll
+ 1954  ls -altre
+ 1955  git log
+ 1956  rm -r .git
+ 1957  rm -rf .git
+ 1958  git log
+ 1959  ll
+ 1960  cd ..
+ 1961  ll
+ 1962  cd github-crash-course
+ 1963  ll
+ 1964  cd u
+ 1965  cd ../ugit
+ 1966  ll
+ 1967  ls
+ 1968  ls -altr
+ 1969  cd Projects
+ 1970  l
+ 1971  cd ugit
+ 1972  ll
+ 1973  /Users/josemunoz/Downloads/02\ Updated\ Project ll
+ 1974  l
+ 1975  ll
+ 1976  cd ..
+ 1977  ll
+ 1978  cd ..
+ 1979  ll
+ 1980  ls =altr ~/Downloads
+ 1981  ls -altr ~/Downloads
+ 1982  mv ~/Downloads/02\ Updated\ Project .
+ 1983  mv ~/Downloads/03\ Updated\ Project .
+ 1984  mv ~/Downloads/03\ Extra\ Files .
+ 1985  mv ~/Downloads/04\ Updated\ Files .
+ 1986  mv ~/Downloads/05\ Finished .
+ 1987  ll
+ 1988  clear
+ 1989  ll
+ 1990  cd u
+ 1991  cd ugit
+ 1992  ll
+ 1993  cd ..
+ 1994  mv 02\ Updated\ Project ugit
+ 1995  mv 03\ Extra\ Files ugit
+ 1996  mv 04\ Updated\ Files ugit
+ 1997  nv 05\ Finished ugit
+ 1998  ll
+ 1999  mv 05\ Finished ugit
+ 2000  ll
+ 2001  cd github-crash-course
+ 2002  ll
+ 2003  cd g
+ 2004  ll
+ 2005  cat github-crash-course.code-workspace
+ 2006  cd ../ugit
+ 2007  ll
+ 2008  clear
+ 2009  ll
+ 2010  pwd
+ 2011  ll
+ 2012  clear
+ 2013  ll
+ 2014  phyton -v
+ 2015  phyton 
+ 2016  /Applications/Python\ 3.11/Install\ Certificates.command ; exit;
+ 2017  ls
+ 2018  ls -altr
+ 2019  cd Projects
+ 2020  ll
+ 2021  cd ugit
+ 2022  ll
+ 2023  cp ~/Downloads/Free+Course+and+Programming+Guide.pdf .
+ 2024  ll
+ 2025  pwd
+ 2026  cd ..
+ 2027  ll
+ 2028  cd uphyton
+ 2029  ll
+ 2030  cd ../../
+ 2031  ll
+ 2032  cd udemy
+ 2033  ll
+ 2034  cd ../
+ 2035  ll
+ 2036  cd PycharmProjects
+ 2037  ll
+ 2038  cd pythonProject
+ 2039  ll
+ 2040  pwd
+ 2041  cd ~/Downloads
+ 2042  ll
+ 2043  ls -altr
+ 2044  mc ProgramFlow /Users/josemunoz/PycharmProjects/pythonProject
+ 2045  mv ProgramFlow /Users/josemunoz/PycharmProjects/pythonProject
+ 2046  ll
+ 2047  cd /Users/josemunoz/PycharmProjects/pythonProject
+ 2048  ll
+ 2049  cd ProgramFlow
+ 2050  ll
+ 2051  mv ~/Downloads/ProgramFlow toto
+ 2052  cd toto
+ 2053  ll
+ 2054  ll ../programflow.iml
+ 2055  ll ../../ProgramFlow
+ 2056  rm -rd exchange_chart.py
+ 2057  cd ..
+ 2058  ll
+ 2059  cd ..
+ 2060  pwd
+ 2061  cd ..
+ 2062  ll
+ 2063  cd pythonProject
+ 2064  ll
+ 2065  cd ProgramFlow
+ 2066  ll
+ 2067  cd ..
+ 2068  ll
+ 2069  ll ProgramFlow
+ 2070  cat ProgramFlow/programflow.iml
+ 2071  cd ..
+ 2072  ll
+ 2073  mv pythonProject/ProgramFlow  .
+ 2074  ll
+ 2075  cd ProgramFlow
+ 2076  ll
+ 2077  rm -rd toto
+ 2078  ll
+ 2079  pwd
+ 2080  cd ..
+ 2081  ll
+ 2082  cd ProgramFlow
+ 2083  ll
+ 2084  pwd
+ 2085  ll
+ 2086  pwd
+ 2087  ll
+ 2088  cd ..
+ 2089  l
+ 2090  ll
+ 2091  mc ProgramFlow pythonProject
+ 2092  ll
+ 2093  mv ProgramFlow pythonProject
+ 2094  ll
+ 2095  cd pythonProject
+ 2096  ll
+ 2097  cd ProgramFlow
+ 2098  ll
+ 2099  cd ..
+ 2100  ll
+ 2101  cd ..
+ 2102  ll
+ 2103  cd ..
+ 2104  ll
+ 2105  cd udemy
+ 2106  ll
+ 2107  cd ..
+ 2108  ll
+ 2109  ls
+ 2110  cd devopsjmm
+ 2111  ll
+ 2112  cd udemy-docker-mastery
+ 2113  ll
+ 2114  ls
+ 2115  git version
+ 2116  git 
+ 2117  git stat
+ 2118  git status
+ 2119  git
+ 2120  ll
+ 2121  git
+ 2122  git rm help
+ 2123  git help
+ 2124  git help -a
+ 2125  git rm 
+ 2126  ll
+ 2127  exit
+ 2128  pwd
+ 2129  ll
+ 2130  cd udemy
+ 2131  ll
+ 2132  cd docker
+ 2133  ll
+ 2134  cd ..
+ 2135  ll
+ 2136  cd ..
+ 2137  ll
+ 2138  cd Projects
+ 2139  ll
+ 2140  cd ugit
+ 2141  ll
+ 2142  cd 01\ Starting\ Project
+ 2143  ll
+ 2144  pwd
+ 2145  ll
+ 2146  cd ..
+ 2147  ll
+ 2148  pwd
+ 2149  ll
+ 2150  pwd
+ 2151  cd ..
+ 2152  ll
+ 2153  ls -al
+ 2154  cd ..
+ 2155  ls -al
+ 2156  cd udemy
+ 2157  ll
+ 2158  ls -al
+ 2159  cd ../
+ 2160  ls
+ 2161  pwd
+ 2162  cd udemy
+ 2163  ll
+ 2164  cd ..
+ 2165  ll
+ 2166  cd getting-started
+ 2167  ll
+ 2168  ls -al
+ 2169  pwd
+ 2170  cat .dockerignore
+ 2171  cd ..
+ 2172  ll
+ 2173  cd Projects
+ 2174  ls -al
+ 2175  cd github-crash-course
+ 2176  ls -al
+ 2177  rm -rf .git
+ 2178  ll
+ 2179  pwd
+ 2180  ls -L
+ 2181  CD 
+ 2182  cd 
+ 2183  pwd
+ 2184  ll
+ 2185  ls -alre
+ 2186  pwd
+ 2187  ll
+ 2188  cd Projects
+ 2189  ll
+ 2190  cd ugit
+ 2191  ll
+ 2192  pwd
+ 2193  ls -al
+ 2194  cd ..
+ 2195  ls -al
+ 2196  cd github-crash-course
+ 2197  ls -al
+ 2198  cat github-crash-course.code-workspace
+ 2199  ll
+ 2200  pwd
+ 2201  cd ..
+ 2202  ll
+ 2203  cd ugit
+ 2204  ll
+ 2205  cd 01\ Starting\ Project
+ 2206  ll
+ 2207  ls -al
+ 2208  pwd
+ 2209  cd ../
+ 2210  ll
+ 2211  cd ..
+ 2212  ll
+ 2213  cd github-crash-course
+ 2214  ll
+ 2215  cp ../ugit/01\ Starting\ Project/index.html .
+ 2216  ll
+ 2217  pwd
+ 2218  ll
+ 2219  cd ..
+ 2220  ll
+ 2221  cd ugit
+ 2222  ll
+ 2223  pwd
+ 2224  ll
+ 2225  ls -al
+ 2226  date
+ 2227  cp 01\ Starting\ Project/index.html .
+ 2228  ll
+ 2229  ls -al
+ 2230  git status
+ 2231  ll
+ 2232  rm -rf .git
+ 2233  ll
+ 2234  git
+ 2235  git init
+ 2236  git status
+ 2237  ll
+ 2238  mv Free+Course+and+Programming+Guide.pdf ..
+ 2239  ll
+ 2240  rm ugit.sln
+ 2241  ll
+ 2242  ls -al
+ 2243  git config
+ 2244  git config help
+ 2245  git config --help
+ 2246  pwd
+ 2247  ls -al
+ 2248  cd 01
+ 2249  ll
+ 2250  pwd
+ 2251  ls
+ 2252  cd ugit
+ 2253  ll
+ 2254  ls -al
+ 2255  gint init
+ 2256  git init
+ 2257  ls -al
+ 2258  cat .git
+ 2259  ls -al
+ 2260  cd .git
+ 2261  ll
+ 2262  cd hooks
+ 2263  cd ..
+ 2264  pwd
+ 2265  ll
+ 2266  cat HEAD
+ 2267  cat config
+ 2268  ll
+ 2269  cd ..
+ 2270  git add index.html
+ 2271  git status
+ 2272  vi .gitignore
+ 2273  ll
+ 2274  ls -al
+ 2275  git commit -m "initial commit"
+ 2276  git log
+ 2277  clear
+ 2278  git add index.html
+ 2279  git status
+ 2280  git commit -m "Commit C2"
+ 2281  git status
+ 2282  git logs
+ 2283  git log
+ 2284  git checkout 69ef15134c8fdc1bdf881c8ee98d3b82eb0d18f2
+ 2285  git log
+ 2286  git status
+ 2287  clear
+ 2288  git log
+ 2289  git checkout main
+ 2290  git log
+ 2291  git status
+ 2292  git add index.html
+ 2293  git commit -m "Commit C2"
+ 2294  git log
+ 2295  git log >> git_log
+ 2296  vi git_log
+ 2297  git checkout main
+ 2298  git checkout --help
+ 2299  cat git_log
+ 2300  git chekout main
+ 2301  cat git_log
+ 2302  git checkout 69ef15134c8fdc1bdf881c8ee98d3b82eb0d18f2
+ 2303  git log
+ 2304  cat git_log
+ 2305  git chekout main
+ 2306  git checkout main
+ 2307  cat git_log
+ 2308  git checkout 718e69789c15b88a4ed87b3f8cf2de4d26deef71
+ 2309  cat git_log
+ 2310  git log
+ 2311  git status
+ 2312  clear
+ 2313  sha1=$(git rev-parse HEAD)\n
+ 2314  echo $sha1
+ 2315  ll
+ 2316  ls -altr
+ 2317  git log
+ 2318  git revert 718e69789c15b88a4ed87b3f8cf2de4d26deef71
+ 2319  git log
+ 2320  git log >> git_log
+ 2321  vi git_log
+ 2322  sha1=$(git rev-parse HEAD)\n
+ 2323  echo $sha1
+ 2324  vi git_log
+ 2325  clear
+ 2326  ll
+ 2327  c
+ 2328  clear
+ 2329  git checkout master
+ 2330  git braches
+ 2331  git brache
+ 2332  git brach
+ 2333  git branch
+ 2334  cat git_log
+ 2335  git checkout 3930c9e70a7004a508d2cec0cae4bec40f259eb2
+ 2336  ll
+ 2337  cd Projects
+ 2338  ll
+ 2339  cd ugit
+ 2340  ll
+ 2341  cd 02\ Updated\ Project
+ 2342  ll
+ 2343  cd ,,.03
+ 2344  cd ../03\ Extra\ Files
+ 2345  ll
+ 2346  cp * ../
+ 2347  cd ..
+ 2348  ll
+ 2349  clear
+ 2350  ll
+ 2351  pwd
+ 2352  ls
+ 2353  ls -al
+ 2354  cd ugit
+ 2355  ll
+ 2356  cd ..
+ 2357  ll
+ 2358  ls -altr
+ 2359  cd ugit
+ 2360  ls -altr
+ 2361  ls -altr >> .gitignore
+ 2362  vi .gitignore
+ 2363  ll
+ 2364  vi .gitignore
+ 2365  ls -ar
+ 2366  ls -arl
+ 2367  ls -al
+ 2368  ls l
+ 2369  ls 
+ 2370  ls l
+ 2371  ls -l
+ 2372  ls 
+ 2373  ls >> .gitignore
+ 2374  vi .gitignore
+ 2375  clear
+ 2376  cd ..
+ 2377  ll
+ 2378  ls -altr
+ 2379  cd github-crash-course
+ 2380  cd ..
+ 2381  ll
+ 2382  cd ugit/
+ 2383  l
+ 2384  c
+ 2385  clear
+ 2386  ll
+ 2387  ls -al
+ 2388  git add .
+ 2389  git status
+ 2390  git  branch b1c1
+ 2391  git branch
+ 2392  ll
+ 2393  c
+ 2394  lea
+ 2395  clear
+ 2396  git branch
+ 2397  git checkout b1c1
+ 2398  git branch
+ 2399  git log
+ 2400  git log >> git_log
+ 2401  vi git_log
+ 2402  git log
+ 2403  vi git_log
+ 2404  git log >> git_log
+ 2405  grep b1c1 git_log
+ 2406  git log >> git_log1
+ 2407  grep b1c1 git_log1
+ 2408  vi git_log1
+ 2409  git log 
+ 2410  vi git_log
+ 2411  git log > git_log1
+ 2412  vi git_log1
+ 2413  vi git_log
+ 2414  grep b1c1 git_log1
+ 2415  grep b1c1 git_log
+ 2416  git branch
+ 2417  clear
+ 2418  git checkout master
+ 2419  git checkout b1c1
+ 2420  git checkout master
+ 2421  git branch
+ 2422  git branch -D b1c1
+ 2423  git branch
+ 2424  git branch -b b1c1
+ 2425  history >> .history
+ 2426  vi .history
+ 2427  git checkout  -b b1c1
+ 2428  git branch
+ 2429  history >> .history
+ 2430  git branch -D b1c1
+ 2431  git branch
+ 2432  git checkout master
+ 2433  git branch -D b1c1
+ 2434  git checkout  -b b1c1
+ 2435  git branch
+ 2436  git log
+ 2437  pwd
+ 2438  cd ~/Downloads
+ 2439  ll
+ 2440  ls -altr
+ 2441  cd 04\ Updated\ Files
+ 2442  ll
+ 2443  diff styles.css ~/Projects/ugit/
+ 2444  ll
+ 2445  cp styles.css ~/Projects/ugit
+ 2446  ~~
+ 2447  ll
+ 2448  cd pwd
+ 2449  pwd
+ 2450  cd ..
+ 2451  cd 
+ 2452  cd Projects
+ 2453  cd ugit
+ 2454  ll
+ 2455  pwd
+ 2456  cp ~/Projects/github-crash-course/index.html .
+ 2457  ll
+ 2458  git branch
+ 2459  git checkout master
+ 2460  cd ..
+ 2461  ll
+ 2462  cd ugit
+ 2463  ll
+ 2464  cd 05\ Finished
+ 2465  ll
+ 2466  cp index.html ../
+ 2467  git add .
+ 2468  git checkout b2c1
+ 2469  git checkout  -b b2c1
+ 2470  git branch
+ 2471  ll
+ 2472  cd ugit
+ 2473  ll
+ 2474  cd ..
+ 2475  cp ../ugit/04\ Updated\ Files/logo.png .
+ 2476  ll
+ 2477  git log
+ 2478  git log >> p
+ 2479  vi p
+ 2480  git log
+ 2481  vi git_log
+ 2482  c
+ 2483  clear
+ 2484  ll
+ 2485  git branch
+ 2486  git checkout master
+ 2487  git merge  b1c1 
+ 2488  git merge  b2c1 
+ 2489  git branch
+ 2490  clear
+ 2491  ll
+ 2492  git checkout master
+ 2493  git merge  b2c1 
+ 2494  git branch
+ 2495  git log
+ 2496  git branch
+ 2497  git checkout b1c1
+ 2498  vi index.html
+ 2499  git checkout b2c1
+ 2500  vi index.html
+ 2501  git add index.html
+ 2502  git commit b2c1
+ 2503  git commit
+ 2504  git checkout b1c1
+ 2505  vi index.html
+ 2506  git checkout b1c1
+ 2507  vi index.html
+ 2508  git checkout b1c1
+ 2509  git add index.html
+ 2510  git commit b2c1
+ 2511  git commit 
+ 2512  git checkout b1c1
+ 2513  git commit b2c1
+ 2514  git commit 
+ 2515  git add .
+ 2516  git commit 
+ 2517  git checkout b1c1
+ 2518  ll
+ 2519  ls -al
+ 2520  cd ugit
+ 2521  ll
+ 2522  cd ..
+ 2523  ll
+ 2524  ls -al
+ 2525  vi .gitignore
+ 2526  git add .
+ 2527  git commit 
+ 2528  vi .gitignore
+ 2529  git commit 
+ 2530  git checkout b1c1
+ 2531  git add .
+ 2532  git commit 
+ 2533  git checkout main
+ 2534  git branch
+ 2535  git checkout main
+ 2536  git branch
+ 2537  git checkout master
+ 2538  git add .
+ 2539  git commit 
+ 2540  history | grep merge
+ 2541  history | grep b1c1
+ 2542  history | grep merge
+ 2543  git merege b1c1
+ 2544  git merge b1c1
+ 2545  git merge b2c1
+ 2546  vi index.html
+ 2547  git checkout b1c1
+ 2548  vi index.html
+ 2549  git add .
+ 2550  git commit
+ 2551  git checkout b2c1
+ 2552  vi index.html
+ 2553  git add .
+ 2554  git commit
+ 2555  git checkout master
+ 2556  vi index.html
+ 2557  git add .
+ 2558  git commit
+ 2559  git merge b1c1
+ 2560  clear
+ 2561  cp ./05\ Finished/index.html .
+ 2562  git add index.html
+ 2563  git commit
+ 2564  vi index.html
+ 2565  !
+ 2566  vi index.html
+ 2567  git add index.html
+ 2568  git commit
+ 2569  git checkout b1c1
+ 2570  vi index.html
+ 2571  git add index.html
+ 2572  git commit
+ 2573  git checkout b1c1ll
+ 2574  ll
+ 2575  pwd
+ 2576  ll
+ 2577  git checkout master
+ 2578  ll
+ 2579  pwd
+ 2580  ll ../
+ 2581  ll
+ 2582  pwd
+ 2583  cp logo.png ~/Downloads
+ 2584  cp styles.css ~/Downloads
+ 2585  git checkout b1c1
+ 2586  ll
+ 2587  cp ~/Downloads/styles.css .
+ 2588  ll
+ 2589  cp ~/Downloads/logo.png .
+ 2590  git checkout master
+ 2591  git add styles.css logo.png 
+ 2592  ll
+ 2593  git add index.html
+ 2594  git commit
+ 2595  git checkout master
+ 2596  cp ./.gitignore ~/Downloads
+ 2597  git checkout b1c1
+ 2598  cp ~/Downloads/.gitignore .
+ 2599  ll
+ 2600  pwd
+ 2601  ls -al
+ 2602  cp ~/Downloads/logo.png .
+ 2603  cp ~/Downloads/styles.css .
+ 2604  ll
+ 2605  cat .gitignore
+ 2606  ll
+ 2607  grep b1c1 index.html
+ 2608  git add .
+ 2609  git commit
+ 2610  git checkout b2c1
+ 2611  ll
+ 2612  vi index.html
+ 2613  git add .
+ 2614  git commit
+ 2615  git checkout master
+ 2616  git merge b1c1
+ 2617  ll
+ 2618  cd 
+ 2619  ll
+ 2620  cd Projects
+ 2621  ll
+ 2622  cd ugit
+ 2623  l
+ 2624  vi index.html
+ 2625  git branch
+ 2626  git checkout b2c1
+ 2627  git reverse master
+ 2628  git .
+ 2629  :q
+ 2630  git add .
+ 2631  git commit
+ 2632  git checkout b2c1
+ 2633  git .
+ 2634  :q
+ 2635  git add .
+ 2636  git commit
+ 2637  git checkout master
+ 2638  git merge b2c1 
+ 2639  ll
+ 2640  vi index.html
+ 2641  vi .gitignore
+ 2642  git merge b2c1 
+ 2643  gid add .
+ 2644  git add .
+ 2645  git commit
+ 2646  git merge b2c1
+ 2647  git branch -D b1c1
+ 2648  git branch -D b2c1
+ 2649  git branch
+ 2650  ll
+ 2651  \tgit add .
+ 2652  git commiut
+ 2653  git commit
+ 2654  \tgit add index.html
+ 2655  git commit
+ 2656  \tgit add index.html
+ 2657  git commit 
+ 2658  \tgit add index.html
+ 2659  git commit 
+ 2660  \tgit add index.html
+ 2661  git commit 
+ 2662  \tgit add index.html
+ 2663  git commit 
+ 2664  cp ~/Projects/ugit/05\ Finished/index.html .
+ 2665  \tgit add index.html
+ 2666  git commit 
+ 2667  vi .gitignore
+ 2668  git branch
+ 2669  pwd
+ 2670  cd ..
+ 2671  git branch
+ 2672  git status
+ 2673  clear
+ 2674  git remote add localugit https://github.com/devopsjmm/ugit.git
+ 2675  git branch
+ 2676  git remote set-url localugit https://devopsjmm@github.com/devopsjmm/ugit.git
+ 2677  git push localugit main
+ 2678  q
+ 2679  git branch
+ 2680  la
+ 2681  la -alrt
+ 2682  exit
+ 2683  cd ugit
+ 2684  ll
+ 2685  git remote add localugit https://github.com/devopsjmm/ugit.git\\n
+ 2686  pwd
+ 2687  cd Projects/ugit
+ 2688  pwd
+ 2689  ll
+ 2690  date
+ 2691  ll
+ 2692  git add .
+ 2693  git commit
+ 2694  get push
+ 2695  git push
+ 2696  lll
+ 2697  git remote add localugit https://github.com/devopsjmm/ugit.git\\n
+ 2698  git push localugit main
+ 2699  clear
+ 2700  ll
+ 2701  cd
+ 2702  ls
+ 2703  pwd
+ 2704  jenkins
+ 2705  cd
+ 2706  ll
+ 2707  brew install jenkins-lts
+ 2708  rew services start jenkins-lts
+ 2709  brew services start jenkins-lts
+ 2710  docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/kenkins_home jenkins/jenkins:lts
+ 2711  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ 2712  docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/kenkins_home jenkins/jenkins:lts
+ 2713  brew --version
+ 2714  java -version\n\n
+ 2715  brew install java
+ 2716  brew install jenkins-lts
+ 2717  brew services start jenkins-lts
+ 2718  cat /Users/[user]/.jenkins/secrets/initialAdminPassword
+ 2719  sudo cat /Users/[user]/.jenkins/secrets/initialAdminPassword
+ 2720  cat .jenkins/secrets/initialAdminPassword
+ 2721  pwd
+ 2722  ll
+ 2723  cd udemy
+ 2724  ll
+ 2725  cd ..
+ 2726  ll
+ 2727  ls
+ 2728  cd devopsjmm
+ 2729  ll
+ 2730  cd git-test
+ 2731  ll
+ 2732  cd ..
+ 2733  ll
+ 2734  cd ..
+ 2735  ll
+ 2736  Pro
+ 2737  ll
+ 2738  cd Projects
+ 2739  l
+ 2740  cd ugit
+ 2741  l
+ 2742  ll
+ 2743  pwd
+ 2744  cd ugit
+ 2745  ll
+ 2746  cd ../
+ 2747  ll
+ 2748  cat index.html
+ 2749  git
+ 2750  git help
+ 2751  clear
+ 2752  ll
+ 2753  cd Projects
+ 2754  ll
+ 2755  cd ugit
+ 2756  c
+ 2757  clear
+ 2758  ll
+ 2759  gint init
+ 2760  git init
+ 2761  ll
+ 2762  git branch
+ 2763  cd ..
+ 2764  cd gitjmm
+ 2765  pwd
+ 2766  ll
+ 2767  cd ugit
+ 2768  ll
+ 2769  cd ../GitJmm
+ 2770  ll
+ 2771  ls -altr
+ 2772  pwd
+ 2773  ls -al
+ 2774  ls -altr
+ 2775  ll
+ 2776  ls -alrt
+ 2777  cp ~/Projects/github-crash-course/index.html .
+ 2778  ll
+ 2779  git init
+ 2780  ll
+ 2781  ls -al
+ 2782  git add index.html
+ 2783  git status
+ 2784  git commit -m "initial commit"
+ 2785  git status
+ 2786  git log
+ 2787  history >> Git_commands
+ 2788  vi Git_commands
+ 2789  git log
+ 2790  git status
+ 2791  vi Git_commands
+ 2792  pwd
+ 2793  vi Git_commands
+ 2794  history
+ 2795  vi Git_commands
+ 2796  pwd
+ 2797  ll
+ 2798  date
+ 2799  pwd
+ 2800  cp ../ugit/index.html .
+ 2801  ll
+ 2802  cp ../ugit/logo.png .
+ 2803  cp ../ugit/styles.css .
+ 2804  ll
+ 2805  git status
+ 2806  clear
+ 2807  git status
+ 2808  ll
+ 2809  vi Git_commands
+ 2810  history
+ 2811  vi Git_commands
+ 2812  ll
+ 2813  ls -al
+ 2814  pqs
+ 2815  cd ..
+ 2816  ll
+ 2817  cd ugit
+ 2818  ll
+ 2819  cd ../
+ 2820  ll
+ 2821  cd GitJmm
+ 2822  ll
+ 2823  clear
+ 2824  l
+ 2825  git status
+ 2826  ls -al
+ 2827  vi .gitignore
+ 2828  git status
+ 2829  vi .gitignore
+ 2830  git status
+ 2831  history | grep commit
+ 2832  git add . 
+ 2833  git status
+ 2834  vi Git_commands
+ 2835  git status
+ 2836  history | grep commit
+ 2837  git commit -m "C2 second commit"
+ 2838  git log
+ 2839  vi Git_commands
+ 2840  git log
+ 2841  vi Git_commands
+ 2842  git log
+ 2843  git status
+ 2844  git log
+ 2845  vi Git_commands
+ 2846  git log
+ 2847  pwd
+ 2848  cp ../ugit/index.html .
+ 2849  git add . 
+ 2850  git status
+ 2851  git commit -m "C2 second commit"
+ 2852  git status
+ 2853  git log
+ 2854  git rm 3463179b4eddd71f9d1c3fda1171f9413d1be4b4
+ 2855  git it reset --hard 3463179b4eddd71f9d1c3fda1171f9413d1be4b4
+ 2856  git reset --hard 3463179b4eddd71f9d1c3fda1171f9413d1be4b4
+ 2857  git log
+ 2858  git checkout master
+ 2859  git log
+ 2860  git checkout 1ea984ef5747ec578e736934cd27f3db908f35da
+ 2861  vi Git_commands
+ 2862  history
+ 2863  vi Git_commands
+ 2864  cd ../GitJmm
+ 2865  ll
+ 2866  clear
+ 2867  ls -altr
+ 2868  vi Git_commands
+ 2869  git log
+ 2870  vi Git_commands
+ 2871  git log
+ 2872  vi Git_commands
+ 2873  git checkout main
+ 2874  git checkout master
+ 2875  vi Git_commands
+ 2876  clear
+ 2877  git log
+ 2878  vi Git_commands
+ 2879  vi Git_commandsG
+ 2880  vi Git_commands
+ 2881  git log
+ 2882  clear
+ 2883  git revert help
+ 2884  git revert --help
+ 2885  clea
+ 2886  clear
+ 2887  gii log
+ 2888  git log
+ 2889  git checkout 3463179b4eddd71f9d1c3fda1171f9413d1be4b4
+ 2890  git log
+ 2891  git checkout master
+ 2892  git log
+ 2893  git log 3463179b4eddd71f9d1c3fda1171f9413d1be4b4
+ 2894  git log
+ 2895  ll
+ 2896  git status
+ 2897  git rev-list --topo-order HEAD..towards | tail -1
+ 2898  git rev-list --topo-order HEAD..towards | tail -1 >> toto
+ 2899  vi toto
+ 2900  clear
+ 2901  git log reverse
+ 2902  git log --reverse
+ 2903  git log 
+ 2904  git log --reverse
+ 2905  git log --oneline
+ 2906  git log 
+ 2907  git log --oneline
+ 2908  git log
+ 2909  cd ../ugit
+ 2910  ll
+ 2911  git add .
+ 2912  cd status
+ 2913  git status
+ 2914  cd ..
+ 2915  ll
+ 2916  cd GitJmm
+ 2917  ll
+ 2918  c
+ 2919  clear
+ 2920  ll
+ 2921  git status
+ 2922  rm toto
+ 2923  git status
+ 2924  git log
+ 2925  pwd
+ 2926  cp ../ugit/index.html .
+ 2927  pwd
+ 2928  git log
+ 2929  git add .
+ 2930  git commit -m "2nd commit"
+ 2931  git log
+ 2932  git branch
+ 2933  git branch standard-commit-description
+ 2934  git branch
+ 2935  git branch --help
+ 2936  clear
+ 2937  git branch
+ 2938  git checkout standard-commit-description
+ 2939  git branch
+ 2940  git checkout master
+ 2941  git branch
+ 2942  git branch -D standard-commit-description
+ 2943  git branch
+ 2944  git checkout -b standard-commit-description
+ 2945  git branch
+ 2946  pwd
+ 2947  cd ..
+ 2948  cd ugit
+ 2949  ll
+ 2950  cd ..
+ 2951  ll
+ 2952  rm -rf ugit
+ 2953  cd GitJmm
+ 2954  ll
+ 2955  clear
+ 2956  git add .
+ 2957  vi .gitignore
+ 2958  ll
+ 2959  ls -al
+ 2960  git add .
+ 2961  touch index.html
+ 2962  git add .
+ 2963  pwd
+ 2964  ls
+ 2965  ls -altr
+ 2966  touch styles.css logo.png
+ 2967  ls -altr
+ 2968  touch index.html
+ 2969  ls -altr
+ 2970  git add .
+ 2971  git commit -m "pair commit # and branch # specified"
+ 2972  git log
+ 2973  git checkout master
+ 2974  git add .
+ 2975  git commit -m "changed title"
+ 2976  git log
+ 2977  git branch
+ 2978  git checkout standard-commit-description
+ 2979  git branch
+ 2980  git checkout master
+ 2981  git merge standard-commit-description
+ 2982  c
+ 2983  clear
+ 2984  ll
+ 2985  vi Git_commands
+ 2986  clear
+ 2987  git log
+ 2988  vi Git_commands
+ 2989  git log
+ 2990  vi Git_commands
+ 2991  git log
+ 2992  pwd
+ 2993  ll
+ 2994  cd ..
+ 2995  ll
+ 2996  pwd
+ 2997  mkdir docs
+ 2998  cd docs
+ 2999  cp ~/Downloads/cheat-sheet-bundle.zip .
+ 3000  ll
+ 3001  unzip cheat-sheet-bundle.zip
+ 3002  ll
+ 3003  clear
+ 3004  ll
+ 3005  cd cheat-sheet-bundle
+ 3006  ll
+ 3007  cd visual-studio-code
+ 3008  ll
+ 3009  cd ../command-line
+ 3010  ll
+ 3011  clear
+ 3012  ll
+ 3013  pwd
+ 3014  git log
+ 3015  git log -p index.html
+ 3016  ll
+ 3017  pwd
+ 3018  cd 
+ 3019  cd Projects
+ 3020  ll
+ 3021  cd GitJmm
+ 3022  ll
+ 3023  pwd
+ 3024  ll ..
+ 3025  clear
+ 3026  ll
+ 3027  cp ../
+ 3028  cp ..
+ 3029  grep git Git_commands
+ 3030  cd ..
+ 3031  ll
+ 3032  mkdir ugit
+ 3033  cd ugit
+ 3034  ll
+ 3035  cp ../GitJmm/index.html .
+ 3036  cp ../GitJmm/logo.png .
+ 3037  cp ../GitJmm/styles.css .
+ 3038  ll
+ 3039  cp ../GitJmm/.gitignore .
+ 3040  vi .gitignore
+ 3041  cp ../GitJmm/Git_commands .
+ 3042  vi .gitignore
+ 3043  ll
+ 3044  git add .
+ 3045  history | grep git
+ 3046  clear
+ 3047  ll
+ 3048  git init
+ 3049  git add .
+ 3050  git commit -m "initial commit"
+ 3051  status
+ 3052  git statu
+ 3053  git status
+ 3054  git log
+ 3055  history
+ 3056  vi Git_commands
+ 3057  git log
+ 3058  vi Git_commands
+ 3059  c
+ 3060  clear
+ 3061  ll
+ 3062  pwd
+ 3063  git remote add orgigin https://github.com/devopsjmm/ugit.git
+ 3064  git branch
+ 3065  git push origin master
+ 3066  ll https://github.com/devopsjmm/ugit.git
+ 3067  get remote set-url origin https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3068  git remote set-url origin https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3069  git remote set-url origin https://devopsjmm@github.com/devopsjmm/ugit.git
+ 3070  git remote set-url --help
+ 3071  git remote set-url --push ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3072  git remote set-url --push  https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3073  git remote set-url --add  https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3074  git remote add ugit-url https://github.com/devopsjmm/ugit.git
+ 3075  git push
+ 3076  git remote add ugit-url https://github.com/devopsjmm/ugit.git
+ 3077  git push ugit-url
+ 3078  ll
+ 3079  pwd
+ 3080  ll
+ 3081  history
+ 3082  vi Git_commands
+ 3083  touch index.html
+ 3084  vi index.html
+ 3085  touch index.html
+ 3086  git push ugit-url
+ 3087  git add .
+ 3088  git push
+ 3089  git push --set-upstream ugit-url main
+ 3090  git remote add ugit-url https://github.com/devopsjmm/ugit.git
+ 3091  git push ugit-url
+ 3092  git remote set-url --add  https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3093  git remote set-url  https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3094  history
+ 3095  history | grep remote
+ 3096  ll
+ 3097  clear
+ 3098  pwd
+ 3099  history | grep branch
+ 3100  vi Git_commands
+ 3101  history | grep checkout
+ 3102  git checkout -b 'feat-section'
+ 3103  clear
+ 3104  ls -alrt
+ 3105  git add .
+ 3106  git commit -m "added section" 
+ 3107  ll
+ 3108  cd ..
+ 3109  cd ugit
+ 3110  ll
+ 3111  history
+ 3112  git push feat-section
+ 3113  history | grep push
+ 3114  git remote set-url --push ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3115  git push ugit-url
+ 3116  git remote set-url --push ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3117  git push ugit-url
+ 3118  git remote set-url --push ugit-url https://github.com/devopsjmm/ugit.git
+ 3119  git push ugit-url
+ 3120  history
+ 3121  vi Git_commands
+ 3122  history
+ 3123  c
+ 3124  cleat
+ 3125  clear
+ 3126  ll
+ 3127  git checkout main
+ 3128  git checkout master
+ 3129  git merge feat-section
+ 3130  git push ugit-url
+ 3131  git branch 
+ 3132  git branch -D feat-section
+ 3133  history
+ 3134  vi Git_commands
+ 3135  ll
+ 3136  pwd
+ 3137  cd Projects
+ 3138  ll
+ 3139  cd ugit
+ 3140  ll
+ 3141  vi Git_commands
+ 3142  ll
+ 3143  grep b2 index.html
+ 3144  git add .
+ 3145  git commit -m "pair commit/branch c2b2"
+ 3146  ll
+ 3147  ls -altr ..
+ 3148  cd ../GitJmm
+ 3149  ll
+ 3150  ls -alte
+ 3151  cd ../
+ 3152  ll
+ 3153  ls -altr | grep readme
+ 3154  ls -altr | grep -i readme
+ 3155  ls -altrR | grep -d 
+ 3156  cd ugit
+ 3157  ll
+ 3158  git pull
+ 3159  history | grep -i url
+ 3160  git pull ugit-url
+ 3161  git pull ugit-url master
+ 3162  ll
+ 3163  ls -altr
+ 3164  vi Git_commands
+ 3165  vi .gitignore
+ 3166  git pull ugit-url master
+ 3167  git pull ugit-url main
+ 3168  git config pull.rebase false
+ 3169  git config
+ 3170  git config help
+ 3171  git config --help
+ 3172  ll
+ 3173  cd ..
+ 3174  find . -name "README" -ls
+ 3175  find . -name "README.*" -ls
+ 3176  cp ./github-crash-course/README.md ugit
+ 3177  cd ugit
+ 3178  git add .
+ 3179  git commit -m "README files added"
+ 3180  git push ugit-url
+ 3181  ll
+ 3182  git pull ugit-url
+ 3183  git pull ugit-url master
+ 3184  history | grep pull
+ 3185  git pull ugit-url
+ 3186  ll
+ 3187  car README.md
+ 3188  cat README.md
+ 3189  vi README.md
+ 3190  git pull
+ 3191  git pull ugit-url
+ 3192  git pull ugit-url main
+ 3193  git pull ugit-url master
+ 3194  ll
+ 3195  git pull
+ 3196  git remote 0v
+ 3197  git remote -v
+ 3198  git pull ugit-url
+ 3199  ll
+ 3200  ls -al
+ 3201  vi ./.git/config
+ 3202  git pull ugit-url
+ 3203  vi ./.git/config
+ 3204  git pull ugit-url
+ 3205  ll
+ 3206  pwd
+ 3207  ll
+ 3208  clear
+ 3209  ll
+ 3210  pwd
+ 3211  ll
+ 3212  git pull
+ 3213  git pull git@github.com:devopsjmm/ugit.git
+ 3214  git branch
+ 3215  git remot --help
+ 3216  git remote --help
+ 3217  ll
+ 3218  \tgit remote get-url [--push] [--all] ugit-url
+ 3219  \tgit remote get-url --push --all ugit-url
+ 3220  git pull
+ 3221  git remote branch
+ 3222  git remote branch ugit0url
+ 3223  git remote branch ugit-url
+ 3224  git pull ugit-url
+ 3225  history | grep master
+ 3226  git checkout master
+ 3227  history | grep ugit
+ 3228  cp ./github-crash-course/README.md ugit
+ 3229  cp ./ugit/README.md ugit
+ 3230  remote set-url --push ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3231  git remote set-url --pull ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3232  git remote set-url --add ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3233  git pull ugit-url
+ 3234  git push -u ugit-url master
+ 3235  git pull ugit-url
+ 3236  ll
+ 3237  cat README.md
+ 3238  git pull ugit-url
+ 3239  git remote set-url --add ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3240  git pull ugit-url
+ 3241  ll
+ 3242  vi ./.git/cO
+ 3243  vi ./.git/config
+ 3244  ll
+ 3245  vi Git_commands
+ 3246  vi ./.git/config
+ 3247  git pull ugit-url
+ 3248  git pull ugit-url master
+ 3249  git pull ugit-url main
+ 3250  ll
+ 3251  ls -alre
+ 3252  cd .git
+ 3253  ll
+ 3254  cat FETCH_HEAD
+ 3255  git branch
+ 3256  cat HEAD
+ 3257  cat ORIG_HEAD
+ 3258  vi config
+ 3259  ll
+ 3260  cat FETCH_HEAD
+ 3261  vi FETCH_HEAD
+ 3262  ll
+ 3263  vi FETCH_HEAD
+ 3264  git branch
+ 3265  git pull ugit-url main
+ 3266  vi FETCH_HEAD
+ 3267  vi ../Git_commands
+ 3268  vi ./FETCH_HEAD
+ 3269  git pull ugit-url main
+ 3270  vi FETCH_HEAD
+ 3271  git pull ugit-url main
+ 3272  git branch
+ 3273  git remote set-url --add ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3274  git pull ugit-url main
+ 3275  cd ..
+ 3276  git pull ugit-url main
+ 3277  git remote set-url --add ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3278  git pull ugit-url main
+ 3279  vi ./.git/FETCH_HEAD
+ 3280  git pull ugit-url main
+ 3281  vi ./.git/FETCH_HEAD
+ 3282  git pull ugit-url main
+ 3283  git push ugit-url
+ 3284  ll
+ 3285  git pull ugit-url main
+ 3286  git checkout main
+ 3287  ll
+ 3288  cd ..
+ 3289  ll
+ 3290  cd ugit
+ 3291  ll
+ 3292  ls -alrt
+ 3293  rm -rf .git
+ 3294  git init
+ 3295  ll
+ 3296  git pull ugit-url main
+ 3297  git remote set-url --add ugit-url https://devopsjmm@github.com/github.com/devopsjmm/ugit.git
+ 3298  history | grep set
+ 3299  ll
+ 3300  git log
+ 3301  cd ..
+ 3302  ll
+ 3303  cd ugit
+ 3304  ll
+ 3305  ls -al
+ 3306  rm -rf .git
+ 3307  ll
+ 3308  git config --global user.name "devopsjmm"
+ 3309  ls -altr
+ 3310  cd
+ 3311  cd git
+ 3312  ll
+ 3313  cd udemy
+ 3314  ll
+ 3315  cd ../P
+ 3316  cd Pro
+ 3317  ll
+ 3318  cd ..
+ 3319  cd Projects
+ 3320  ll
+ 3321  cd ugit
+ 3322  l
+ 3323  lls -altr
+ 3324  ls -al
+ 3325  git config --global user.name "Jose M Munoz"
+ 3326  git config user.name
+ 3327  git config --global user.email "devopsjmm"
+ 3328  git config user.email
+ 3329  git config user.name
+ 3330  history 
+ 3331  vi Git_commands
+ 3332  git log
+ 3333  git init
+ 3334  git log
+ 3335  git add .
+ 3336  git commit -m "intial commit"
+ 3337  git log
+ 3338  vi ./.git/FETCH_HEAD
+ 3339  vi Git_commands
+ 3340  ll
+ 3341  git status
+ 3342  ll
+ 3343  pwd
+ 3344  cp  * ../test
+ 3345  cd ../test
+ 3346  ll
+ 3347  rm test.sln
+ 3348  ll
+ 3349  cd test
+ 3350  ll
+ 3351  cd ..
+ 3352  ll
+ 3353  rm -rf test
+ 3354  ll
+ 3355  ls -al
+ 3356  rm -rf .git .vs
+ 3357  ll
+ 3358  ls -al
+ 3359  ls -altr
+ 3360  cat .gitignore
+ 3361  rm .gitignore
+ 3362  ll
+ 3363  pwd
+ 3364  cd ..
+ 3365  l
+ 3366  cd test
+ 3367  ll
+ 3368  git log
+ 3369  git add .
+ 3370  git init
+ 3371  git config user.name
+ 3372  git config user.email
+ 3373  git log
+ 3374  pwd
+ 3375  ll
+ 3376  ls -al
+ 3377  git config --global init.defaultBranch test-01
+ 3378  rm -rf .git
+ 3379  git init
+ 3380  history
+ 3381  vi Git_commands
+ 3382  git add .
+ 3383  git commit -m "test_test-01_branch-01"
+ 3384  git log
+ 3385  vi Git_commands
+ 3386  git log
+ 3387  vi Git_commands
+ 3388  ll
+ 3389  pwd
+ 3390  clear
+ 3391  ll
+ 3392  ls -al
+ 3393  git status
+ 3394  ll
+ 3395  git add Git_commands
+ 3396  cp Git_commands gitNotes
+ 3397  git log
+ 3398  git status
+ 3399  rm Git_commands
+ 3400  git status
+ 3401  git add .
+ 3402  ll
+ 3403  ll ../
+ 3404  cd ../ugit
+ 3405  ll
+ 3406  pwd
+ 3407  ls -al
+ 3408  cd ..
+ 3409  ll
+ 3410  cd ugit
+ 3411  ll
+ 3412  rm .git
+ 3413  rm -rf .git
+ 3414  ll
+ 3415  ls -al
+ 3416  rm README.md
+ 3417  cd ..
+ 3418  ll
+ 3419  cd ../getting-started
+ 3420  cd ..
+ 3421  l
+ 3422  cd Projects/test
+ 3423  ll
+ 3424  git add .
+ 3425  git status
+ 3426  history | grep commit
+ 3427  git commit -m "test_test-01_branch-01"
+ 3428  git log
+ 3429  git commit -m "test_test-01_branch-01_add gitNotes"
+ 3430  touch gitNotes
+ 3431  git add gitNotes
+ 3432  git commit -m "test_test-01_branch-01_add gitNotes"
+ 3433  git log
+ 3434  vi gitNotes
+ 3435  git log
+ 3436  vi gitNotes
+ 3437  git add gitNotes
+ 3438  git commit -m "p_test-01_b-01_add gitNotes"
+ 3439  git log
+ 3440  ll
+ 3441  vi gitNotes
+ 3442  git log
+ 3443  git add gitNotes
+ 3444  git commit -m "b_test-01 add gitNotes"
+ 3445  git log
+ 3446  ll
+ 3447  cp gitNotes GitNotes
+ 3448  cp gitNotes GitNotes.txt
+ 3449  git status
+ 3450  vi gitNotes
+ 3451  git status
+ 3452  vi GitNotes.txt
+ 3453  git status
+ 3454  git .
+ 3455  git add .
+ 3456  git status
+ 3457  vi GitNotes.txt
+ 3458  git status
+ 3459  git add .
+ 3460  git status
+ 3461  git log
+ 3462  git status
+ 3463  git commit -m "b_test-01 add gitNotes.txt"
+ 3464  git status
+ 3465  git log
+ 3466  git config --global core.editor "code --wait"
+ 3467  git config user.name
+ 3468  git config core.editor
+ 3469  git status
+ 3470  vi index.html
+ 3471  git status
+ 3472  git add index.html
+ 3473  git commit 
+ 3474  clear
+ 3475  git log
+ 3476  git log --oneline
+ 3477  git commit --amend --help
+ 3478  clear
+ 3479  git branch -v
+ 3480  history | grep -i test-01
+ 3481  git status
+ 3482  git stage index.html
+ 3483  git commit -m "b02 index.html modififed"
+ 3484  git branch
+ 3485  git status
+ 3486  git log
+ 3487  clear
+ 3488  ls -altr
+ 3489  cd
+ 3490  ls -altr
+ 3491  clear
+ 3492  ls -alt .s*
+ 3493  ll
+ 3494  clear
+ 3495  ls -altr ~/.ssh
+ 3496  cd 
+ 3497  ls -al .ssh
+ 3498  more .gitkraken/
+ 3499  cd ~/
+ 3500  cd .git
+ 3501  ll
+ 3502  ls -altr
+ 3503  ls -altr .git
+ 3504  cd 
+ 3505  ll
+ 3506  ls -altr ~/.git
+ 3507  ls -altr ~/.ssh
+ 3508  cd .ssh
+ 3509  ll
+ 3510  ls -altr
+ 3511  cat known_hosts
+ 3512  cd ~
+ 3513  pwd
+ 3514  ll
+ 3515  ls -al
+ 3516  ls -altr ~/.ssh/config
+ 3517  touch ~/.ssh/config
+ 3518  ~/.ssh/config
+ 3519  vi ~/.ssh/config
+ 3520  host github
+ 3521  host github.com
+ 3522  ssh-keygen -t ed25519 -C "devopsjmm@gmail.com" 
+ 3523  eval "$(ssh-agent -s)"
+ 3524  vi ~/.ssh/config
+ 3525  ll ~/.ssh/config
+ 3526  cat ~/.ssh/config
+ 3527  car ~/.ssh/id_ed25519
+ 3528  cat ~/.ssh/id_ed25519
+ 3529  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+ 3530  cat ~/.ssh/id_ed25519
+ 3531  pbcopy < ~/.ssh/id_ed25519.pub
+ 3532  histroy
+ 3533  history
+ 3534  vi ~/Projects/test/gitNotes
+ 3535  c
+ 3536  clear
+ 3537  ll
+ 3538  pwd
+ 3539  clear
+ 3540  ssh-add -K ~/.ssh/id_ed25519
+ 3541  cd
+ 3542  cd Projects
+ 3543  ll
+ 3544  cd ugit
+ 3545  ll
+ 3546  cd ../test
+ 3547  ll
+ 3548  ls -altr
+ 3549  git lo
+ 3550  git log
+ 3551  qemu
+ 3552  git log
+ 3553  git remote -v
+ 3554  git remote add origin https://github.com/devopsjmm/github-demo-test.git
+ 3555  git remote -v
+ 3556  vi ~/Projects/test/gitNotes
+ 3557  git log
+ 3558  git status
+ 3559  git add gitNotes
+ 3560  git commit -m "gitNotes update"
+ 3561  git status
+ 3562  git branch
+ 3563  git push origin test-01
+ 3564  git status
+ 3565  vi ~/Projects/test/gitNotes
+ 3566  git status
+ 3567  git add gitNotes
+ 3568  git commit -m "gitNotes update"
+ 3569  git push origin test-01
+ 3570  git log
+ 3571  vi ~/Projects/test/gitNotes
+ 3572  ll
+ 3573  ll -al
+ 3574  vi .gitigno
+ 3575  mv .gitigno .gitignore
+ 3576  git status
+ 3577  vi .gitigno
+ 3578  ll
+ 3579  ls -al
+ 3580  vi .gitignore
+ 3581  ll
+ 3582  ls -al]
+ 3583  ls -al
+ 3584  clear
+ 3585  ll
+ 3586  ll -al
+ 3587  clear
+ 3588  git log
+ 3589  ll
+ 3590  git status
+ 3591  ls -al
+ 3592  clear
+ 3593  ll
+ 3594  git branch
+ 3595  grep branch gitNotes
+ 3596  grep branch gitNotes | grep git
+ 3597  clear
+ 3598  grep branch gitNotes | grep git
+ 3599  grep branch gitNotes | grep git | grep test-01
+ 3600  clear
+ 3601  ll
+ 3602  git statu
+ 3603  git status
+ 3604  clear
+ 3605  git status
+ 3606  git add ,
+ 3607  histroy | grep commit
+ 3608  history | grep commit
+ 3609  git status
+ 3610  git add ,
+ 3611  git branch
+ 3612  git branch test-02
+ 3613  git switch test-02
+ 3614  ll
+ 3615  pwd
+ 3616  git log
+ 3617  git status
+ 3618  git add .
+ 3619  git commit -m "branch test-02 commit 01"  
+ 3620  git status
+ 3621  git log
+ 3622  git push origin test-02
+ 3623  touch index.html
+ 3624  git status
+ 3625  vi index.html
+ 3626  git status
+ 3627  git log
+ 3628  git add .
+ 3629  git commit -m "branch test-02 commit 02 index update"  
+ 3630  git log
+ 3631  git status
+ 3632  ll
+ 3633  git push origin test-02
+ 3634  git switch test-01
+ 3635  clear
+ 3636  ll
+ 3637  pwd
+ 3638  git add .
+ 3639  l
+ 3640  ll
+ 3641  git status
+ 3642  history
+ 3643  git commit -m "branch test-02 commit 03"
+ 3644  git push origin test-01
+ 3645  history | grep github
+ 3646  ll
+ 3647  pwd
+ 3648  clear
+ 3649  ll
+ 3650  pwd
+ 3651  cd ..
+ 3652  ll
+ 3653  mkdir GitHub
+ 3654  cd GitHub
+ 3655  mkdir Cloning ; cd Cloning
+ 3656  ll
+ 3657  git status
+ 3658  cd ..
+ 3659  mkdir github-clone-demo.git
+ 3660  cd 
+ 3661  cd  Projects/GitHub/github-clone-demo.git .
+ 3662  ll
+ 3663  pwd
+ 3664  cd Projects
+ 3665  ll
+ 3666  cd GitHub
+ 3667  ll
+ 3668  cd github-clone-demo.git
+ 3669  ll
+ 3670  git clone https://github.com/devopsjmm/github-clone-demo.git
+ 3671  ll
+ 3672  cd github-clone-demo
+ 3673  ll
+ 3674  cd ..
+ 3675  rm -r github-clone-demo
+ 3676  cd ..
+ 3677  rm -r github-clone-demo
+ 3678  ll
+ 3679  rm -rf github-clone-demo.git
+ 3680  ll
+ 3681  git clone https://github.com/devopsjmm/github-clone-demo.git
+ 3682  ll
+ 3683  cd github-clone-demo
+ 3684  ll
+ 3685  ls -al
+ 3686  git status
+ 3687  touch toto_01
+ 3688  vi toto_01
+ 3689  git add .
+ 3690  git commit -m "add toto toto toto"
+ 3691  git branch
+ 3692  git push origin master
+ 3693  git push origin main
+ 3694  ll
+ 3695  clear
+ 3696  ll
+ 3697  cd ..
+ 3698  git branch
+ 3699  git branches
+ 3700  cd Cloning
+ 3701  git branch
+ 3702  cd ..
+ 3703  ll
+ 3704  cd ..
+ 3705  ll
+ 3706  cd udocker
+ 3707  ll
+ 3708  clear
+ 3709  ll
+ 3710  clear
+ 3711  cd ..
+ 3712  cd
+ 3713  ls -alte
+ 3714  brew --version
+ 3715  brew install minikube
+ 3716  brew upgrade
+ 3717  mkdir Projects
+ 3718  cd Projects
+ 3719  mkdir minikube
+ 3720  cd minikube
+ 3721  ll
+ 3722  ls -al
+ 3723  minikube start
+ 3724  kubectl -- get po -A
+ 3725  curl -LO "https://dl.k8s.io/release/v1.26.0/bin/darwin/arm64/kubectl"\n
+ 3726  echo "$(cat kubectl.sha256)  kubectl" | shasum -a 256 --check\n
+ 3727  curl -LO "https://dl.k8s.io/release/v1.26.0/bin/darwin/arm64/kubectl"\n
+ 3728  echo "$(cat kubectl.sha256)  kubectl" | shasum -a 256 --check\n
+ 3729  chmod +x ./kubectl\n
+ 3730  sudo mv ./kubectl /usr/local/bin/kubectl\n
+ 3731  sudo chown root: /usr/local/bin/kubectl\n
+ 3732  kubectl version --client\n
+ 3733  kubectl version --client
+ 3734  brew install kubectl\n
+ 3735  kubectl version --client\n
+ 3736  brew install kubectl\n
+ 3737  rew reinstall kubernetes-cli
+ 3738  brew reinstall kubernetes-cli
+ 3739  brew cleanup kubernetes-cli
+ 3740  kubectl version --client\n
+ 3741  sudo port selfupdate\n
+ 3742  kubectl version --client\n
+ 3743  sudo port selfupdate\n
+ 3744  kubectl cluster-info\n
+ 3745  echo "$(cat kubectl-convert.sha256)  kubectl-convert" | shasum -a 256 --check\n
+ 3746  rm kubectl-convert kubectl-convert.sha256\n
+ 3747  ll
+ 3748  ls -altr
+ 3749  history
+ 3750  ll
+ 3751  ls -altr
+ 3752  cd ..
+ 3753  cd
+ 3754  ls -altr
+ 3755  cd .kube
+ 3756  ll
+ 3757  ls -altr
+ 3758  cd ca
+ 3759  cd cache
+ 3760  ll
+ 3761  cd /usr/local
+ 3762  ll
+ 3763  cd bin
+ 3764  ls -alrt
+ 3765  cd
+ 3766  clear
+ 3767  kubctl version
+ 3768  kubectl version
+ 3769  kubectl version --client -ojson | jq -r .clientVersion.gitVersion\n
+ 3770  kubectl version -oyaml --client|awk '/gitVersion/{print $2;}'\n
+ 3771  grep -E --clolor 'vmx | svm' /proc/cpuinfo
+ 3772  grep -E --color 'vmx | svm' /proc/cpuinfo
+ 3773  cd /proc
+ 3774  ll
+ 3775  kubectl cluster-info\n
+ 3776  echo $BASH_VERSION\n
+ 3777  brew install bash\n
+ 3778  brew install bash-completion@2\n
+ 3779  brew_etc="$(brew --prefix)/etc" && [[ -r "${brew_etc}/profile.d/bash_completion.sh" ]] && . "${brew_etc}/profile.d/bash_completion.sh"\n
+ 3780  echo 'source <(kubectl completion bash)' >>~/.bash_profile\n
+ 3781  kubectl convert --help\n
+ 3782  echo "$(cat kubectl-convert.sha256)  kubectl-convert" | shasum -a 256 --check\n
+ 3783  clear
+ 3784  kubectl run nginx --image=nginx
+ 3785  kubectl get pods
+ 3786  kubectl describe pod nginx
+ 3787  cd
+ 3788  cd Projects
+ 3789  ll
+ 3790  mkdir kube
+ 3791  cd kube
+ 3792  cp ../test/gitNotes kubeNotes
+ 3793  vi kubeNotes
+ 3794  clear
+ 3795  kubectl describe pod nginx
+ 3796  ll
+ 3797  kubectl describe pod nginx
+ 3798  kubectl get pods -o wide
+ 3799  history
+ 3800  vi kubeNotes
+ 3801  docker --version
+ 3802  cd
+ 3803  cd Projects
+ 3804  ll
+ 3805  cd udocker
+ 3806  ll
+ 3807  cat managemenDiferentContainers
+ 3808  docker run images
+ 3809  docker run image
+ 3810  docker image
+ 3811  docker image ls
+ 3812  docker run hello-wold
+ 3813  cd
+ 3814  ls
+ 3815  ls -altr
+ 3816  dockerd
+ 3817  sudo sytemctl start docker
+ 3818  docker run hello-wold
+ 3819  cd Projects
+ 3820  cd doc
+ 3821  cd Dockerfile_ejemplos
+ 3822  ll
+ 3823  cd ..
+ 3824  ll
+ 3825  cd udemy
+ 3826  ll
+ 3827  cd docker
+ 3828  ll
+ 3829  ls -ao
+ 3830  cd ../docker
+ 3831  ll
+ 3832  ls -al
+ 3833  cd ..
+ 3834  ls -al
+ 3835  cd ..
+ 3836  ls -al
+ 3837  cd udemy
+ 3838  ll
+ 3839  cd docker
+ 3840  ll
+ 3841  ls -al
+ 3842  cd ../
+ 3843  ls -al
+ 3844  cd ..
+ 3845  ls -al
+ 3846  cd Projects
+ 3847  ll
+ 3848  ls -al
+ 3849  cd udocker
+ 3850  ll
+ 3851  grep docker notes
+ 3852  docker run hello-world
+ 3853  docker container ls
+ 3854  docker image
+ 3855  docker images
+ 3856  run hello-world
+ 3857  docker run hello-world
+ 3858  docker run busybox echo 'Hi There'
+ 3859  docker run busybox ls
+ 3860  docker run busybox pwd
+ 3861  docker run busybox whoami
+ 3862  docker run busybox ls /usr
+ 3863  docker run busybox ls /usr/bin
+ 3864  docker run busybox ls -al /usr/bin
+ 3865  docker run busybox ls /bin
+ 3866  doker ps
+ 3867  docker ps
+ 3868  docker run busybox ping google.com
+ 3869  docker run busybox ping google.com &
+ 3870  docker ps
+ 3871  fg
+ 3872  docker ps
+ 3873  docker --all
+ 3874  clear
+ 3875  docker ps --all
+ 3876  cler
+ 3877  clear
+ 3878  docker ps --all
+ 3879  history
+ 3880  docker create hello-world
+ 3881  docker start -a d3167be5f2fa643da7b68eefbb80ec5a65c1476a5b46024e1310cac70f0ae729
+ 3882  docker ps
+ 3883  docker ps --all
+ 3884  docker create busybox echo Hola 
+ 3885  docker start 2764fe5b2b77798c6cb0ab1cc84dfed025327753dc5b7a9039e518ed6e2dda8e
+ 3886  docker logs 2764fe5b2b77798c6cb0ab1cc84dfed025327753dc5b7a9039e518ed6e2dda8e
+ 3887  vi notes
+ 3888  docker create busybox ping google.com
+ 3889  docker start 18c8030f33b13cfe53eda2d08b9f0a55c3a3d2ebb8bf0a16d4f2e57f8c550632
+ 3890  docker logs 18c8030f33b13cfe53eda2d08b9f0a55c3a3d2ebb8bf0a16d4f2e57f8c550632
+ 3891  docker ps
+ 3892  docker stop 18c8030f33b13cfe53eda2d08b9f0a55c3a3d2ebb8bf0a16d4f2e57f8c550632
+ 3893  docker ps
+ 3894  docker create busybox ping google.com
+ 3895  docker start 18c8030f33b13cfe53eda2d08b9f0a55c3a3d2ebb8bf0a16d4f2e57f8c550632
+ 3896  docker 2ed51eee26a206f52d5ad969192a5ce5ab046847a9f9bbf4e6c414196cc1fd48
+ 3897  docker create busybox ping google.com
+ 3898  docker start e672c9a2fd403fea7817232ef5a9e076375442572a385ee2e8145293597b37e4
+ 3899  docker ps
+ 3900  docker e672c9a2fd40
+ 3901  docker stop e672c9a2fd40
+ 3902  docker stop 18c8030f33b1
+ 3903  docker ps
+ 3904  docker system prone
+ 3905  docker system prune
+ 3906  vi notes
+ 3907  docker run redis
+ 3908  docker ps
+ 3909  docker exec -it d4cc8290e086 redis-cli
+ 3910  cd 
+ 3911  cd Projects
+ 3912  ll
+ 3913  cd ugit
+ 3914  ll
+ 3915  cd ../udocker
+ 3916  ll
+ 3917  vi notes
+ 3918  docker exec  d4cc8290e086 redis-cli
+ 3919  docker ps
+ 3920  docker exec  -it d4cc8290e086 redis-cli ls
+ 3921  docker ps
+ 3922  docker exec  -it d4cc8290e086 redis-cli
+ 3923  docker ps
+ 3924  cd ..
+ 3925  ll
+ 3926  ls -altr
+ 3927  cd udocker
+ 3928  ll
+ 3929  ls -al
+ 3930  mkdir redis-image
+ 3931  ls -altr
+ 3932  cd redis-image
+ 3933  code .
+ 3934  docker build .
+ 3935  ll
+ 3936  docker run sha256:2f41a06742ef2d46ded7527b9ee3f8646752dda4454817745f99ea9022db1e11
+ 3937  ll
+ 3938  exit
+ 3939  h
+ 3940  history
+ 3941  docker -v build .
+ 3942  docker images
+ 3943  docker rmi e79ba23ed43b
+ 3944  docker ps -a
+ 3945  docker rm -f 6fef0afef00a d4cc8290e086
+ 3946  docker rmi e79ba23ed43b
+ 3947  docker images
+ 3948  docker build --help
+ 3949  docker -v --help
+ 3950  docker images
+ 3951  docker images ls
+ 3952  docker images ls -a
+ 3953  docker images 
+ 3954  history grep pune
+ 3955  history | grep pune
+ 3956  history | grep prune
+ 3957  docker system prune
+ 3958  docker images 
+ 3959  docker rmi nginx
+ 3960  docker images 
+ 3961  docker rmi alpine busybox ubuntu centos
+ 3962  docker images 
+ 3963  docker rmi ubuntu
+ 3964  docker images 
+ 3965  docker rmi e4b82614cac8
+ 3966  docker images 
+ 3967  docker rmi 55b7b4f7c5d6
+ 3968  docker images 
+ 3969  docker rmi 46331d942d63
+ 3970  docker images 
+ 3971  docker rmi c9a1fdca3387
+ 3972  docker images 
+ 3973  docker ps 
+ 3974  docker ps -s
+ 3975  docker ps -a
+ 3976  docker logs
+ 3977  clear
+ 3978  docker logs -a
+ 3979  history | grep log
+ 3980  history | grep ps
+ 3981  docker --all
+ 3982  docker logs -a
+ 3983  history | grep ps
+ 3984  docker ps --all
+ 3985  docker -v build .
+ 3986  docker images
+ 3987  clear
+ 3988  docker images 
+ 3989  docker -v build .
+ 3990  docker images 
+ 3991  clear
+ 3992  docker images 
+ 3993  clear
+ 3994  docker images 
+ 3995  docker -v build .
+ 3996  docker run sha256:0d78849513d88a1b32a65f1aab0f8a8e33d7bcbc02c7c0dccc2b9864ce1eaafb
+ 3997  ll
+ 3998  clear
+ 3999  ll
+ 4000  pwd
+ 4001  ll
+ 4002  git init
+ 4003  ll
+ 4004  clear
+ 4005  ll
+ 4006  docker images
+ 4007  docker built -t dockerjmm/redis:later .
+ 4008  docker build --help
+ 4009  docker build -t dockerjmm:latest .
+ 4010  docker images
+ 4011  vi DockerNotes
+ 4012  docker images
+ 4013  docker ps
+ 4014  vi Docker
+ 4015  vi Dockerfile
+ 4016  rmi fa024982c2a1
+ 4017  docker rmi fa024982c2a1
+ 4018  docker rmi 0d78849513d8
+ 4019  docker ps -a
+ 4020  docker 3217cdf09a49
+ 4021  docker rm boring_napier
+ 4022  docker ps -a
+ 4023  docker rmi 0d78849513d8
+ 4024  docker images
+ 4025  clear
+ 4026  ll
+ 4027  docker build --help
+ 4028  docker build -t image-redis-jmm .
+ 4029  docker image
+ 4030  docker images
+ 4031  clear
+ 4032  docker images
+ 4033  docker build -t image-redis-jmm .
+ 4034  docker images
+ 4035  docker run sha256:fa024982c2a1f4919395b00058287f724d7c918f6b695eacac5c00b48623cb16
+ 4036  docker images
+ 4037  docker ps -a
+ 4038  whoami
+ 4039  docker image
+ 4040  docker images
+ 4041  clear
+ 4042  docker images
+ 4043  docker ps
+ 4044  docker ps -a
+ 4045  docker rm optimistic_poincare
+ 4046  docker ps -a
+ 4047  docker images
+ 4048  rmi fa024982c2a1
+ 4049  docker rmi fa024982c2a1
+ 4050  clear
+ 4051  system --help
+ 4052  docker system --help
+ 4053  docker system prune
+ 4054  ll
+ 4055  clear
+ 4056  ll
+ 4057  vi Docker
+ 4058  vi Dockerfile
+ 4059  cd ..
+ 4060  ll
+ 4061  pwd
+ 4062  l
+ 4063  grep docker notes
+ 4064  cd ..
+ 4065  ll
+ 4066  cd test
+ 4067  ll
+ 4068  git ls
+ 4069  git --help
+ 4070  grep git gitNotes
+ 4071  git status
+ 4072  ll
+ 4073  pwd
+ 4074  cd ..
+ 4075  cd test
+ 4076  ll
+ 4077  cd ..
+ 4078  ll
+ 4079  mkdir p01
+ 4080  cd p01
+ 4081  ll
+ 4082  ls -al
+ 4083  cd ..
+ 4084  ls -al
+ 4085  cd 
+ 4086  ls -al
+ 4087  cd P
+ 4088  cd Projects
+ 4089  ll
+ 4090  ls -al
+ 4091  cd ugit
+ 4092  ll
+ 4093  ls -al
+ 4094  cd ../
+ 4095  ls -al
+ 4096  cd p01
+ 4097  ls -al
+ 4098  cp ../test/gitNotes .
+ 4099  grep git gitNotes
+ 4100  git config --global user.email "devopsjmm"
+ 4101  it config --global user.name "Jose M Munoz"
+ 4102  git config --global user.name "Jose M Munoz"
+ 4103  ll
+ 4104  git config user.name
+ 4105  git config user.email
+ 4106  grep init gitNotes
+ 4107  git init
+ 4108  git branch
+ 4109  grep branch gitNotes
+ 4110  git status
+ 4111  grep branch
+ 4112  grep branch gitNotes
+ 4113  git add .
+ 4114  grep commit gitNotes
+ 4115  git branch
+ 4116  git status
+ 4117  ll
+ 4118  pwd
+ 4119  cd ..
+ 4120  cd ugit
+ 4121  ll
+ 4122  grep branch Git_commands
+ 4123  grep switch Git_commands
+ 4124  clear
+ 4125  grep switch Git_commands
+ 4126  cd
+ 4127  ll
+ 4128  cd 
+ 4129  cd Projects
+ 4130  ll
+ 4131  cd p01
+ 4132  ll
+ 4133  vi p01Notes
+ 4134  git switch -c b01
+ 4135  git init
+ 4136  git checkout test-01
+ 4137  git branch
+ 4138  ll
+ 4139  ls -alrt
+ 4140  git add .
+ 4141  grep commit  Git_commands
+ 4142  git commit -m "c01 initial commit"
+ 4143  git status
+ 4144  git logs
+ 4145  history
+ 4146  vi gitNotes
+ 4147  vi p01Notes
+ 4148  clear
+ 4149  pwd
+ 4150  grep commit  Git_commands
+ 4151  git logs
+ 4152  git log
+ 4153  h
+ 4154  alias h history
+ 4155  h
+ 4156  grep alias ~/.*
+ 4157  vi ~/.zshrc
+ 4158  vi ~/.my-zsh
+ 4159  source ~/.my-zsh
+ 4160  h
+ 4161  l
+ 4162  ll
+ 4163  h
+ 4164  l
+ 4165  cd
+ 4166  grep alias 
+ 4167  ll
+ 4168  ls
+ 4169  ls -a
+ 4170  vi .my-zsh
+ 4171  source .my-zsh
+ 4172  h
+ 4173  history
+ 4174  alias h = history
+ 4175  alias h "history"
+ 4176  h
+ 4177  vi .my-zsh
+ 4178  ls
+ 4179  ls -a
+ 4180  vi .shell.pre-oh-my-zsh
+ 4181  vi .zsh_history
+ 4182  grep alias *
+ 4183  grep alias .*
+ 4184  vi .zshrc.pre-oh-my-zsh
+ 4185  h
+ 4186  c
+ 4187  l
+ 4188  alias l
+ 4189  grep ls .*
+ 4190  grep ls .* | grep alias
+ 4191  vi .zshrc.pre-oh-my-zsh
+ 4192  alias
+ 4193  vi .zshrc
+ 4194  jmm
+ 4195  vi .zshrc
+ 4196  mate
+ 4197  vi .zshrc
+ 4198  l
+ 4199  alias
+ 4200  zshconfig
+ 4201  vi .zshrc
+ 4202  alias
+ 4203  ll
+ 4204  ls -a
+ 4205  vi .ssh
+ 4206  vi .shell.pre-oh-my-zsh
+ 4207  vi .oh-my-zsh
+ 4208  grep -n alias .* 
+ 4209  source ./.zshrc
+ 4210  vi .zshrc
+ 4211  alias
+ 4212  ~v
+ 4213  vi .zshrc
+ 4214  source .zshrc
+ 4215  c
+ 4216  clear
+ 4217  which clear
+ 4218  which history
+ 4219  which omz_history
+ 4220  vi .zshrc
+ 4221  which clear
+ 4222  echo $PATH
+ 4223  alias h = history
+ 4224  alias l = "ls -lrt"\n
+ 4225  alias l="ls -lrt"\n
+ 4226  l
+ 4227  alias h="history"\n
+ 4228  h
+ 4229  vi .zshrc
+ 4230  vi .my-zsh
+ 4231  h
+ 4232  alias h
+ 4233  grep my-sh .*
+ 4234  vi .my-zsh
+ 4235  vi .zshrc
+ 4236  h
+ 4237  c
+ 4238  ll
+ 4239  ls -altr
+ 4240  pwd
+ 4241  cd Projects
+ 4242  ll
+ 4243  cd p01
+ 4244  ll
+ 4245  vi p01Notes
+ 4246  docker ps
+ 4247  docker ps --all
+ 4248  docker ps -a
+ 4249  vi p01Notes
+ 4250  docker ps --all
+ 4251  cd p01
+ 4252  vi p01Notes
+ 4253  cd
+ 4254  cd Projects
+ 4255  cd p01
+ 4256  docker create hello-world
+ 4257  docker start -a hello-worl:latest
+ 4258  docker log
+ 4259  docker logs
+ 4260  docker ps
+ 4261  docker ps -a
+ 4262  clear
+ 4263  docker start -a cf7fcaec41ea
+ 4264  docker ps -a
+ 4265  docker ps 
+ 4266  docker ps -a
+ 4267  c
+ 4268  docker ps -a
+ 4269  docker image
+ 4270  docker images
+ 4271  clear
+ 4272  docker ps -a
+ 4273  docker images
+ 4274  docker create hello-world -name "hello-word-image"
+ 4275  docker ps -a
+ 4276  clear
+ 4277  docker ps -a
+ 4278  docker images
+ 4279  docker create --help
+ 4280  vi p01Notes
+ 4281  clear
+ 4282  docker system prune
+ 4283  vi p01Notes
+ 4284  redis-server
+ 4285  docker run redis
+ 4286  ll
+ 4287  docker ps
+ 4288  redis-cli
+ 4289  docker ps
+ 4290  docker exec -it redis-cli 3765854d1bd0
+ 4291  docker exec -it  3765854d1bd0 redis-cli
+ 4292  vi p01Notes
+ 4293  ll
+ 4294  cd ..
+ 4295  ll
+ 4296  cd udocker
+ 4297  ll
+ 4298  cd redis-image
+ 4299  ll
+ 4300  cat Dockerfile
+ 4301  v
+ 4302  vi p01Notes
+ 4303  cd ..
+ 4304  ll
+ 4305  cd
+ 4306  cd P
+ 4307  cd Projects
+ 4308  ll
+ 4309  cd p01
+ 4310  ll
+ 4311  vi p01Notes
+ 4312  docker ps --all
+ 4313  docker rm  3765854d1bd0
+ 4314  docker rmf  3765854d1bd0
+ 4315  docker rm -f   3765854d1bd0
+ 4316  docker images
+ 4317  docker rm -f cf7fcaec41ea
+ 4318  docker rm -f 75cb848af2c9
+ 4319  docker ps -all
+ 4320  docker images
+ 4321  docker rmi e79ba23ed43b
+ 4322  docker rmi 46331d942d63
+ 4323  docker ps -all
+ 4324  docker images
+ 4325  docker build .
+ 4326  ll
+ 4327  cp ../udocker/redis-image/Dockerfile .
+ 4328  docker build .
+ 4329  vi p01Notes
+ 4330  clear
+ 4331  cat p01Notes
+ 4332  cat Dockerfile
+ 4333  docker exec -it c7166a1ef76a613c378598cb79d3c5c13db706be8aa1b41860d450dfd95cacf3 sh
+ 4334  docker ps
+ 4335  docker ps --all
+ 4336  docker image
+ 4337  docker images
+ 4338  clear
+ 4339  docker images
+ 4340  cat p01Notes
+ 4341  docker images
+ 4342  docker images | grep c7 | print $3
+ 4343  docker images | grep c7 | print $2
+ 4344  docker images | grep c7 | print $1
+ 4345  docker images | grep c7 | print $0
+ 4346  docker images | grep c7 | print ${3}
+ 4347  docker images | grep c7 |\n
+ 4348  docker images | grep c7 \n
+ 4349  vi p01Notes
+ 4350  grep "docker run" p01Notes
+ 4351  vi p01Notes
+ 4352  c
+ 4353  cat p01Notes
+ 4354  docker ps
+ 4355  docker ps --all
+ 4356  docker images
+ 4357  ll
+ 4358  cd ..
+ 4359  ll
+ 4360  cd p01
+ 4361  ll
+ 4362  ls -al
+ 4363  vi Dockerfile
+ 4364  cd ..
+ 4365  ll
+ 4366  mkdir p02
+ 4367  cd p02
+ 4368  cp ../p01/Dockerfile .
+ 4369  cp ../p01/p01Notes p02Notes
+ 4370  ll ../p01
+ 4371  vi Dockerfile
+ 4372  pm run start
+ 4373  npm run start
+ 4374  clear
+ 4375  ll
+ 4376  vi package.json
+ 4377  clear
+ 4378  ll
+ 4379  docker build -t devopsjmm/p02 .
+ 4380  clear
+ 4381  docker build -t devopsjmm/p02 .
+ 4382  docker imnage
+ 4383  docker imnages
+ 4384  clear
+ 4385  ll
+ 4386  docker ps
+ 4387  docker images
+ 4388  docker run devopsjmm/p02 
+ 4389  clear
+ 4390  docker run 8085:8085 devopsjmm/p02 
+ 4391  docker run 8080:8080 devopsjmm/p02 
+ 4392  docker run devopsjmm/p02 
+ 4393  docker ps
+ 4394  docker ps -a
+ 4395  docker rm 5b 
+ 4396  docker rm 7
+ 4397  docker ps -a
+ 4398  docker images
+ 4399  docker rmi c
+ 4400  docker images
+ 4401  docker rmi 9
+ 4402  docker images
+ 4403  clear
+ 4404  docker build -t devopsjmm/p02 .
+ 4405  docker images
+ 4406  docker run 8080:8080 devopsjmm/p02 
+ 4407  docker login
+ 4408  docker run 8080:8080 devopsjmm/p02 
+ 4409  docker run 5000:8080 devopsjmm/p02 
+ 4410  cd ..
+ 4411  ll
+ 4412  cd ..
+ 4413  ll
+ 4414  cd p02
+ 4415  ll
+ 4416  ls -al
+ 4417  cd ../p01
+ 4418  ll
+ 4419  pwd
+ 4420  cd ..
+ 4421  ll
+ 4422  ls -alrt
+ 4423  cd ..
+ 4424  ll
+ 4425  cd 
+ 4426  cd Projects
+ 4427  ll
+ 4428  cd p02
+ 4429  ll
+ 4430  cd ..
+ 4431  ll
+ 4432  cd ugit
+ 4433  ll
+ 4434  cd ..
+ 4435  ll
+ 4436  cd test
+ 4437  ll
+ 4438  cd ..
+ 4439  ll
+ 4440  cd ..
+ 4441  ll
+ 4442  pwd
+ 4443  cd Projects
+ 4444  cd p01
+ 4445  cd ../p02
+ 4446  ll
+ 4447  vi package.json
+ 4448  cd ..
+ 4449  cd p02
+ 4450  clear
+ 4451  ll
+ 4452  cd ..
+ 4453  ll
+ 4454  ls -altr
+ 4455  clear
+ 4456  ll
+ 4457  ls -altr
+ 4458  cd p01
+ 4459  ll
+ 4460  cd ..
+ 4461  ll
+ 4462  cd udocker
+ 4463  cd redis-image
+ 4464  ll
+ 4465  cp * ~/Projects/p02
+ 4466  cd ~/Projects/p02
+ 4467  ll
+ 4468  clear
+ 4469  code .
+ 4470  ll
+ 4471  git init 
+ 4472  git add .
+ 4473  grep commit DockerNotes
+ 4474  grep ~/Projects/ugit/Git_commands
+ 4475  grep commit  ~/Projects/ugit/Git_commands
+ 4476  cd ..
+ 4477  cd p01
+ 4478  ll
+ 4479  grep commit Dockerfile
+ 4480  cd ../p02
+ 4481  ll
+ 4482  clear
+ 4483  ll
+ 4484  grep commit p02Notes
+ 4485  git commit -m "c01 initial commit"
+ 4486  clear
+ 4487  grep git p02Notes
+ 4488  git logs
+ 4489  git log
+ 4490  grep test-01 ~/Projects/ugit/Git_commands
+ 4491  history | grep test-01
+ 4492  git config --global init.defaultBranch main
+ 4493  git init
+ 4494  rm .git
+ 4495  rm -rf .git
+ 4496  git init
+ 4497  history | grep test-01
+ 4498  vi DockerNotes
+ 4499  clear
+ 4500  ll
+ 4501  history | grep docker run
+ 4502  history | grep "docker run"
+ 4503  vi index.js
+ 4504  docker run -p 5000:5000 devopsjmm/p02
+ 4505  history | grep "docker run"
+ 4506  vi index.js
+ 4507  docker run -p 8080:8080 devopsjmm/p02
+ 4508  docker run -it devopsjmm/p02 sh
+ 4509  ll
+ 4510  vi Docker
+ 4511  vi Dockerfile
+ 4512  clear
+ 4513  ll
+ 4514  clear
+ 4515  ll
+ 4516  docker image
+ 4517  clear
+ 4518  docker images
+ 4519  docker ps
+ 4520  docker ps -a
+ 4521  docker rm b2 55 51
+ 4522  docker ps -a
+ 4523  docker images
+ 4524  docker rmi 9e
+ 4525  docker images
+ 4526  clear
+ 4527  docker build -t devopsjmm/p02 
+ 4528  docker build -t devopsjmm/p02 . 
+ 4529  clear
+ 4530  ll
+ 4531  docker run -p 8080:8080 devopsjmm/p02 
+ 4532  l
+ 4533  docker run -it devopsjmm/p02 sh
+ 4534  history
+ 4535  vi p02Notes
+ 4536  clear
+ 4537  docker ps
+ 4538  docker exec -it 12e98e1dee26 sh
+ 4539  docker ps 
+ 4540  docker image
+ 4541  clear
+ 4542  c
+ 4543  docker ps 
+ 4544  docker images
+ 4545  docker rm 12
+ 4546  docker stop 12
+ 4547  docker rm 12
+ 4548  docker ps 
+ 4549  c
+ 4550  ll
+ 4551  docker images
+ 4552  docker rmi 3e
+ 4553  docker ps -a
+ 4554  docker rm 5e
+ 4555  docker rm f
+ 4556  docker ps -a
+ 4557  docker rmi 3e
+ 4558  docker ps -a
+ 4559  docker images
+ 4560  c
+ 4561  docker images
+ 4562  docker ps -a
+ 4563  h
+ 4564  docker build -t devopsjmm/p02 .
+ 4565  docker images
+ 4566  docker rmi 18
+ 4567  docker images
+ 4568  c
+ 4569  docker system prune
+ 4570  c
+ 4571  clear
+ 4572  ll
+ 4573  clear
+ 4574  docker build -t devopsjmm/p02 .
+ 4575  ll
+ 4576  ls -altr
+ 4577  vi p02Notes
+ 4578  h
+ 4579  vi p02Notes
+ 4580  c
+ 4581  clear
+ 4582  ll
+ 4583  vi p02Notes
+ 4584  c
+ 4585  vi package.json
+ 4586  vi Dockerfile
+ 4587  docker build -t devopsjmm/p02 .
+ 4588  ll
+ 4589  vi Dockerfile
+ 4590  c
+ 4591  docker build -t devopsjmm/p02 .
+ 4592  docker images
+ 4593  docker ps -a
+ 4594  docker rmi cd
+ 4595  docker rmi le
+ 4596  docker images
+ 4597  docker rmi le
+ 4598  ll
+ 4599  docker images
+ 4600  docker rmi le
+ 4601  docker rmi 1
+ 4602  docker images
+ 4603  c
+ 4604  ll
+ 4605  docker images
+ 4606  docker build -t devopsjmm/p02 .
+ 4607  docker images
+ 4608  c
+ 4609  docker images
+ 4610  h | grep run
+ 4611  docker run -p 8080:8080 devopsjmm/p02
+ 4612  c
+ 4613  ll
+ 4614  c
+ 4615  pwd
+ 4616  c
+ 4617  ll
+ 4618  pwd
+ 4619  docker images
+ 4620  docker ps
+ 4621  docker rm -f c
+ 4622  docker ps
+ 4623  docker run -d --name cont01_p02 devopsjmm/p02 
+ 4624  docker ps
+ 4625  docker images
+ 4626  h
+ 4627  docker images
+ 4628  docker ps -a
+ 4629  vi p02Notes
+ 4630  vi Dockerfile
+ 4631  vi DockerNotes
+ 4632  vi p02Notes
+ 4633  c
+ 4634  docker ps -a
+ 4635  cd ..
+ 4636  mkdir p03
+ 4637  cd p03
+ 4638  ll
+ 4639  pwd
+ 4640  cp ../p02/* .
+ 4641  ll
+ 4642  rm DockerNotes
+ 4643  ll
+ 4644  clear
+ 4645  ll
+ 4646  c
+ 4647  ll
+ 4648  pwd
+ 4649  ll
+ 4650  cpde .
+ 4651  c
+ 4652  code .
+ 4653  ll
+ 4654  jenkins
+ 4655  cd
+ 4656  ll
+ 4657  docker pull jenkins:2.20.60-alpine
+ 4658  cd Projects
+ 4659  cd 
+ 4660  ll
+ 4661  c
+ 4662  clear
+ 4663  c
+ 4664  ll
+ 4665  cd Projects
+ 4666  l
+ 4667  c
+ 4668  ll
+ 4669  cd p01
+ 4670  ll
+ 4671  grep "pull" Dockerfile
+ 4672  grep pull ../ugit/Git_commands 
+ 4673  docker pull jenkins:alpine
+ 4674  ll
+ 4675  cd ../p03
+ 4676  ll
+ 4677  c
+ 4678  ll
+ 4679  cd
+ 4680  brew install jenkins-lts
+ 4681  brew services start jenkins-lts
+ 4682  docker-compose 
+ 4683  cd
+ 4684  cd Projects
+ 4685  cd p03
+ 4686  ll
+ 4687  cp ~/Downloads/5*.zip .
+ 4688  ll
+ 4689  unzip 53-docker-compose-files.zip
+ 4690  ll
+ 4691  ls -altr
+ 4692  cd visits
+ 4693  ll
+ 4694  cd ../
+ 4695  ll
+ 4696  unzip 54-networking-docker-compose.zip
+ 4697  cd ../
+ 4698  mkdir p03_doc
+ 4699  cd p03_doc
+ 4700  mv ../p03/5* .
+ 4701  ll
+ 4702  unzip 53-docker-compose-files.zip
+ 4703  unzip 54-networking-docker-compose.zip
+ 4704  ll
+ 4705  rm -rf visits networking
+ 4706  l
+ 4707  ll
+ 4708  cd ..
+ 4709  ll
+ 4710  cd p03
+ 4711  ll
+ 4712  c
+ 4713  ll
+ 4714  mv p02Notes p03Notes
+ 4715  ll
+ 4716  vi Dockerfile
+ 4717  vi Dockerfilexs visits
+ 4718  cd visits
+ 4719  ll
+ 4720  cat docker
+ 4721  cat docker-compose.yml
+ 4722  ll
+ 4723  cd ..
+ 4724  ll
+ 4725  cd ..
+ 4726  ll
+ 4727  mv p03_doc p03
+ 4728  cd p03
+ 4729  ll
+ 4730  cd p03_doc
+ 4731  ll
+ 4732  unzip 54-networking-docker-compose.zip
+ 4733  unzip 53-docker-compose-files.zip
+ 4734  y
+ 4735  ll
+ 4736  cd visits
+ 4737  ll
+ 4738  cd ..
+ 4739  unzip 54-docker-compose-files.zip
+ 4740  unzip 54-networking-docker-compose.zip
+ 4741  unzip 57-container-maintenance.zip
+ 4742  ll
+ 4743  cd visits
+ 4744  vi Dockerfile
+ 4745  ll
+ 4746  vi docker-compose.yml
+ 4747  ll
+ 4748  vi package.json
+ 4749  l
+ 4750  lvi package.json
+ 4751  vi package.json
+ 4752  vi index.js
+ 4753  ll
+ 4754  pwd
+ 4755  cp *  ../../
+ 4756  cd ../
+ 4757  ll
+ 4758  cd ..
+ 4759  ll
+ 4760  rm -rf visits
+ 4761  ll
+ 4762  mv p03_doc ..
+ 4763  ll
+ 4764  c
+ 4765  ll
+ 4766  git add .
+ 4767  git init
+ 4768  ll
+ 4769  grep main p03Notes
+ 4770  pwd
+ 4771  ll
+ 4772  grep main ../p02/p02Notes 
+ 4773  grep docker ../p02/p02Notes 
+ 4774  grep git ../p02/p02Notes 
+ 4775  c
+ 4776  ll
+ 4777  grep git ../p02/p02Notes 
+ 4778  grep init.defaultBranch ../p02/p02Notes 
+ 4779  ll
+ 4780  grep init.defaultBranch ../p02/Dockerfile
+ 4781  grep init.defaultBranch ../p02/DockerNotes
+ 4782  grep init.defaultBranch p03Notes
+ 4783  c
+ 4784  grep init.defaultBranch p03Notes
+ 4785  c
+ 4786  grep init.defaultBranch p03Notes
+ 4787  git config --global init.defaultBranch feature
+ 4788  rm -rf .git
+ 4789  git  add .
+ 4790  grep commit p03Notes
+ 4791  git commit -m "b01 initial commit"
+ 4792  git init
+ 4793  git  add .
+ 4794  git commit -m "b01 initial commit"
+ 4795  c
+ 4796  lr
+ 4797  ll
+ 4798  docker-compose up
+ 4799  h | grep jenkins
+ 4800  brew services stop jenkins-lts
+ 4801  docker-compose up
+ 4802  vi index.js
+ 4803  c
+ 4804  ll
+ 4805  vi docker-compose.yml
+ 4806  c
+ 4807  ll
+ 4808  c
+ 4809  docker-compose --version
+ 4810  docker images
+ 4811  docker ps
+ 4812  rm -f 3
+ 4813  docker ps
+ 4814  docler rm -f 3b
+ 4815  docker rm -f 3b
+ 4816  docker ps
+ 4817  docker rmi 22 e7 cd
+ 4818  docker ps -a
+ 4819  docker rm -f 9 a
+ 4820  docker ps -a
+ 4821  docker rmi 22 e7 cd
+ 4822  docker images
+ 4823  c
+ 4824  ll
+ 4825  ll ../
+ 4826  ll p03_doc
+ 4827  cd ../p03_doc
+ 4828  ll
+ 4829  rm -rf visits
+ 4830  unzip 53-docker-compose-files.zip
+ 4831  cd visits
+ 4832  ll
+ 4833  cp ../../p03
+ 4834  cp * ../../p03/
+ 4835  cd ../../p03
+ 4836  ll
+ 4837  cat docker-compose.yml
+ 4838  cat index.js
+ 4839  c
+ 4840  docker-compose --version
+ 4841  cp ../p03_doc/visits/docker-compose.yml .
+ 4842  ll
+ 4843  c
+ 4844  ll
+ 4845  docker-compose up --build
+ 4846  docker ps -s
+ 4847  docker ps -a
+ 4848  docker rm -f 27 eb
+ 4849  docker ps -a
+ 4850  docker image
+ 4851  docker images
+ 4852  c
+ 4853  docker images
+ 4854  doclker rmi 1 e
+ 4855  docker rmi 1 e
+ 4856  c
+ 4857  ll
+ 4858  docker-compose up
+ 4859  l
+ 4860  ll
+ 4861  c
+ 4862  ll
+ 4863  c
+ 4864  ll
+ 4865  pwd
+ 4866  cp ../p03_doc/53-docker-compose-files.zip .
+ 4867  ll
+ 4868  unzip 53-docker-compose-files.zip
+ 4869  ll
+ 4870  ll visits
+ 4871  cp visits/* .
+ 4872  ll
+ 4873  docker-compose ps
+ 4874  docker-compose
+ 4875  docker-compose ps
+ 4876  docker-compose stop 
+ 4877  docker-compose 
+ 4878  docker images
+ 4879  docker ps -a
+ 4880  docker rm -f ff ca
+ 4881  docker ps -a
+ 4882  docker images
+ 4883  docker rmi la e7
+ 4884  ll
+ 4885  docker images
+ 4886  docker rmi la
+ 4887  docker rmi 1
+ 4888  ll
+ 4889  docker images
+ 4890  c
+ 4891  docker-compose up
+ 4892  docker images
+ 4893  docker docker ps -a
+ 4894  docker  ps -a
+ 4895  docker images
+ 4896  docker rm -f 45 5c 
+ 4897  docker rmi 29 e
+ 4898  docker images
+ 4899  docker  ps -a
+ 4900  c
+ 4901  netstat -tulnp | grep <port no>
+ 4902  netstat -tulnp | grep 4001
+ 4903  lsof -i  :8081
+ 4904  lsof -i  :4001
+ 4905  lsof -i  
+ 4906  c
+ 4907  ll
+ 4908  docker system prune
+ 4909  ll
+ 4910  docker-compose up
+ 4911  docker system prune
+ 4912  docker images
+ 4913  docker ps -a
+ 4914  docker rmi 9 e
+ 4915  docker system prune
+ 4916  docker ps -a
+ 4917  docker images
+ 4918  rm -rf node_modules
+ 4919  ll
+ 4920  npm cache clear --force\n
+ 4921  npm
+ 4922  npm install
+ 4923  cd visits
+ 4924  docker-compose up
+ 4925  docker ps -a
+ 4926  docker images
+ 4927  docker rm -f f 6 
+ 4928  docker ps -a
+ 4929  docker images
+ 4930  docker rmi 8 e
+ 4931  docker images
+ 4932  docker ps -a
+ 4933  c
+ 4934  docker system prune
+ 4935  c
+ 4936  docker system prune
+ 4937  pwd
+ 4938  ll
+ 4939  cp ~/Downloads/51-assembling-dockerfile.zip .
+ 4940  ll
+ 4941  mv 51-assembling-dockerfile.zip ../../p03_doc
+ 4942  ll
+ 4943  cd ../../
+ 4944  cd p03_doc
+ 4945  ll
+ 4946  rm -rf visits
+ 4947  unzip 51-assembling-dockerfile.zip
+ 4948  ll
+ 4949  cd visits
+ 4950  ll
+ 4951  cat Dockerfile
+ 4952  cat index.js
+ 4953  code .
+ 4954  docker build .
+ 4955  docker build -t devopsjmm/visits .
+ 4956  docker images
+ 4957  c
+ 4958  ll
+ 4959  pdw
+ 4960  pwd
+ 4961  ll
+ 4962  docker run devopsjmm/visits
+ 4963  docker run redis
+ 4964  docker run devopsjmm/visits
+ 4965  docker ps
+ 4966  docker ps -a
+ 4967  ll
+ 4968  cp ../../p03_doc
+ 4969  cp ../../p03_doc/53-docker-compose-files.zip ../
+ 4970  ll
+ 4971  cd ..
+ 4972  l
+ 4973  mv visits visits.51
+ 4974  unzip 53-docker-compose-files.zip
+ 4975  mv visits visits.51
+ 4976  ll
+ 4977  cd visits.51
+ 4978  ll
+ 4979  mv visits ..
+ 4980  ll
+ 4981  cd ..
+ 4982  ll
+ 4983  cd visits
+ 4984  ll
+ 4985  vi docker-compose.yml
+ 4986  ll
+ 4987  cd ..
+ 4988  c
+ 4989  ll
+ 4990  cd ..
+ 4991  ll
+ 4992  cd p03
+ 4993  ll
+ 4994  cd visits
+ 4995  ll
+ 4996  pwd
+ 4997  cd ..
+ 4998  l
+ 4999  lcd ..
+ 5000  cd
+ 5001  ll
+ 5002  cd Projects
+ 5003  ll
+ 5004  cd p03_doc
+ 5005  ll
+ 5006  cd visits
+ 5007  ll
+ 5008  cd ..
+ 5009  mv p03_doc p04
+ 5010  cd p04
+ 5011  ll
+ 5012  c
+ 5013  ll
+ 5014  cd visits
+ 5015  git add .
+ 5016  h | grep commit
+ 5017  git commit -m "b01 initial commit"
+ 5018  git init
+ 5019  git commit -m "b01 initial commit"
+ 5020  git add .
+ 5021  git commit -m "b01 initial commit"
+ 5022  c
+ 5023  ll
+ 5024  lr
+ 5025  ll
+ 5026  code .
+ 5027  docker-compose 
+ 5028  docker-compose up
+ 5029  docker ps -a
+ 5030  docker images
+ 5031  docker rm -f 1 c 0 5
+ 5032  docker ps -a
+ 5033  docker rm -f b
+ 5034  docker ps -a
+ 5035  docker images
+ 5036  docker rmi 2 1 e
+ 5037  docker images
+ 5038  docker system prune
+ 5039  c
+ 5040  $ docker run -d --name redis example/redis --bind 127.0.0.1\n\n
+ 5041  h | grep build
+ 5042  docker build -t redis .
+ 5043  $ docker run -d --name redis redis --bind 127.0.0.1\n\n
+ 5044  docker run -d --name redis redis --bind 127.0.0.1\n\n
+ 5045  docker images
+ 5046  docker ps
+ 5047  docker ps -a
+ 5048  c
+ 5049  ll
+ 5050  docker images
+ 5051  docker-composer up
+ 5052  h | grep compose
+ 5053  docker-compose up
+ 5054  docker images'\ndocker images\nq
+ 5055  docker images
+ 5056  vi docker-compose.yml
+ 5057  docker images
+ 5058  docker rmi 2 8
+ 5059  docker ps -a
+ 5060  docker rm -f 8 5 b
+ 5061  docker ps -a
+ 5062  docker images
+ 5063  docker rmi 2 
+ 5064  vi Docker
+ 5065  ll
+ 5066  vi Dockerfile
+ 5067  vi package.json
+ 5068  redis --version
+ 5069  redis
+ 5070  npm 
+ 5071  h | grep up
+ 5072  brew update
+ 5073  ll
+ 5074  brew node update
+ 5075  brew node install
+ 5076  brew npm update
+ 5077  ll
+ 5078  docker-compose up
+ 5079  h
+ 5080  lr
+ 5081  ll
+ 5082  c
+ 5083  cp ../visits/index.js .
+ 5084  ll
+ 5085  pwd
+ 5086  ll
+ 5087  cd ..
+ 5088  ll
+ 5089  mkdir zip
+ 5090  mv *.zip zip
+ 5091  ll
+ 5092  cd zip
+ 5093  ll
+ 5094  unzip 53-docker-compose-files.zip --help
+ 5095  unzop help
+ 5096  unzip help
+ 5097  unzip --help
+ 5098  c
+ 5099  lr
+ 5100  ll
+ 5101  unzip 53-docker-compose-files.zip
+ 5102  mv visits visits.53
+ 5103  unzip 54-networking-docker-compose.zip
+ 5104  mv visits visits.54
+ 5105  unzip 51-assembling-dockerfile.zip
+ 5106  mv visits visits.51
+ 5107  ll
+ 5108  unzip 57-container-maintenance.zip 
+ 5109  mv visits visits.57
+ 5110  ll
+ 5111  cd visits.53
+ 5112  ll
+ 5113  vi index.js
+ 5114  cp index.js ../../../p04/visits
+ 5115  cd ../../../p04/visits
+ 5116  ll
+ 5117  c
+ 5118  ll
+ 5119  docker-compose up
+ 5120  docker-compose redis
+ 5121  docker run redis
+ 5122  docker run redis -p 3005:8081 redis
+ 5123  docker run redis -p 3005:8081 
+ 5124  c
+ 5125  docker run redis -p 3005:8081 
+ 5126  h | grep docker | grep "-p"
+ 5127  h | grep docker 
+ 5128  ll
+ 5129  h | grep "docker build"
+ 5130  docker build -t devopsjmm/visits .
+ 5131  h | grep docker | rgep run
+ 5132  h | grep docker | grep run
+ 5133  h | grep run
+ 5134  docker-compose up
+ 5135  h
+ 5136  h | grep branch
+ 5137  h | grep feature
+ 5138  h | grep merge
+ 5139  ll
+ 5140  c
+ 5141  ll
+ 5142  cd p04
+ 5143  ll
+ 5144  cd ..
+ 5145  mkdir p05
+ 5146  ll
+ 5147  cd p05
+ 5148  git init
+ 5149  ll
+ 5150  node -v
+ 5151  nvm
+ 5152  n
+ 5153  npm
+ 5154  node -v
+ 5155  c
+ 5156  clear
+ 5157  ll
+ 5158  c
+ 5159  cd
+ 5160  cd Projects/p05
+ 5161  ll
+ 5162  npx create-react-app frontend
+ 5163  ll
+ 5164  cd frontend
+ 5165  ll
+ 5166  du .
+ 5167  du --help
+ 5168  du -s .
+ 5169  cd node_modules
+ 5170  du -s .
+ 5171  cd ..
+ 5172  ll
+ 5173  c
+ 5174  ll
+ 5175  npm run test
+ 5176  npm run build 
+ 5177  ll
+ 5178  cd build
+ 5179  ll
+ 5180  c
+ 5181  ll
+ 5182  cd static
+ 5183  ll
+ 5184  ls -alR
+ 5185  cd ..
+ 5186  ll
+ 5187  cd ..
+ 5188  ll
+ 5189  npm run start 
+ 5190  pwd
+ 5191  ll
+ 5192  cd frontend
+ 5193  ll
+ 5194  pwd
+ 5195  code .
+ 5196  ll
+ 5197  docker build .
+ 5198  docker build -f Dockerfile.dev .
+ 5199  vi Dockerfile.dev
+ 5200  docker build -f Dockerfile.dev .
+ 5201  vi flowNotes
+ 5202  h
+ 5203  vi flowNotes
+ 5204  c
+ 5205  ll
+ 5206  rm -rf node_modules
+ 5207  docker build -f Dockerfile.dev .
+ 5208  vi p01Notes
+ 5209  ll
+ 5210  vi p01Notes
+ 5211  vi flowNotes
+ 5212  docker build -f Dockerfile.dev .
+ 5213  vi Dockerfile.dev
+ 5214  docker build -f Dockerfile.dev .
+ 5215  docker images
+ 5216  docker rmi 5 f 6 a 4 7 8 
+ 5217  docker images
+ 5218  docker ps -a
+ 5219  docker rm -f 6 1 64 6b c 2
+ 5220  docker ps -a
+ 5221  docker rm 4
+ 5222  docker ps -a
+ 5223  docker images
+ 5224  c
+ 5225  docker images
+ 5226  doker rmi 7 8
+ 5227  docker rmi 7 8
+ 5228  docker images
+ 5229  docker build -f Dockerfile.dev .
+ 5230  docker images
+ 5231  docker ps -a
+ 5232  docker rmi 5
+ 5233  docker ps -a
+ 5234  docker images
+ 5235  c
+ 5236  ll
+ 5237  vi Dockerfile.dev
+ 5238  c
+ 5239  ll
+ 5240  docker build -f Dockerfile.dev .
+ 5241  docker system prune
+ 5242  docker build -f Dockerfile.dev .
+ 5243  l
+ 5244  cd build
+ 5245  ll
+ 5246  cd static
+ 5247  ll
+ 5248  cd ..
+ 5249  ll
+ 5250  cd ..
+ 5251  ll
+ 5252  ls -alR
+ 5253  pwd
+ 5254  docker images
+ 5255  docker ps -a
+ 5256  docker run f988da16dba3
+ 5257  docker run 3000:3000 f988da16dba3
+ 5258  docker image
+ 5259  docker images
+ 5260  docker run =p 3000:3000 f988da16dba3
+ 5261  docker run -p 3000:3000 f988da16dba3
+ 5262  ll
+ 5263  pwd
+ 5264  docker run -p 3000:3000 f988da16dba3
+ 5265  ll
+ 5266  cd src
+ 5267  ll
+ 5268  vi App.js
+ 5269  vi index.js
+ 5270  grep "To get started"
+ 5271  grep "To get started" *
+ 5272  grep * reloaded
+ 5273  grep reloaded *
+ 5274  grep welcome *
+ 5275  cat * | grep welcome
+ 5276  ll
+ 5277  cd ..
+ 5278  ll
+ 5279  cd public
+ 5280  ll
+ 5281  grep reloaded *
+ 5282  ll
+ 5283  cd ..
+ 5284  ll
+ 5285  cd src
+ 5286  ll
+ 5287  vi App.js
+ 5288  h | grep biuild
+ 5289  d
+ 5290  cd ..
+ 5291  l
+ 5292  lh
+ 5293  h
+ 5294  docker build -f Dockerfile.dev .
+ 5295  docker ps
+ 5296  docker images
+ 5297  rmi f
+ 5298  docker rmi f
+ 5299  docker stop f
+ 5300  docler ps -s
+ 5301  docker ps -a
+ 5302  docker stop 3 2 1
+ 5303  docker ps -a
+ 5304  docker rm -f  3 2 1
+ 5305  docker ps -a
+ 5306  docker images
+ 5307  docker rmi f
+ 5308  docker images
+ 5309  c
+ 5310  docker images
+ 5311  pwd
+ 5312  docker run -p 3000:3000 -v $(pwd):/app 7da7434d7368
+ 5313  docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app 7da7434d7368
+ 5314  cd usr
+ 5315  ll
+ 5316  pwd
+ 5317  cd src
+ 5318  pwd
+ 5319  ll
+ 5320  vi App.js
+ 5321  docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app 7da7434d7368
+ 5322  pwd
+ 5323  cd ..
+ 5324  docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app 7da7434d7368
+ 5325  cd usr
+ 5326  ll
+ 5327  cd src
+ 5328  vi App.js
+ 5329  pwd
+ 5330  cd ..
+ 5331  ll
+ 5332  pwd
+ 5333  dorcker-compose up
+ 5334  docker-compose up
+ 5335  pwd
+ 5336  ll
+ 5337  cat Dockerfile.dev
+ 5338  vi Dockerfile.dev
+ 5339  vo Docker-compose.yml
+ 5340  vi Dockerfile.dev
+ 5341  vi Docker-compose.yml
+ 5342  c
+ 5343  docker ps -a
+ 5344  docker rm -f 8 2 a 
+ 5345  docker ps -a
+ 5346  docker rm -f a
+ 5347  docker rm -f ac
+ 5348  docker rm -f a
+ 5349  docker ps -a
+ 5350  c
+ 5351  docker images
+ 5352  docker rmi c
+ 5353  docker images
+ 5354  c
+ 5355  ll
+ 5356  c
+ 5357  ll
+ 5358  c
+ 5359  lr
+ 5360  ll
+ 5361  cd src
+ 5362  ll
+ 5363  c
+ 5364  ll
+ 5365  h
+ 5366  docker build -f Dockerfile.dev .
+ 5367  pwd
+ 5368  cd ..
+ 5369  docker build -f Dockerfile.dev .
+ 5370  docker images
+ 5371  vi Docker-compose.yml
+ 5372  docker build -f Dockerfile.dev .
+ 5373  docker images
+ 5374  docker ps -a
+ 5375  docker-compose up
+ 5376  pwd
+ 5377  ll
+ 5378  rm 1
+ 5379  ll
+ 5380  cd src
+ 5381  ll
+ 5382  cd ..
+ 5383  ll
+ 5384  rm -rf node_modules
+ 5385  ll
+ 5386  h
+ 5387  docker images
+ 5388  docker ps -a
+ 5389  docker rmi 2 7 1
+ 5390  docker ps -a
+ 5391  docker images
+ 5392  c
+ 5393  history
+ 5394  docker build -f Dockerfile.dev .
+ 5395  docker images
+ 5396  docker-compose up
+ 5397  vi Dockerfile.dev
+ 5398  c
+ 5399  ll
+ 5400  cd src
+ 5401  ll
+ 5402  cd node_modules
+ 5403  ll
+ 5404  cd ..
+ 5405  ll
+ 5406  c
+ 5407  ll
+ 5408  pwd
+ 5409  cd ..
+ 5410  ll
+ 5411  date
+ 5412  c
+ 5413  ll
+ 5414  h | grep run
+ 5415  h | grep buil
+ 5416  h | more
+ 5417  h | grep buil
+ 5418  h | grep buil | more
+ 5419  pwd
+ 5420  docker build -f Dockerfile.dev .
+ 5421  docker images
+ 5422  docker rmi c
+ 5423  docker images
+ 5424  docker rmi c
+ 5425  docker rmi 6
+ 5426  docker images
+ 5427  c
+ 5428  docker build -f Dockerfile.dev .
+ 5429  docker images
+ 5430  docker run -p 3000:3000 cd3776d55f74
+ 5431  c
+ 5432  ll
+ 5433  docker images
+ 5434  docker ps
+ 5435  h
+ 5436  docker ps
+ 5437  docker rm -f c
+ 5438  docker images
+ 5439  docker rmi c
+ 5440  docker ps
+ 5441  docker ps -a
+ 5442  docker rm -f 4
+ 5443  docker ps -a
+ 5444  docker rmi c
+ 5445  docker images
+ 5446  c
+ 5447  ll
+ 5448  h | grep run
+ 5449  h
+ 5450  docker build -f Dockerfile.dev .
+ 5451  h | grep build
+ 5452  h | grep build | app
+ 5453  h | grep build | grep app
+ 5454  h 
+ 5455  docker images
+ 5456  cd3776d55f74
+ 5457  docker -p 3000:3000 -v /app/node_modules -v $(pwd):/app cd3776d55f74
+ 5458  docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app cd3776d55f74
+ 5459  h
+ 5460  ll
+ 5461  vi flowNotes
+ 5462  c
+ 5463  docker image
+ 5464  docker images
+ 5465  c
+ 5466  docker ps 
+ 5467  docker ps  -a 
+ 5468  docker rm  -f c
+ 5469  c
+ 5470  docker ps  -a 
+ 5471  docker rm -f ccd
+ 5472  docker rm -f cd
+ 5473  docker rm -f 4
+ 5474  docker ps  -a 
+ 5475  c
+ 5476  docker-compose up
+ 5477  docker ps -a
+ 5478  docker images
+ 5479  docker rmi c
+ 5480  docker images
+ 5481  pwd
+ 5482  docker-compose up
+ 5483  h
+ 5484  docker images
+ 5485  docker-compose up
+ 5486  pwd
+ 5487  ll
+ 5488  vi flowNotes
+ 5489  cat flowNotes
+ 5490  docker images
+ 5491  Error response from daemon: invalid mount config for type "volume" 856f2bb3392b
+ 5492  h
+ 5493  cat flowNotes
+ 5494  docker images
+ 5495  ocker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app  856f2bb3392b
+ 5496  docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app  856f2bb3392b
+ 5497  h
+ 5498  docker images
+ 5499  docker ps -a
+ 5500  docker ps 
+ 5501  h
+ 5502  docker-compose up
+ 5503  vi Docker-compose.yml
+ 5504  docker-compose up
+ 5505  docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app  856f2bb3392b
+ 5506  cd
+ 5507  cd Downloads
+ 5508  ll
+ 5509  ls -altr
+ 5510  l
+ 5511  ll
+ 5512  c
+ 5513  ll
+ 5514  cd frontend
+ 5515  ll
+ 5516  code .
+ 5517  cd ../
+ 5518  ls
+ 5519  ls 
+ 5520  ls -al
+ 5521  cd frontend-7
+ 5522  ll
+ 5523  code ,
+ 5524  code .
+ 5525  cd
+ 5526  cd ../
+ 5527  ll
+ 5528  cd josemunoz/Downloads
+ 5529  ll
+ 5530  c
+ 5531  ll
+ 5532  ls
+ 5533  c
+ 5534  ls
+ 5535  ls *.zip
+ 5536  ls -al *.zip
+ 5537  ls
+ 5538  pwd
+ 5539  node -v
+ 5540  cd
+ 5541  ll
+ 5542  ls
+ 5543  cd Projects
+ 5544  ls
+ 5545  cd p04
+ 5546  ls
+ 5547  ls -al]
+ 5548  la -al
+ 5549  cd ..
+ 5550  cd p04
+ 5551  cd visits
+ 5552  ll
+ 5553  cat docker
+ 5554  h
+ 5555  ll
+ 5556  pwd
+ 5557  cd ..
+ 5558  ld
+ 5559  ls
+ 5560  c
+ 5561  ls
+ 5562  ll
+ 5563  pwd
+ 5564  ll
+ 5565  cd ..
+ 5566  ll
+ 5567  cd p05
+ 5568  ll
+ 5569  cd frontend
+ 5570  ll
+ 5571  ls -altr
+ 5572  cat Docker-compose.yml
+ 5573  ll
+ 5574  pwd
+ 5575  cd ..
+ 5576  pwd
+ 5577  cd ..
+ 5578  npx create react-app forntend
+ 5579  pwd
+ 5580  ll
+ 5581  pwd
+ 5582  ll
+ 5583  owd
+ 5584  pwd
+ 5585  cd Projects
+ 5586  ll
+ 5587  ls
+ 5588  ll
+ 5589  cd p05
+ 5590  ll
+ 5591  cd ..
+ 5592  ll
+ 5593  mkdir jenk
+ 5594  cd jenk
+ 5595  ll
+ 5596  ls
+ 5597  c
+ 5598  git init
+ 5599  ll
+ 5600  ls -al
+ 5601  docker pull jenkins/jenkis
+ 5602  code .
+ 5603  grep docker ../p02/Dockerfile
+ 5604  cd ../p02
+ 5605  ll
+ 5606  grep docker p02Notes
+ 5607  ll
+ 5608  cd ../p03
+ 5609  ll
+ 5610  grep docker p03Notes
+ 5611  grep pull p03Notes
+ 5612  cd ..
+ 5613  cd p02
+ 5614  ll
+ 5615  grep pull p02Notes
+ 5616  cat p02Notes
+ 5617  grep docker p02Notes
+ 5618  grep docker p02Notes | more
+ 5619  cd /usr/var
+ 5620  ll
+ 5621  cd /usr
+ 5622  ll
+ 5623  cd local
+ 5624  ll
+ 5625  cd ..
+ 5626  cd
+ 5627  dc
+ 5628  pwd
+ 5629  ll
+ 5630  cd Projects
+ 5631  ll
+ 5632  cd jenk
+ 5633  ll
+ 5634  pwd
+ 5635  ll
+ 5636  l
+ 5637  c
+ 5638  ll
+ 5639  docker run -p 8080:8080 -p 50000:50000 jenkins\n
+ 5640  h
+ 5641  c
+ 5642  docker pull jenkins/jenkins.lts
+ 5643  docker pull jenkins
+ 5644  ll
+ 5645  docker pull jenkins/jenkins\n
+ 5646  docker run -p 8080:8080 --name=jenkins-master -d jenkins/jenkins\n\n
+ 5647  docker ps 
+ 5648  docker images
+ 5649  ll
+ 5650  c
+ 5651  pwd
+ 5652  c
+ 5653  pwd
+ 5654  cd .
+ 5655  cd
+ 5656  cd Projects
+ 5657  cd jenk
+ 5658  ll
+ 5659  c
+ 5660  l
+ 5661  c
+ 5662  ll
+ 5663  docker images
+ 5664  ll
+ 5665  pwd
+ 5666  mkdir jenkins_home
+ 5667  ll
+ 5668  pwd
+ 5669  cd jenkins_home
+ 5670  pwd
+ 5671  c
+ 5672  ll
+ 5673  cd ..
+ 5674  ll
+ 5675  pwd
+ 5676  cd /var
+ 5677  ll
+ 5678  c
+ 5679  kk
+ 5680  ll
+ 5681  cd ..
+ 5682  ll
+ 5683  c
+ 5684  ll
+ 5685  var
+ 5686  ll
+ 5687  cd
+ 5688  cd pr
+ 5689  cd Projects
+ 5690  ll
+ 5691  cd jenk
+ 5692  ll
+ 5693  id
+ 5694  sudo chown 1000:1000 jenkins_home -R
+ 5695  ll
+ 5696  sudo chown 1000:1000 jenkins_home -R
+ 5697  ll
+ 5698  sudo chown 1000:1000 jenkins_home -R
+ 5699  pwd
+ 5700  c
+ 5701  ll
+ 5702  chown
+ 5703  sudo chown 1000:1000 jenkins_home -R
+ 5704  sudo chown 
+ 5705  sudo chown 1000:1000 jenkins_home -R
+ 5706  pwd
+ 5707  ll
+ 5708  kk
+ 5709  ll
+ 5710  sudo chown 1000:1000 jenkins_home -R
+ 5711  sudo chown 1000:1000 jenkins_home
+ 5712  ll
+ 5713  c
+ 5714  ll
+ 5715  c
+ 5716  ll
+ 5717  pwd
+ 5718  ll
+ 5719  docker-composer up -d
+ 5720  pwd
+ 5721  docker images
+ 5722  h
+ 5723  docker images 
+ 5724  pwd
+ 5725  id
+ 5726  pwd
+ 5727  kk
+ 5728  ll
+ 5729  cd jenkins_home
+ 5730  ll
+ 5731  cd ..
+ 5732  ll
+ 5733  c
+ 5734  ll
+ 5735  docker inages
+ 5736  docker images
+ 5737  docker info | grep -i root
+ 5738  sudo du /var/lib/docker
+ 5739  docker info | grep -i root
+ 5740  cd /var
+ 5741  ll
+ 5742  cd lu
+ 5743  cd lib
+ 5744  ll
+ 5745  cd postfix
+ 5746  ll
+ 5747  cd postfix
+ 5748  cd ..
+ 5749  ll
+ 5750  cd ..
+ 5751  ll
+ 5752  c
+ 5753  ll
+ 5754  cd 
+ 5755  c
+ 5756  pwd
+ 5757  ll
+ 5758  cd Projects/jenk
+ 5759  ll
+ 5760  cd jenkins_home
+ 5761  ll
+ 5762  c
+ 5763  ll
+ 5764  pwd
+ 5765  l
+ 5766  ll
+ 5767  cd ..
+ 5768  l
+ 5769  c
+ 5770  l
+ 5771  docker images
+ 5772  id
+ 5773  docker-compose up -d
+ 5774  docker ps
+ 5775  docker - f jenkis
+ 5776  docker logs -f jenkis
+ 5777  docker logs -f jenkins
+ 5778  docker logs -f jenkin
+ 5779  c
+ 5780  docker logs -f jenkin
+ 5781  docker ps
+ 5782  docker logs -f jenkins-master
+ 5783  docker ps
+ 5784  docker images
+ 5785  ipconfig getifaddr en0 is default for the Wi-Fi network adapter.\n\n
+ 5786  cat /var/jenkins_home/secrets/initialAdminPassword
+ 5787  cat /var
+ 5788  cd /var
+ 5789  ll
+ 5790  ls
+ 5791  cd tmp
+ 5792  ll
+ 5793  cd ..
+ 5794  ll
+ 5795  ls
+ 5796  ll
+ 5797  cd
+ 5798  cd Projects
+ 5799  ll
+ 5800  cd cd jenk
+ 5801  ll
+ 5802  cd jenk
+ 5803  ll
+ 5804  cc
+ 5805  c
+ 5806  ll
+ 5807  c
+ 5808  ll
+ 5809  cd /va
+ 5810  cd .var
+ 5811  cd /var
+ 5812  ll
+ 5813  ls
+ 5814  cd tmp
+ 5815  ll
+ 5816  cd ..
+ 5817  ls
+ 5818  cd
+ 5819  cd Projects
+ 5820  cd jenk
+ 5821  ll
+ 5822  docker ps
+ 5823  cd /usr
+ 5824  ll
+ 5825  cd bin
+ 5826  ls
+ 5827  docker ps
+ 5828  cd init
+ 5829  ls
+ 5830  ls | more
+ 5831  ll
+ 5832  cd
+ 5833  cd Projects
+ 5834  cd jenk
+ 5835  ll
+ 5836  id
+ 5837  sudo chown 501:501 jenkins_home -R
+ 5838  ll
+ 5839  docker ps
+ 5840  pwd
+ 5841  ll
+ 5842  c
+ 5843  ll
+ 5844  c
+ 5845  l
+ 5846  id
+ 5847  cd ..
+ 5848  l
+ 5849  sudo chown 501:20 jenk  -R
+ 5850  chown 501:20 jenk  -R
+ 5851  which chown
+ 5852  man chown
+ 5853  chown 501:20 -R jenk
+ 5854  man chown
+ 5855  l
+ 5856  cd jenk
+ 5857  l
+ 5858  chown 501:20 -R jenkins_home
+ 5859  chown 501:20 jenkins_home
+ 5860  l
+ 5861  cd jenkins_home
+ 5862  l
+ 5863  cd ..
+ 5864  l
+ 5865  docker -f jenkins
+ 5866  docker logs -f jenkins
+ 5867  l
+ 5868  pwd
+ 5869  docker ps
+ 5870  docker rm cac
+ 5871  docker stop caa
+ 5872  docker stop ca
+ 5873  docker ps
+ 5874  docker stop bd
+ 5875  docker-compose up -d
+ 5876  docker ps
+ 5877  docker logs -f jenkins
+ 5878  h
+ 5879  ipconfig getifaddr en0 is default for the Wi-Fi network adapter.\n\n
+ 5880  docker-compose up -d
+ 5881  docker logs -f jenkins
+ 5882  ipconfig getifaddr en0 is default for the Wi-Fi network adapter.\n\n
+ 5883  docker-compose up -d
+ 5884  docker logs -f jenkins
+ 5885  l
+ 5886  docker ps
+ 5887  whoami
+ 5888  docker os
+ 5889  docker ps
+ 5890  docker logs -f jenkins
+ 5891  c
+ 5892  ll
+ 5893  docker images
+ 5894  docker run -p 8080:8080 --name=jenkins-master -d jenkins/jenkins
+ 5895  docker ps
+ 5896  docker rm 3
+ 5897  docker stop 3
+ 5898  docker rm 3
+ 5899  docker run -p 8080:8080 --name=jenkins-master -d jenkins/jenkins
+ 5900  docker ps -a
+ 5901  docker rm -f ca bd dd
+ 5902  docker ps -a
+ 5903  docker image
+ 5904  docker images
+ 5905  c
+ 5906  docker image
+ 5907  c
+ 5908  docker images
+ 5909  docker rmi 5 8
+ 5910  docker images
+ 5911  c
+ 5912  docker pull jenkins/jenkins
+ 5913  docker info | grep -i root
+ 5914  du -sh /ver/lib/docker
+ 5915  sudo du -sh /ver/lib/docker
+ 5916  sudo du -sh /var/lib/docker
+ 5917  du -sh /var/lib/docker
+ 5918  which du
+ 5919  du /var/lib/docker
+ 5920  l /var/lib/docker
+ 5921  docker info | grep -i root
+ 5922  su
+ 5923  ll
+ 5924  docker os
+ 5925  docker ps
+ 5926  docker ps -a
+ 5927  docker images
+ 5928  docker-dump
+ 5929  docker-compose up -d
+ 5930  docker ps
+ 5931  ll jenkins_home
+ 5932  ipconfig getifaddr en0 is default for the Wi-Fi network adapter.\n\n
+ 5933  docker ps
+ 5934  docker logs -f jenkins 
+ 5935  ll
+ 5936  docker ps
+ 5937  docker rmf c
+ 5938  docker rm -f c
+ 5939  docker ps
+ 5940  docker ps -a
+ 5941  h | grep chown
+ 5942  sudo chown 501:501 jenkins_home -R
+ 5943  chown 501:501 jenkins_home -R
+ 5944  sudo chown 501:501 jenkins_home -R
+ 5945  l
+ 5946  docker-compose up -d
+ 5947  docker ps
+ 5948  ipconfig getifaddr en0 is default for the Wi-Fi network adapter.\n\n
+ 5949  ll
+ 5950  c
+ 5951  pwd
+ 5952  ll
+ 5953  cat docker-compose.yml
+ 5954  pwd
+ 5955  ll
+ 5956  cd jenkins_home
+ 5957  ll
+ 5958  sudo chown 501:501 -R
+ 5959  ll
+ 5960  c
+ 5961  ll
+ 5962  cd u
+ 5963  cd user
+ 5964  ll
+ 5965  cd users
+ 5966  ll
+ 5967  cd ..
+ 5968  ll
+ 5969  docker ps -s
+ 5970  docker ps -a
+ 5971  docker stop ae
+ 5972  docker stop 0e
+ 5973  docker ps -a
+ 5974  docker rm -f 0
+ 5975  docker ps -a
+ 5976  docker images
+ 5977  pw
+ 5978  pwd
+ 5979  ll
+ 5980  cd ..
+ 5981  ll
+ 5982  rm -rf jenkins_home
+ 5983  ll
+ 5984  pwd
+ 5985  mkdir jenkins_home
+ 5986  ll
+ 5987  pwd
+ 5988  h | grep pull
+ 5989  docker pull jenkins/jenkins
+ 5990  ipconfig getifaddr en0 is default for the Wi-Fi network adapter.\n\n
+ 5991  docker-compose up -d
+ 5992  l
+ 5993  l jenkins_home
+ 5994  docker images
+ 5995  docker ps
+ 5996  docker logs 
+ 5997  h | grep log
+ 5998  docker logs -f jenkins-master
+ 5999  docker logs -f jenkins
+ 6000  docker ps
+ 6001  docker ps 
+ 6002  c
+ 6003  ll
+ 6004  l
+ 6005  c
+ 6006  ll
+ 6007  docker ps
+ 6008  docker images
+ 6009  docker stop c
+ 6010  docker rm -f c
+ 6011  ll
+ 6012  docker rmi 2
+ 6013  c
+ 6014  cp ~/Projects/p03/p03Notes notes
+ 6015  grep prune notes
+ 6016  docker system prune
+ 6017  c
+ 6018  l
+ 6019  ll
+ 6020  h
+ 6021  docker pull jenkins
+ 6022  ll
+ 6023  docker pull jenkins:latest
+ 6024  h
+ 6025  \tdocker pull jenkins/jenkins
+ 6026  h
+ 6027  docker-compose up -d
+ 6028  ipconfig getifaddr en0 is default for the Wi-Fi network adapter.\n\n
+ 6029  docker images
+ 6030  docker ps
+ 6031  docker stop c4
+ 6032  docker rm c4
+ 6033  docker ps
+ 6034  docker ps -s
+ 6035  docker ps -a
+ 6036  docker images
+ 6037  docker-compose up -d
+ 6038  h
+ 6039  h | grep log
+ 6040  docker logs -f jenkins
+ 6041  h
+ 6042  vi notes
+ 6043  ll
+ 6044  c
+ 6045  ll
+ 6046  l /etc/hosts
+ 6047  cat /etc/hosts
+ 6048  cd /etc
+ 6049  sudo vi hosts
+ 6050  c
+ 6051  ll
+ 6052  c
+ 6053  whoami
+ 6054  cd 
+ 6055  cd Projects
+ 6056  cd jenk
+ 6057  ll
+ 6058  c
+ 6059  ll
+ 6060  docker-compose stop
+ 6061  docker ps
+ 6062  docker-compose stRT
+ 6063  docker-compose start
+ 6064  docker ps
+ 6065  c
+ 6066  cd ..
+ 6067  mkdir cordoba
+ 6068  h
+ 6069  h | grep log
+ 6070  ocker logs -f jenkis
+ 6071  docker logs -f jenkis
+ 6072  cd 
+ 6073  cd Projects/jenk
+ 6074  ll
+ 6075  docker logs -f jenkis
+ 6076  docker logs -f jenkins_home
+ 6077  h
+ 6078  \\\\ 
+ 6079  l
+ 6080  c
+ 6081  l
+ 6082  docker images
+ 6083  docker ps 
+ 6084  c
+ 6085  ll
+ 6086  cd ..
+ 6087  l
+ 6088  mkdir ujenkins
+ 6089  cd ujenkins
+ 6090  ll ~/Downloads/jenkins-course-master.zip .
+ 6091  h
+ 6092  cp ~/Downloads/jenkins-course-master.zip .
+ 6093  ll
+ 6094  unzip jenkins-course-master.zip
+ 6095  ll
+ 6096  rm jenkins-course-master
+ 6097  rm jenkins-course-master.zip
+ 6098  l
+ 6099  cd jenkins-course-master
+ 6100  ll
+ 6101  pwd
+ 6102  cd ../../
+ 6103  mv ujenkins/jenkins-course-master .
+ 6104  ll
+ 6105  cd jenkins-course-master
+ 6106  ll
+ 6107  gitub add .
+ 6108  cd ..
+ 6109  ll
+ 6110  cd ugit
+ 6111  ll
+ 6112  cd ..
+ 6113  ll
+ 6114  cd p04
+ 6115  ll
+ 6116  cd ..
+ 6117  cd p03
+ 6118  ll
+ 6119  cp p03Notes ../jenkins-course-master
+ 6120  cd ../jenkins-course-master
+ 6121  ll
+ 6122  grep git p03Notes
+ 6123  git init .
+ 6124  ll
+ 6125  grep featrue p03Notes
+ 6126  grep feature p03Notes
+ 6127  c
+ 6128  ll
+ 6129  cd ..
+ 6130  cd jenkins-course-master
+ 6131  code .
+ 6132  ll
+ 6133  cd docker-compose
+ 6134  ll
+ 6135  cd ..
+ 6136  ll
+ 6137  c
+ 6138  ll
+ 6139  cd ..
+ 6140  c
+ 6141  l
+ 6142  pwd
+ 6143  mkdir wardviaene
+ 6144  cd wardviaene
+ 6145  cp ~/Downloads/docker-demo-master.zip .
+ 6146  unzip docker-demo-master.zip
+ 6147  rm docker-demo-master.zip
+ 6148  ll
+ 6149  cd ../jenkins-course-master .
+ 6150  mv ../jenkins-course-master .
+ 6151  cd jenkins-course-master
+ 6152  c
+ 6153  ll
+ 6154  pwd
+ 6155  cd ../
+ 6156  ll
+ 6157  cd docker-demo-master
+ 6158  ll
+ 6159  c
+ 6160  ll
+ 6161  code .
+ 6162  cd ../
+ 6163  code .
+ 6164  cd 
+ 6165  cd Projects
+ 6166  ll
+ 6167  c
+ 6168  code .
+ 6169  c
+ 6170  l
+ 6171  c
+ 6172  ll
+ 6173  cp ~/Downloads/docker-course-master.zip .
+ 6174  ll
+ 6175  unzip docker-course-master.zip .
+ 6176  ll
+ 6177  lr
+ 6178  ls -altr
+ 6179  mkdir docker-course
+ 6180  mv docker-course-master.zip docker-course
+ 6181  cd docker-course
+ 6182  ll
+ 6183  unzip docker-course-master.zip
+ 6184  ll
+ 6185  cd docker-course-master
+ 6186  ll
+ 6187  cd ..
+ 6188  ll ..
+ 6189  pwd
+ 6190  cd ..
+ 6191  ll
+ 6192  c
+ 6193  lr
+ 6194  ls -altr
+ 6195  pwd
+ 6196  ls -altr docker-course
+ 6197  mv docker-course/docker-course-master .
+ 6198  rm -rf docker-course
+ 6199  lr
+ 6200  ls -altr
+ 6201  ls -alrt
+ 6202  ls -altr
+ 6203  c
+ 6204  ll
+ 6205  cd docker-course-master
+ 6206  ll
+ 6207  git init
+ 6208  ll
+ 6209  code .
+ 6210  cd /
+ 6211  ls
+ 6212  ll
+ 6213  pwd
+ 6214  cd usr
+ 6215  ll
+ 6216  ls -altr
+ 6217  cd local
+ 6218  ll
+ 6219  cd share
+ 6220  ll
+ 6221  cd ..
+ 6222  cd
+ 6223  pwd
+ 6224  ll
+ 6225  cd P
+ 6226  cd Public
+ 6227  ll
+ 6228  cd Drop\ Box
+ 6229  ll
+ 6230  cd ..
+ 6231  cd
+ 6232  cd ..
+ 6233  ll
+ 6234  cd Shared
+ 6235  ll
+ 6236  cd SC\ Info
+ 6237  ll
+ 6238  cd ..
+ 6239  cd /
+ 6240  ls
+ 6241  cd opt
+ 6242  ll
+ 6243  cd ..
+ 6244  l
+ 6245  lcd home
+ 6246  ll
+ 6247  cd home
+ 6248  ll
+ 6249  cd ..
+ 6250  ll
+ 6251  cd Us
+ 6252  cd Users
+ 6253  ll
+ 6254  cd josemunoz
+ 6255  ll
+ 6256  cd De
+ 6257  ll
+ 6258  cd Desktop
+ 6259  ll
+ 6260  ls
+ 6261  ls -al
+ 6262  cd ..
+ 6263  ll
+ 6264  ls -alttr
+ 6265  cd Documents
+ 6266  ll
+ 6267  ls -altr
+ 6268  cd /tmp
+ 6269  ls
+ 6270  ls -al
+ 6271  cd powerlog
+ 6272  ll
+ 6273  ls -al
+ 6274  cd ..
+ 6275  ls -altr
+ 6276  ls -altr com.apple.launchd.gp7cUmIdgH
+ 6277  cd com.apple.launchd.gp7cUmIdgH
+ 6278  ll
+ 6279  cat Listeners
+ 6280  cd ..
+ 6281  ll
+ 6282  cd com.google.Keystone
+ 6283  ll
+ 6284  cd ..
+ 6285  cd
+ 6286  cd 
+ 6287  cd Projects
+ 6288  ll
+ 6289  ls
+ 6290  su
+ 6291  ls -altr
+ 6292  grep mfa 
+ 6293  grep mfa .*
+ 6294  grep mfa *
+ 6295  ll
+ 6296  cd ujenkins
+ 6297  ll
+ 6298  git ,
+ 6299  ll
+ 6300  grep git ../p02/p02Notes
+ 6301  git init
+ 6302  ll
+ 6303  docker run --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins\n
+ 6304  docker -v
+ 6305  docker run --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins\n
+ 6306  docker run -p 8080:8080 -p 50000:50000 -v /your/home:/var/jenkins_home jenkins/jenkins:lts
+ 6307  vi key
+ 6308  ll
+ 6309  pwd
+ 6310  docker run -p 8080:8080 -p 50000:50000 -v /Users/josemunoz/Projects/ujenkins:/var/jenkins_home jenkins/jenkins:lts
+ 6311  ll
+ 6312  ls -al
+ 6313  pwd
+ 6314  ls -alrt
+ 6315  code
+ 6316  code .
+ 6317  docker run -p 8080:8080 -p 50000:50000 -v /Users/josemunoz/Projects/ujenkins:/var/jenkins_home jenkins/jenkins:lts
+ 6318  ll
+ 6319  cat key
+ 6320  vi key
+ 6321  cat key
+ 6322  code ,
+ 6323  cd Projects
+ 6324  pwd
+ 6325  cd
+ 6326  code ,
+ 6327  pwd
+ 6328  cd Projects/ujenkins
+ 6329  ll
+ 6330  vi key
+ 6331  docker run -p 8080:8080 -p 50000:50000 -v /Users/josemunoz/Projects/ujenkins:/var/jenkins_home jenkins/jenkins:lts
+ 6332  vi key
+ 6333  cat key
+ 6334  ll
+ 6335  owd
+ 6336  pwd
+ 6337  cp 
+ 6338  ls -altr ~/Downloads
+ 6339  cp ~/Downloads/Jenkins-Course-master (1).zip .
+ 6340  ll
+ 6341  pwd
+ 6342  ls -altr
+ 6343  pwd
+ 6344  ll
+ 6345  cp ~/Downloads/Jenkins-Course-master*.zip .
+ 6346  ll
+ 6347  ls
+ 6348  unzip Jenkins-Course-master\ \(1\).zip
+ 6349  ll
+ 6350  unzip Jenkins-Course-master\ \(1\).zip
+ 6351  ll
+ 6352  ls
+ 6353  rm Jenkins-Course-master*.zip
+ 6354  ls
+ 6355  cd Jenkins-Course-master/
+ 6356  ll
+ 6357  ls
+ 6358  clea
+ 6359  cleae
+ 6360  clear
+ 6361  ls
+ 6362  ll
+ 6363  cd ..
+ 6364  ls
+ 6365  pwd
+ 6366  cd Jenkins-Course-master
+ 6367  ll
+ 6368  vi Jenkinsfile
+ 6369  cd
+ 6370  docker ps
+ 6371  docker exec -it -u root d557bf82e529 /bin/bash
+ 6372  pwd
+ 6373  cd
+ 6374  ll
+ 6375  cd ujenkins
+ 6376  ll
+ 6377  c
+ 6378  code .
+ 6379  docker docker list
+ 6380  docker docker lis
+ 6381  docker docker ls
+ 6382  docker list
+ 6383  docker lis
+ 6384  docker l
+ 6385  docker ls
+ 6386  docker ps
+ 6387  docker exec -it -u root d557bf82e529 /bin/bash
+ 6388  cd Jenkins-Course-master
+ 6389  ll
+ 6390  car Jenkinsfile
+ 6391  cat Jenkinsfile
+ 6392  docker run -p 8080:8080 -p 50000:50000 -v /Users/josemunoz/Projects/ujenkins:/var/jenkins_home jenkins/jenkins:lts
+ 6393  pwd
+ 6394  ls
+ 6395  mv Jenkinsfile Jenkinsfile.BAK
+ 6396  cp challenge2/Jenkinsfile .
+ 6397  ll
+ 6398  pwd
+ 6399  cat Jenkinsfile
+ 6400  mv Jenkinsfile Jenkinsfile.05
+ 6401  cp challenge3/Jenkinsfile .
+ 6402  cat Jenkinsfile
+ 6403  cd ..
+ 6404  mkdir jenkinsJavierTassi
+ 6405  cd jenkinsJavierTassi
+ 6406  ll
+ 6407  git init
+ 6408  c
+ 6409  ll
+ 6410  ls -al
+ 6411  docker pull jenkins/jenkins
+ 6412  docker run -d --name jenkins-Javier -p  8081:80 jenkins/jenkins
+ 6413  docker ps
+ 6414  docker image
+ 6415  docker images
+ 6416  docker ps
+ 6417  docker rm jenkins-Javier
+ 6418  docker stop jenkins-Javier
+ 6419  docker rm jenkins-Javier
+ 6420  docker run -d --name jenkins-Javier -p  8081:8081 jenkins/jenkins
+ 6421  docker ps
+ 6422  docker stop jenkins-Javier
+ 6423  docker rm jenkins-Javier
+ 6424  docker stop jovial_chaplygin
+ 6425  docker rm jovial_chaplygin
+ 6426  docker ps
+ 6427  docker run -d --name jenkins-Javier -p  8080:8080 jenkins/jenkins
+ 6428  docker ps
+ 6429  cat ../ujenkins/key
+ 6430  cat /var/jenkins_home/secrets/initialAdminPassword\n\n
+ 6431  cd /var
+ 6432  ll
+ 6433  ls -altr
+ 6434  cd 
+ 6435  cd Projects
+ 6436  ll
+ 6437  c
+ 6438  ll
+ 6439  ls -altr
+ 6440  cd jenkinsJavierTassi
+ 6441  ll
+ 6442  c
+ 6443  ll
+ 6444  ls
+ 6445  docker ps
+ 6446  docker exec -it jenkins_Javier /bin/sh
+ 6447  docker exec -it jenkins_Javier bash
+ 6448  docker ps
+ 6449  docker exec -it jenkins-Javier bash
+ 6450  c
+ 6451  ll
+ 6452  ls -latr
+ 6453  c
+ 6454  cd ..
+ 6455  lr
+ 6456  ls -altr
+ 6457  cd jenkinsJavierTassi
+ 6458  ll
+ 6459  c
+ 6460  ll
+ 6461  ls -alrt
+ 6462  cat ../
+ 6463  cp ../ujenkins/key .
+ 6464  cat key
+ 6465  pwd
+ 6466  ll
+ 6467  cd /var
+ 6468  ll
+ 6469  ls -altr
+ 6470  cd
+ 6471  ls
+ 6472  ls -altr
+ 6473  cd Projects
+ 6474  ll
+ 6475  c
+ 6476  ll
+ 6477  ls -altr
+ 6478  cd jenkinsJavierTassi
+ 6479  ll
+ 6480  car key
+ 6481  ll
+ 6482  c
+ 6483  cat key
+ 6484  c
+ 6485  ll
+ 6486  ls -al
+ 6487  cp ~/Downloads/holamundo-master.zip .
+ 6488  unzip holamundo-master.zip
+ 6489  ll
+ 6490  cd holamundo-master
+ 6491  ll
+ 6492  mv * .
+ 6493  ll
+ 6494  pwd
+ 6495  ls -al
+ 6496  mv * ../
+ 6497  ls -al
+ 6498  cat .gitignore
+ 6499  mv .gitignore ../
+ 6500  ll
+ 6501  cd ..
+ 6502  rm -rf holamundo-master
+ 6503  ls -al
+ 6504  cat Dockerfile
+ 6505  cat build.groovy
+ 6506  vi build.groovy
+ 6507  ll
+ 6508  cd src
+ 6509  ll
+ 6510  cd main
+ 6511  ll
+ 6512  cd java
+ 6513  ll
+ 6514  cd hello
+ 6515  ll
+ 6516  cat *
+ 6517  ll
+ 6518  cat Greeter.java
+ 6519  cat HelloWorld.java
+ 6520  cd ..
+ 6521  ll
+ 6522  cd ..
+ 6523  l
+ 6524  lcd ..
+ 6525  ll
+ 6526  cd ..
+ 6527  ll
+ 6528  cd ..
+ 6529  ll
+ 6530  vi jb-hello-world-maven-0.2.1.jar
+ 6531  vi pom.xml
+ 6532  ll
+ 6533  cat Dockerfile
+ 6534  cd ..
+ 6535  ll
+ 6536  ls -altr
+ 6537  cd ujenkins
+ 6538  ll
+ 6539  pwd
+ 6540  ls
+ 6541  cat key
+ 6542  ls 
+ 6543  h
+ 6544  h | more
+ 6545  h >> history
+ 6546  vi history
+ 6547  pwd
+ 6548  ll
+ 6549  cd Jenkins-Course-master
+ 6550  ll
+ 6551  more challenge1
+ 6552  cd challenge1
+ 6553  ll
+ 6554  cat Jenkinsfile
+ 6555  ll
+ 6556  pwd
+ 6557  cd ..
+ 6558  ll
+ 6559  cd ..
+ 6560  ll
+ 6561  mkdir jenkins
+ 6562  cd jenk
+ 6563  cd ..
+ 6564  ll
+ 6565  cd jenkins
+ 6566  ll
+ 6567  git init
+ 6568  ll
+ 6569  mkdir anshulc
+ 6570  cd anshulc
+ 6571  cp ~/Downloads/Jenkins_Upgradev3-master.zip .
+ 6572  c
+ 6573  ll
+ 6574  unzip Jenkins_Upgradev3-master.zip
+ 6575  ll
+ 6576  rm Jenkins_Upgradev3-master.zip
+ 6577  cd Jenkins_Upgradev3-master
+ 6578  ll
+ 6579  cd ..
+ 6580  ll
+ 6581  cd ..
+ 6582  ll
+ 6583  mv anshulc/Jenkins_Upgradev3-master .
+ 6584  rm -rf anshulc
+ 6585  mv Jenkins_Upgradev3-master anshulc
+ 6586  cd anshulc
+ 6587  ll
+ 6588  pwd
+ 6589  cat j
+ 6590  cat Jenkinsfile
+ 6591  docker
+ 6592  docker ps
+ 6593  docker stip Jenkins-javier
+ 6594  docker stop Jenkins-javier
+ 6595  docker stop jenkins-Javier
+ 6596  docker ps
+ 6597  h | grep docker
+ 6598  pwd
+ 6599  h | grep docker run
+ 6600  h | grep "docker run"
+ 6601  pwd
+ 6602  docker run -d --name anshulc -p 8080:8080 -v /Users/josemunoz/Projects/jenkins/anshulc:/var/jenkins_home jenkins/jenkins
+ 6603  h >> history
+ 6604  vi history
+ 6605  docker ps
+ 6606  grep exec history
+ 6607  docker exec -it anshulc bash
+ 6608  docker ps -a
+ 6609  docker rm 130 30 b77 bcac
+ 6610  docker ps -a
+ 6611  docker rm d0 479 32
+ 6612  docker ps -a
+ 6613  docker rm df
+ 6614  docker ps -a
+ 6615  c
+ 6616  cp ../../jenkinsJavierTassi/key .
+ 6617  cat 
+ 6618  ll
+ 6619  pwd
+ 6620  cat key
+ 6621  root@localthost  bash
+ 6622  ssh root@localthost 
+ 6623  git --version
+ 6624  mvn --version
+ 6625  cd /usr/lib/
+ 6626  ll
+ 6627  ls
+ 6628  cd ../
+ 6629  ll
+ 6630  cd sbin
+ 6631  ll
+ 6632  ls
+ 6633  c
+ 6634  ll
+ 6635  cd ..
+ 6636  ll
+ 6637  cd bin
+ 6638  ll
+ 6639  ls
+ 6640  cd ..
+ 6641  ll
+ 6642  cd sbin
+ 6643  ll
+ 6644  ls
+ 6645  cd
+ 6646  which jvm
+ 6647  which java
+ 6648  cd /usr/bin/java
+ 6649  cd /usr/
+ 6650  cd bin
+ 6651  ls
+ 6652  pwd
+ 6653  cd
+ 6654  sudo apt-get jvm
+ 6655  sudo brew install openjdk\n
+ 6656  brew install openjdk\n
+ 6657  pwd
+ 6658  which jvm
+ 6659  which java
+ 6660  ll
+ 6661  cd /usr/lib
+ 6662  ll
+ 6663  ls
+ 6664  ls -altr
+ 6665  pwd
+ 6666  cd ../
+ 6667  ls
+ 6668  cd sbin
+ 6669  ll
+ 6670  ls
+ 6671  ls -altr
+ 6672  cd ..
+ 6673  ll
+ 6674  cd local
+ 6675  ls
+ 6676  cd bin
+ 6677  ls
+ 6678  $(brew --prefix openjdk)/bin/java --version\n
+ 6679  which java
+ 6680  cd ../lib
+ 6681  ls
+ 6682  cd docker
+ 6683  ls
+ 6684  ls -al
+ 6685  cd cli-plugins
+ 6686  ll
+ 6687  cd 
+ 6688  c
+ 6689  ll
+ 6690  jvm
+ 6691  java
+ 6692  java --version
+ 6693  java -version
+ 6694  which openjdk
+ 6695  java -help
+ 6696  java -help | more
+ 6697  pwd
+ 6698  which maven
+ 6699  maven
+ 6700  pwd
+ 6701  cd 
+ 6702  ll
+ 6703  cd /usr/share
+ 6704  ll
+ 6705  ls
+ 6706  ls -al mav*
+ 6707  cd
+ 6708  docker ps
+ 6709  cd
+ 6710  cd Projects
+ 6711  cd jenkins
+ 6712  ll
+ 6713  code .
+ 6714  ll
+ 6715  kk
+ 6716  ll
+ 6717  cd anshulc
+ 6718  ll
+ 6719  ls
+ 6720  l
+ 6721  ls
+ 6722  pwd
+ 6723  code .
+ 6724  ll
+ 6725  ls
+ 6726  pwd
+ 6727  cd maven-samples
+ 6728  ls
+ 6729  ll
+ 6730  cd single-module
+ 6731  ll
+ 6732  cd ..
+ 6733  ll
+ 6734  code .
+ 6735  ll
+ 6736  pwd
+ 6737  cd ..
+ 6738  ll
+ 6739  pwd
+ 6740  ll
+ 6741  c
+ 6742  ll
+ 6743  pwd
+ 6744  ll
+ 6745  pwd
+ 6746  c
+ 6747  ll
+ 6748  pwd
+ 6749  cd ..
+ 6750  ll
+ 6751  pwd
+ 6752  docker ps
+ 6753  docker ps -
+ 6754  docker ps -a
+ 6755  docker container ls
+ 6756  docker rm anshulc 
+ 6757  docker stop anshulc 
+ 6758  docker rm anshulc 
+ 6759  docker container ls
+ 6760  docker ps -a
+ 6761  c
+ 6762  pwd
+ 6763  docker pull tomcat:jre8-alpine
+ 6764  ll
+ 6765  ls -al
+ 6766  cd anshulc
+ 6767  ll
+ 6768  cd ..
+ 6769  pwd
+ 6770  ll
+ 6771  cd anshulc/java-tomcat-sample .
+ 6772  cp anshulc/java-tomcat-sample .
+ 6773  cp -r anshulc/java-tomcat-sample .
+ 6774  ll
+ 6775  mv java-tomcat-sample java-tomcat-sample-docker
+ 6776  ll
+ 6777  cd java-tomcat-sample-docker
+ 6778  cd ../anshulc
+ 6779  ll
+ 6780  cd java-tomcat-sample-docker
+ 6781  ll
+ 6782  cd ../
+ 6783  l
+ 6784  lpwd
+ 6785  pwd
+ 6786  cd ../
+ 6787  l
+ 6788  rm -r java-tomcat-sample-docker
+ 6789  cp-r anshulc/java-tomcat-sample-docker .
+ 6790  ll
+ 6791  cp -r anshulc/java-tomcat-sample-docker .
+ 6792  cd java-tomcat-sample-docker
+ 6793  c
+ 6794  ll
+ 6795  code .
+ 6796  pwd
+ 6797  ll
+ 6798  pwd
+ 6799  l
